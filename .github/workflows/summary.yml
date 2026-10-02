@@ -1,27 +1,22 @@
-name: Post AI News
+name: Daily Summary
 
 on:
-  schedule:
-    # زمان‌بند داخلی گیتهاب فعلاً اجرا نمی‌شه؛ زنگ اصلی رو cron-job.org می‌زنه
-    # این عبارت معادل ۰۹:۱۷ تا ۲۳:۱۷ به وقت تهران است (ایران UTC+3:30)
-    - cron: "47 5-20 * * *"
-  # اجرای دستی از پنل GitHub
+  # زمان‌بندی با cron-job.org روی ساعت ۰۰:۳۰ به وقت تهران انجام می‌شود
   workflow_dispatch:
 
-# اجازه آپدیت کردن فایل تاریخچه توی ریپو
+# اجازه آپدیت کردن فایل لاگ روزانه توی ریپو
 permissions:
   contents: write
 
-# جلوی اجرای همزمان دو دوره رو می‌گیره (مثلاً اجرای دستی + زنگ cron-job)
-# اجرای دوم پشت اولی صف می‌شه تا push تاریخچه تداخل نکنه
+# جلوی اجرای همزمان دو خلاصه رو می‌گیره
 concurrency:
-  group: post-news
+  group: daily-summary
   cancel-in-progress: false
 
 jobs:
-  post-news:
+  summary:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: دریافت کد
@@ -36,23 +31,22 @@ jobs:
       - name: نصب کتابخانه‌ها
         run: pip install -r requirements.txt
 
-      - name: اجرای ربات
+      - name: ارسال خلاصه روز
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+        run: python summary.py
 
-      - name: ذخیره تاریخچه خبرهای پست‌شده
+      - name: ذخیره وضعیت خلاصه
         run: |
           git config user.name "amirreza-m12"
           git config user.email "297484386+amirreza-m12@users.noreply.github.com"
-          git add posted_history.json
           git add daily 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "تغییری نداشت"
           else
-            git commit -m "chore: update posted history"
+            git commit -m "chore: mark daily summary as sent"
             git pull --rebase origin main || git rebase --abort || true
             git push
           fi

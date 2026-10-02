@@ -12,6 +12,13 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
+# آیدی عمومی کانال که داخل همه پست‌ها درج می‌شود (بخش HTML نیست، لینک خودکار تلگرام)
+CHANNEL_HANDLE = "@eyaineUUs"
+
+# ساعت کاری ربات به وقت ایران: فقط بین این دو ساعت پست عادی می‌رود
+POSTING_START_HOUR = 9
+POSTING_END_HOUR = 23  # آخرین پست ساعت ۲۳:۱۷
+
 # آیدی عددی صاحب ربات — فقط اون می‌تونه دستور بده
 TELEGRAM_OWNER_ID = os.getenv("TELEGRAM_OWNER_ID")
 

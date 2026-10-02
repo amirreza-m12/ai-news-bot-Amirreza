@@ -6,6 +6,8 @@ from history import load_history, save_history, filter_new_news, mark_posted
 from scorer import rank_news, category_hashtag
 from translator import translate_news
 from telegram_bot import send_message
+from config.settings import CHANNEL_HANDLE
+from daily_log import add_item
 from logger import get_logger
 
 logger = get_logger("main")
@@ -40,7 +42,8 @@ def format_post(news, translated):
         f"{translated['summary']}\n\n"
         f"📰 منبع: {news['source']}\n"
         f"🔗 <a href=\"{news['link']}\">متن کامل خبر</a>\n\n"
-        f"{tags}"
+        f"{tags}\n\n"
+        f"کانال: {CHANNEL_HANDLE}"
     )
 
 
@@ -121,6 +124,17 @@ def _run_pipeline():
         # بلافاصله ذخیره کن تا با اجرای بعدی تکرار نشه
         mark_posted(item, history)
         save_history(history)
+
+        # برای خلاصه پایان روز هم ثبتش کن
+        add_item(
+            {
+                "title": translated["title"],
+                "source": item["source"],
+                "link": item["link"],
+                "category": item.get("category", ""),
+                "importance": item.get("importance", 0),
+            }
+        )
 
         posted += 1
         logger.info("ارسال شد: %s", translated["title"])
