@@ -8,14 +8,14 @@ from logger import get_logger
 
 logger = get_logger("translator")
 
-# ترتیب اهمیت داره: اول مدل‌های پرحجم‌تر، بعد مدل‌های سبک‌تر به عنوان پشتیبان
+# ترتیب اهمیت داره: اول مدل‌های سبک و پرحجم (سهمیه بیشتر و خطای کمتر)
 MODELS = (
+    "gemini-flash-lite-latest",
+    "gemini-3.5-flash-lite",
     "gemini-flash-latest",
     "gemini-3.8-flash",
     "gemini-3.7-flash",
     "gemini-3.5-flash",
-    "gemini-flash-lite-latest",
-    "gemini-3.5-flash-lite",
 )
 
 SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایرانی هستی که اخبار هوش مصنوعی را برای کانال تلگرامی فارسی‌زبان آماده می‌کنی.
@@ -38,7 +38,7 @@ SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایرانی هست�
 RETRYABLE = ("high demand", "overloaded", "rate limit", "try again")
 
 
-def _call_model(model, user_prompt, max_retries=3):
+def _call_model(model, user_prompt, max_retries=2):
     """به یه مدل خاص وصل می‌شه؛ اگه خطا داد چند بار دوباره تلاش می‌کنه."""
     url = (
         "https://generativelanguage.googleapis.com/v1beta"
