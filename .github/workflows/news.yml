@@ -3,7 +3,7 @@ name: Post AI News
 on:
   schedule:
     # هر ۲۰ دقیقه — زمان‌ها به وقت UTC هستن
-    - cron: "*/20 * * * *"
+    - cron: "46 11 * * *"
   # اجرای دستی از پنل GitHub
   workflow_dispatch:
 
@@ -38,8 +38,8 @@ jobs:
 
       - name: ذخیره تاریخچه خبرهای پست‌شده
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "amirreza-m12"
+          git config user.email "297484386+amirreza-m12@users.noreply.github.com"
           git add posted_history.json
           if git diff --cached --quiet; then
             echo "تغییری نداشت"
