@@ -1,3 +1,5 @@
+import calendar
+
 import requests
 import feedparser
 
@@ -7,6 +9,14 @@ from logger import get_logger
 logger = get_logger("fetcher")
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+
+def entry_time(entry):
+    """زمان انتشار خبر رو به ثانیه از ۱۹۷۰ تبدیل می‌کنه (۰ یعنی نامشخص)."""
+    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
+    if not parsed:
+        return 0.0
+    return float(calendar.timegm(parsed))
 
 
 def fetch_feed(url):
@@ -29,6 +39,7 @@ def get_latest_news(limit_per_feed=5):
                     "link": entry.get("link") or "",
                     "summary": entry.get("summary") or "",
                     "source": source,
+                    "published": entry_time(entry),
                 })
         except Exception as error:
             logger.warning("دریافت فید %s ناموفق: %s", source, type(error).__name__)

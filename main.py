@@ -3,26 +3,38 @@ import time
 
 from fetcher import get_latest_news
 from history import load_history, save_history, filter_new_news, mark_posted
+from scorer import rank_news
 from translator import translate_news
 from telegram_bot import send_message
 from logger import get_logger
 
 logger = get_logger("main")
 
-# تعداد پست در هر اجرا
-MAX_POSTS_PER_RUN = 3
+# تعداد پست در هر اجرا (یک اجرا در هر ساعت)
+MAX_POSTS_PER_RUN = 5
 
-# فاصله بین ترجمه‌ها تا به سهمیه دقیقه‌ای نخوریم
-TRANSLATE_GAP = 15  # ثانیه
+# حداکثر خبری که در هر اجرا امتیازدهی می‌شه
+SCORING_LIMIT = 15
+
+# فاصله بین فراخوانی‌ها تا به سهمیه دقیقه‌ای نخوریم
+TRANSLATE_GAP = 10  # ثانیه
 
 # قفل: جلوی اجرای همزمان دو دوره رو می‌گیره
 _run_lock = threading.Lock()
+
+# امتیازی که از این بالاتر باشه، نشان «خبر ویژه» می‌گیره
+SPECIAL_THRESHOLD = 8
 
 
 def format_post(news, translated):
     """پست نهایی تلگرام رو می‌سازه."""
     tags = " ".join(translated["hashtags"])
+    category = news.get("category", "")
+    special = " ⭐" if news.get("importance", 0) >= SPECIAL_THRESHOLD else ""
+    header = f"🗂 <b>{category}</b>{special}\n\n" if category else ""
+
     return (
+        f"{header}"
         f"🔸 <b>{translated['title']}</b>\n\n"
         f"{translated['summary']}\n\n"
         f"📰 منبع: {news['source']}\n"
@@ -47,16 +59,48 @@ def _run_pipeline():
     history = load_history()
     logger.info("تاریخچه قبلی: %s لینک", len(history["links"]))
 
-    news = get_latest_news(limit_per_feed=5)
+    news = get_latest_news(limit_per_feed=8)
     new_news = filter_new_news(news, history)
+    new_news = [item for item in new_news if item["title"] and item["link"]]
     logger.info("کل اخبار: %s | خبر تازه: %s", len(news), len(new_news))
 
-    posted = 0
-    for item in new_news[:MAX_POSTS_PER_RUN]:
-        if not item["title"] or not item["link"]:
-            continue
+    if not new_news:
+        logger.info("خبر تازه‌ای نبود")
+        return 0
 
-        logger.info("ترجمه: %s", item["title"][:70])
+    # اولویت با تازه‌ترین خبرهاست تا اخبار قدیمی از دست نرن
+    new_news.sort(key=lambda item: item["published"], reverse=True)
+    candidates = new_news[:SCORING_LIMIT]
+
+    # مرحله ۱: امتیازدهی و دسته‌بندی همه کاندیداها با یک فراخوانی
+    logger.info("امتیازدهی %s خبر...", len(candidates))
+    rank_news(candidates)
+    candidates.sort(key=lambda item: item["importance"], reverse=True)
+    logger.info(
+        "بالاترین امتیاز: %s | دسته: %s",
+        candidates[0]["importance"],
+        candidates[0]["category"],
+    )
+
+    selected = candidates[:MAX_POSTS_PER_RUN]
+    skipped = candidates[MAX_POSTS_PER_RUN:]
+
+    # اخباری که انتخاب نشدن دیگه امتیاز نمی‌گیرن
+    for item in skipped:
+        mark_posted(item, history)
+    if skipped:
+        save_history(history)
+        logger.info("%s خبر کم‌اهمیت کنار گذاشته شد", len(skipped))
+
+    # مرحله ۲: ترجمه و ارسال مهم‌ترین‌ها
+    posted = 0
+    for item in selected:
+        logger.info(
+            "ترجمه (امتیاز %s، %s): %s",
+            item["importance"],
+            item["category"],
+            item["title"][:60],
+        )
         try:
             translated = translate_news(
                 title=item["title"],

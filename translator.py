@@ -18,7 +18,10 @@ MODELS = (
     "gemini-3.5-flash",
 )
 
-SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایرانی هستی که اخبار هوش مصنوعی را برای کانال تلگرامی فارسی‌زبان آماده می‌کنی.
+# خطاهایی که با چند بار تلاش مجدد درست میشن (خطای روزانه عمداً توش نیست)
+RETRYABLE = ("high demand", "overloaded", "rate limit", "try again")
+
+TRANSLATE_SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایرانی هستی که اخبار هوش مصنوعی را برای کانال تلگرامی فارسی‌زبان آماده می‌کنی.
 
 قوانین الزامی:
 - ترجمه باید کاملاً روان، طبیعی و بدون هیچ‌گونه لغزش دستوری باشد.
@@ -34,18 +37,28 @@ SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایرانی هست�
   "hashtags": ["سه تا هشتگ فارسی یا انگلیسی مرتبط"]
 }"""
 
-# خطاهایی که با چند بار تلاش مجدد درست میشن (خطای روزانه عمداً توش نیست)
-RETRYABLE = ("high demand", "overloaded", "rate limit", "try again")
+
+def call_gemini(system_prompt, user_prompt, max_retries=2):
+    """یه درخواست به Gemini می‌فرسته و بین مدل‌های مختلف جابه‌جا می‌شه."""
+    last_error = None
+    for model in MODELS:
+        try:
+            return _call_model(model, system_prompt, user_prompt, max_retries)
+        except RuntimeError as error:
+            last_error = error
+            logger.warning("مدل بعدی (%s): %s", model, error)
+            continue
+    raise RuntimeError(f"هیچ مدلی جواب نداد — آخرین خطا: {last_error}")
 
 
-def _call_model(model, user_prompt, max_retries=2):
+def _call_model(model, system_prompt, user_prompt, max_retries=2):
     """به یه مدل خاص وصل می‌شه؛ اگه خطا داد چند بار دوباره تلاش می‌کنه."""
     url = (
         "https://generativelanguage.googleapis.com/v1beta"
         f"/models/{model}:generateContent"
     )
     payload = {
-        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "system_instruction": {"parts": [{"text": system_prompt}]},
         "contents": [{"parts": [{"text": user_prompt}]}],
         "generationConfig": {
             "temperature": 0.7,
@@ -113,14 +126,4 @@ def _call_model(model, user_prompt, max_retries=2):
 def translate_news(title, summary, source):
     """خبر انگلیسی رو به پست فارسی تبدیل می‌کنه."""
     user_prompt = f"منبع: {source}\n\nتیتر خبر:\n{title}\n\nمتن خبر:\n{summary}"
-
-    last_error = None
-    for model in MODELS:
-        try:
-            return _call_model(model, user_prompt)
-        except RuntimeError as error:
-            last_error = error
-            logger.warning("مدل بعدی (%s): %s", model, error)
-            continue
-
-    raise RuntimeError(f"هیچ مدلی جواب نداد — آخرین خطا: {last_error}")
+    return call_gemini(TRANSLATE_SYSTEM_PROMPT, user_prompt)
