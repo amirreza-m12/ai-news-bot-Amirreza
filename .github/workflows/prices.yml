@@ -1,0 +1,35 @@
+name: Post Prices
+
+on:
+  schedule:
+    # ۹ صبح، ۱۲ ظهر، ۱۸ عصر و ۲۲ شب به وقت ایران
+    # ایران UTC+3:30 است، پس ۰۹:۰۰ ← ۰۵:۳۰ UTC
+    - cron: "30 5,8,14,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  post-prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: دریافت کد
+        uses: actions/checkout@v4
+
+      - name: نصب پایتون
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: نصب کتابخانه‌ها
+        run: pip install -r requirements.txt
+
+      - name: ارسال قیمت‌ها
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: python prices.py
