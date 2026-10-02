@@ -14,10 +14,12 @@
     "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
     "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
     "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
+    "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end",
     "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b",
     "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash"
   ],
   "titles": [
+    "a coding guide to google research’s kauldron: configs that are plain data, components wired by string, and a jax trainer you can read end to end",
     "aws strands labs releases strands decider 2b: an open source decision model that picks options in about 115 ms",
     "cloudflare releases clef and clef-flash: open-weight decision models that return typed probabilities instead of text",
     "trump plan to combat ai risks hinges on big tech pals policing themselves",
