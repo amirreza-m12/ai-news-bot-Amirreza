@@ -1,0 +1,17 @@
+name: Cron Ping
+
+on:
+  schedule:
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: فقط یه پیام ساده
+        run: echo "cron works!"
