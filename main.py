@@ -3,7 +3,7 @@ import time
 
 from fetcher import get_latest_news
 from history import load_history, save_history, filter_new_news, mark_posted
-from scorer import rank_news
+from scorer import rank_news, category_hashtag
 from translator import translate_news
 from telegram_bot import send_message
 from logger import get_logger
@@ -31,7 +31,8 @@ def format_post(news, translated):
     tags = " ".join(translated["hashtags"])
     category = news.get("category", "")
     special = " ⭐" if news.get("importance", 0) >= SPECIAL_THRESHOLD else ""
-    header = f"🗂 <b>{category}</b>{special}\n\n" if category else ""
+    hashtag = category_hashtag(news.get("category", ""))
+    header = f"{hashtag}{special}\n\n" if hashtag else ""
 
     return (
         f"{header}"

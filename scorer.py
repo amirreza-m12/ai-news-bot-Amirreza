@@ -42,6 +42,13 @@ RANK_SYSTEM_PROMPT = """تو ویرایشگر خبر یک کانال تلگرا�
 ]"""
 
 
+def category_hashtag(category):
+    """دسته رو تبدیل به هشتگ قابل جستجو می‌کنه: «مدل‌های جدید» ← «#مدل_های_جدید»"""
+    text = (category or "").replace("\u200c", " ").strip()
+    text = "_".join(text.split())
+    return f"#{text}" if text else ""
+
+
 def _clean_category(value):
     """دسته رو به یکی از دسته‌های معتبر نزدیک می‌کنه."""
     if not isinstance(value, str):
