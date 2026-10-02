@@ -2,8 +2,8 @@ name: Post AI News
 
 on:
   schedule:
-    # هر ساعت — دقیقه ۱۷ به‌عمد، چون شروع ساعت پرترافیک‌ه و ممکنه عقب بیفته
-    # زمان به وقت UTC هست
+    # زمان‌بند داخلی گیتهاب فعلاً اجرا نمی‌شه؛ زنگ اصلی رو cron-job.org می‌زنه
+    # (این خط به‌عنوان پشتیبان باقی می‌مونه اگه دوباره فعال شد)
     - cron: "17 * * * *"
   # اجرای دستی از پنل GitHub
   workflow_dispatch:
@@ -11,6 +11,12 @@ on:
 # اجازه آپدیت کردن فایل تاریخچه توی ریپو
 permissions:
   contents: write
+
+# جلوی اجرای همزمان دو دوره رو می‌گیره (مثلاً اجرای دستی + زنگ cron-job)
+# اجرای دوم پشت اولی صف می‌شه تا push تاریخچه تداخل نکنه
+concurrency:
+  group: post-news
+  cancel-in-progress: false
 
 jobs:
   post-news:
@@ -46,5 +52,6 @@ jobs:
             echo "تغییری نداشت"
           else
             git commit -m "chore: update posted history"
+            git pull --rebase origin main || git rebase --abort || true
             git push
           fi
