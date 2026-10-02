@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "راهنمای جامع خانواده مدل‌های GPT-6",
+      "source": "openai.com",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "تحقیقات پرخطر هوش مصنوعی در آگاهی عموم",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تحول هوش مصنوعی سازمانی با سیستم‌های خودمختار",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    }
+  ]
+}
