@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-03",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی پلتفرم هوش مصنوعی جدید اوپن‌آی به نام Dots",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "محدودیت دسترسی مک به دیسک به خاطر خطرات هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "دردسر جدید آگاه‌سازی آمازون درباره مراکز داده",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
+    }
+  ]
+}
