@@ -41,6 +41,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ROUTER_BASE_URL: ${{ secrets.ROUTER_BASE_URL }}
+          ROUTER_API_KEY: ${{ secrets.ROUTER_API_KEY }}
+          ROUTER_MODEL: ${{ secrets.ROUTER_MODEL }}
         run: python main.py
 
       - name: ذخیره تاریخچه خبرهای پست‌شده

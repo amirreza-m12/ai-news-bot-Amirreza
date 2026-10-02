@@ -1,19 +1,28 @@
 import threading
 import time
+from datetime import datetime
 
 from fetcher import get_latest_news
 from history import load_history, save_history, filter_new_news, mark_posted
 from scorer import rank_news, category_hashtag
 from translator import translate_news
 from telegram_bot import send_message
-from config.settings import CHANNEL_HANDLE
-from daily_log import add_item
+from config.settings import CHANNEL_HANDLE, NEWS_CUTOFF_DATE
+from daily_log import TEHRAN_TZ, add_item
 from logger import get_logger
 
 logger = get_logger("main")
 
 # تعداد پست در هر اجرا (یک اجرا در هر ساعت)
-MAX_POSTS_PER_RUN = 5
+MAX_POSTS_PER_RUN = 3
+
+# اگر خبر خیلی مهمِ چهارمی وجود داشته باشد، اجازه دارد یک پست اضافه بزند
+MAX_POSTS_BURST = 4
+
+# خبرهای قدیمی‌تر از این تاریخ (به وقت تهران) اصلاً بررسی نمی‌شوند
+NEWS_CUTOFF = (
+    datetime.strptime(NEWS_CUTOFF_DATE, "%Y-%m-%d").replace(tzinfo=TEHRAN_TZ).timestamp()
+)
 
 # حداکثر خبری که در هر اجرا امتیازدهی می‌شه
 SCORING_LIMIT = 15
@@ -66,6 +75,14 @@ def _run_pipeline():
     news = get_latest_news(limit_per_feed=8)
     new_news = filter_new_news(news, history)
     new_news = [item for item in new_news if item["title"] and item["link"]]
+
+    # خبرهای قدیمی‌تر از تاریخ مرز اصلاً بررسی نمی‌شوند
+    before_cutoff = len(new_news)
+    new_news = [item for item in new_news if item.get("published", 0) >= NEWS_CUTOFF]
+    dropped = before_cutoff - len(new_news)
+    if dropped:
+        logger.info("%s خبر قدیمی‌تر از %s نادیده گرفته شد", dropped, NEWS_CUTOFF_DATE)
+
     logger.info("کل اخبار: %s | خبر تازه: %s", len(news), len(new_news))
 
     if not new_news:
@@ -86,8 +103,16 @@ def _run_pipeline():
         candidates[0]["category"],
     )
 
+    # پیش‌فرض ۳ پست در ساعت؛ اگر چهارمین خبر هم «خیلی مهم» باشد، چهارم هم می‌رود
     selected = candidates[:MAX_POSTS_PER_RUN]
-    skipped = candidates[MAX_POSTS_PER_RUN:]
+    overflow = candidates[MAX_POSTS_PER_RUN:MAX_POSTS_BURST]
+    if overflow and overflow[0].get("importance", 0) >= SPECIAL_THRESHOLD:
+        selected = candidates[:MAX_POSTS_BURST]
+        logger.info(
+            "خبر خیلی مهمِ چهارمی دیده شد؛ سقف این ساعت به %s پست رسید",
+            MAX_POSTS_BURST,
+        )
+    skipped = candidates[len(selected):]
 
     # اخباری که انتخاب نشدن دیگه امتیاز نمی‌گیرن
     for item in skipped:

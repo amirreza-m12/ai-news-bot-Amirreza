@@ -3,7 +3,13 @@ import time
 
 import requests
 
-from config.settings import GEMINI_API_KEY
+from config.settings import (
+    GEMINI_API_KEY,
+    ROUTER_API_KEY,
+    ROUTER_BASE_URL,
+    ROUTER_MODEL,
+    use_router,
+)
 from logger import get_logger
 
 logger = get_logger("translator")
@@ -39,7 +45,10 @@ TRANSLATE_SYSTEM_PROMPT = """تو یک خبرنگار حرفه‌ای ایران
 
 
 def call_gemini(system_prompt, user_prompt, max_retries=2):
-    """یه درخواست به Gemini می‌فرسته و بین مدل‌های مختلف جابه‌جا می‌شه."""
+    """یه درخواست به مدل می‌فرسته؛ اگر روتر تنظیم شده باشد از آن استفاده می‌کند."""
+    if use_router():
+        return _call_router(system_prompt, user_prompt, max_retries)
+
     last_error = None
     for model in MODELS:
         try:
@@ -49,6 +58,100 @@ def call_gemini(system_prompt, user_prompt, max_retries=2):
             logger.warning("مدل بعدی (%s): %s", model, error)
             continue
     raise RuntimeError(f"هیچ مدلی جواب نداد — آخرین خطا: {last_error}")
+
+
+def parse_json_text(text):
+    """JSON را از خروجی مدل بیرون می‌کشد؛ با متن اضافه یا بلوک کد هم کنار می‌آید."""
+    text = (text or "").strip()
+
+    if text.startswith("```"):
+        text = text.strip("`")
+        if text.lower().startswith("json"):
+            text = text[4:]
+        text = text.strip()
+
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+
+    starts = [i for i in (text.find("{"), text.find("[")) if i != -1]
+    if not starts:
+        raise json.JSONDecodeError("no json", text, 0)
+
+    start = min(starts)
+    end = text.rfind("}" if text[start] == "{" else "]")
+    if end <= start:
+        raise json.JSONDecodeError("no json", text, start)
+    return json.loads(text[start:end + 1])
+
+
+def _call_router(system_prompt, user_prompt, max_retries=2):
+    """درخواست به یک سرویس OpenAI-compatible مثل 9Router."""
+    url = f"{ROUTER_BASE_URL}/chat/completions"
+    headers = {"Content-Type": "application/json"}
+    if ROUTER_API_KEY:
+        headers["Authorization"] = f"Bearer {ROUTER_API_KEY}"
+
+    payload = {
+        "model": ROUTER_MODEL,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        "temperature": 0.7,
+    }
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=90)
+        except requests.RequestException as error:
+            wait = 2**attempt
+            logger.warning(
+                "روتر تلاش %s/%s قطع ارتباط، %ss صبر (%s)",
+                attempt, max_retries, wait, type(error).__name__,
+            )
+            time.sleep(wait)
+            continue
+
+        if response.status_code in (401, 403):
+            raise RuntimeError(f"روتر دسترسی را رد کرد (HTTP {response.status_code})")
+
+        try:
+            data = response.json()
+        except ValueError:
+            data = None
+
+        if data is None or "error" in data:
+            message = ""
+            if data is not None and isinstance(data.get("error"), dict):
+                message = data["error"].get("message", "")
+            elif data is not None:
+                message = str(data.get("error", ""))
+
+            retryable = response.status_code in (408, 429, 500, 502, 503, 504) or any(
+                x in message.lower() for x in RETRYABLE
+            )
+            if retryable:
+                wait = 2**attempt
+                logger.warning(
+                    "روتر تلاش %s/%s ناموفق (HTTP %s)، %ss صبر",
+                    attempt, max_retries, response.status_code, wait,
+                )
+                time.sleep(wait)
+                continue
+
+            raise RuntimeError(
+                f"خطای روتر ({ROUTER_MODEL}): {message or f'HTTP {response.status_code}'}"
+            )
+
+        try:
+            text = data["choices"][0]["message"]["content"]
+            return parse_json_text(text)
+        except (KeyError, IndexError, json.JSONDecodeError) as error:
+            raise RuntimeError(f"خروجی روتر قابل فهم نبود: {type(error).__name__}")
+
+    raise RuntimeError(f"روتر ({ROUTER_MODEL}) بعد از {max_retries} تلاش جواب نداد")
 
 
 def _call_model(model, system_prompt, user_prompt, max_retries=2):
@@ -116,7 +219,7 @@ def _call_model(model, system_prompt, user_prompt, max_retries=2):
 
         try:
             text = data["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(text)
+            return parse_json_text(text)
         except (KeyError, IndexError, json.JSONDecodeError) as error:
             raise RuntimeError(f"خروجی مدل قابل فهم نبود: {type(error).__name__}")
 

@@ -19,6 +19,21 @@ CHANNEL_HANDLE = "@eyaineUUs"
 POSTING_START_HOUR = 9
 POSTING_END_HOUR = 23  # آخرین پست ساعت ۲۳:۱۷
 
+# خبرهای قدیمی‌تر از این تاریخ اصلاً بررسی نمی‌شوند (به وقت تهران)
+NEWS_CUTOFF_DATE = "2026-10-01"
+
+# اگر هر دوی اینها پر شوند، درخواست‌ها به جای API مستقیم گوگل به این سرویس
+# OpenAI-compatible (مثلاً 9Router) می‌رود. خالی باشد = مستقیم گوگل.
+ROUTER_BASE_URL = os.getenv("ROUTER_BASE_URL", "").rstrip("/")
+ROUTER_API_KEY = os.getenv("ROUTER_API_KEY", "")
+ROUTER_MODEL = os.getenv("ROUTER_MODEL", "")
+
+
+def use_router():
+    """آیا باید از روتر (9Router و غیره) استفاده کرد؟"""
+    return bool(ROUTER_BASE_URL and ROUTER_MODEL)
+
+
 # آیدی عددی صاحب ربات — فقط اون می‌تونه دستور بده
 TELEGRAM_OWNER_ID = os.getenv("TELEGRAM_OWNER_ID")
 
