@@ -127,6 +127,13 @@
       "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "آسیب‌پذیری خطرناک گیت‌لب زیر حملات هکرها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
