@@ -4,7 +4,7 @@ from datetime import datetime
 
 from fetcher import get_latest_news
 from history import load_history, save_history, filter_new_news, mark_posted
-from scorer import rank_news, category_hashtag
+from scorer import rank_news, category_hashtag, drop_duplicate_stories, recent_posted_titles
 from translator import translate_news
 from telegram_bot import send_message
 from config.settings import CHANNEL_HANDLE, NEWS_CUTOFF_DATE
@@ -95,7 +95,14 @@ def _run_pipeline():
 
     # مرحله ۱: امتیازدهی و دسته‌بندی همه کاندیداها با یک فراخوانی
     logger.info("امتیازدهی %s خبر...", len(candidates))
-    rank_news(candidates)
+    rank_news(candidates, recent_titles=recent_posted_titles())
+
+    # خبرهایی که از چند خبرگزاری درباره یک رویداد آمده، فقط یکی‌شان می‌ماند
+    candidates = drop_duplicate_stories(candidates)
+    if not candidates:
+        logger.info("همه کاندیداها هم‌رویداد یا قبلاً پست شده بودن؛ پستی ارسال نشد")
+        return 0
+
     candidates.sort(key=lambda item: item["importance"], reverse=True)
     logger.info(
         "بالاترین امتیاز: %s | دسته: %s",

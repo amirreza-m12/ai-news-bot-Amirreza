@@ -1,6 +1,7 @@
 """رتبه‌بندی اخبار بر اساس اهمیت و دسته‌بندی — با یک فراخوانی مدل برای همه خبرها."""
 
 from translator import call_gemini
+from daily_log import day_key, load_day, previous_day
 from logger import get_logger
 
 logger = get_logger("scorer")
@@ -31,14 +32,23 @@ RANK_SYSTEM_PROMPT = """تو ویرایشگر خبر یک کانال تلگرا�
 دسته‌ها (دقیقاً یکی از همین‌ها):
 «مدل‌های جدید»، «پژوهش و تحقیقات»، «محصولات و شرکت‌ها»، «ابزارها و توسعه‌دهندگان»، «قوانین و اخلاق»، «کسب‌وکار و سرمایه‌گذاری»، «کاربرد و زندگی روزمره»
 
+تشخیص خبر تکراری (خیلی مهم):
+- گاهی یک رویداد واحد را چند خبرگزاری مختلف پوشش می‌دهند. فقط باید یکی از آن‌ها پست شود.
+- اگر خبر i درباره همان رویداد خبر j است (منبع یا زاویه فرق داشته باشد ولی رویداد یکی باشد)،
+  «duplicate_of» خبری که باید حذف شود را شناسهٔ خبر نگه‌داشته‌شده بگذار.
+- در هر گروه از یک رویداد دقیقاً یک خبر باید duplicate_of برابر null داشته باشد (ترجیحاً تازه‌ترین).
+- اگر خبر i همان رویداد یکی از عناوین «قبلاً پست شده» در ابتدای پرامپت است، duplicate_of آن را -۱ بگذار.
+- دو خبر کاملاً جداگانه را تکراری حساب نکن؛ فقط وقتی دقیقاً یک رویداد باشند.
+
 خروجی باید دقیقاً یک آرایه JSON باشد:
 - تعداد آیتم‌ها باید دقیقاً برابر تعداد اخبار ورودی باشد
 - شناسه‌ها (id) باید دقیقاً همان‌هایی باشند که ورودی داده‌ای
 - هیچ شناسه‌ای را جا نینداز و تکرار نکن
 
 [
-  {"id": 1, "category": "مدل‌های جدید", "importance": 9},
-  {"id": 2, "category": "کاربرد و زندگی روزمره", "importance": 4}
+  {"id": 1, "category": "مدل‌های جدید", "importance": 9, "duplicate_of": null},
+  {"id": 2, "category": "کسب‌وکار و سرمایه‌گذاری", "importance": 6, "duplicate_of": 1},
+  {"id": 3, "category": "ابزارها و توسعه‌دهندگان", "importance": 7, "duplicate_of": -1}
 ]"""
 
 
@@ -69,10 +79,78 @@ def _clean_importance(value):
     return max(1, min(10, number))
 
 
-def rank_news(items, batch_size=20):
+def _clean_duplicate_of(value):
+    """مقدار duplicate_of رو به شناسهٔ صحیح یا None تبدیل می‌کنه.
+
+    -1 یعنی «این خبر قبلاً پست شده»، شناسهٔ مثبت یعنی «با این خبر هم‌رویداد است».
+    """
+    if value is None or isinstance(value, bool):
+        return None
+    try:
+        return int(float(value))
+    except (TypeError, ValueError):
+        return None
+
+
+def recent_posted_titles(days=2, limit=40):
+    """تیتر پست‌های چند روز اخیر، از تازه‌ترین به قدیمی، برای تشخیص تکراری."""
+    titles = []
+    key = day_key()
+    for _ in range(days):
+        for item in load_day(key).get("items", []):
+            title = (item.get("title") or "").strip()
+            if title:
+                titles.append(title)
+        key = previous_day(key)
+    return titles[:limit]
+
+
+def drop_duplicate_stories(items):
+    """خبرهای هم‌رویداد را حذف می‌کنه و فقط یکی از هر رویداد نگه می‌داره.
+
+    باید بعد از rank_news صدا زده بشه، چون به مقدار duplicate_of نیاز داره.
+    """
+    if not items:
+        return items
+
+    count = len(items)
+    refs = []
+    for item in items:
+        ref = item.get("duplicate_of")
+        refs.append(ref if isinstance(ref, int) and not isinstance(ref, bool) else None)
+
+    def root_of(start):
+        """شناسهٔ خبری که باید نگه داشته بشه رو پیدا می‌کنه (زنجیره رو دنبال می‌کنه)."""
+        path = []
+        index = start
+        while True:
+            if index in path:  # مدل زنجیرهٔ حلقه‌ای ساخته؛ کوتاه‌ترین راه نگه می‌داریم
+                return min(path)
+            path.append(index)
+            ref = refs[index]
+            if ref is None:
+                return index
+            if ref == -1:  # قبلاً پست شده
+                return None
+            if not 0 <= ref < count:
+                return index
+            index = ref
+
+    kept = []
+    for index in range(count):
+        if root_of(index) == index:
+            kept.append(items[index])
+
+    dropped = count - len(kept)
+    if dropped:
+        logger.info("%s خبر هم‌رویداد یا قبلاً پست‌شده کنار رفت", dropped)
+    return kept
+
+
+def rank_news(items, batch_size=20, recent_titles=()):
     """به همه اخبار امتیاز و دسته میده. آرایه‌ای با همان ترتیب برمی‌گردونه.
 
-    هر آیتم خروجی: {"category": str, "importance": int}
+    هر آیتم خروجی: {"category": str, "importance": int, "duplicate_of": int|None}
     """
     if not items:
         return []
@@ -91,9 +169,17 @@ def rank_news(items, batch_size=20):
                 f"   خلاصه: {summary}"
             )
 
-        user_prompt = (
-            "اخبار زیر را امتیازدهی و دسته‌بندی کن:\n\n" + "\n".join(lines)
+        sections = []
+        if recent_titles:
+            posted_lines = "\n".join(f"- {title}" for title in recent_titles)
+            sections.append(
+                "عناوینی که قبلاً در کانال پست شده‌اند:\n" + posted_lines
+            )
+        sections.append(
+            "اخبار زیر را امتیازدهی، دسته‌بندی و تشخیص تکراری کن:\n\n"
+            + "\n".join(lines)
         )
+        user_prompt = "\n\n".join(sections)
 
         try:
             result = call_gemini(RANK_SYSTEM_PROMPT, user_prompt, max_retries=2)
@@ -121,6 +207,7 @@ def rank_news(items, batch_size=20):
             scores[index] = {
                 "category": _clean_category(entry.get("category")),
                 "importance": _clean_importance(entry.get("importance")),
+                "duplicate_of": _clean_duplicate_of(entry.get("duplicate_of")),
             }
             found += 1
 
@@ -132,8 +219,10 @@ def rank_news(items, batch_size=20):
             scores[index] = {
                 "category": DEFAULT_CATEGORY,
                 "importance": DEFAULT_IMPORTANCE,
+                "duplicate_of": None,
             }
         item["category"] = scores[index]["category"]
         item["importance"] = scores[index]["importance"]
+        item["duplicate_of"] = scores[index]["duplicate_of"]
 
     return scores
