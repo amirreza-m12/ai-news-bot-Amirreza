@@ -92,6 +92,13 @@
       "link": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مقایسه الگوریتم‌های بهینه‌سازی SGD و Adam",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sgd-vs-adam-how-machine-learning-optimizers-actually-learn/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
