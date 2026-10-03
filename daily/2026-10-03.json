@@ -113,6 +113,20 @@
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "نگرانی‌های حریم خصوصی با ربات هوش مصنوعی متا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "نابودی مکالمات واقعی با ایمیل‌های هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
