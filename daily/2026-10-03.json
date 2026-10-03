@@ -22,6 +22,34 @@
       "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "متا کدهای هوش مصنوعی Muse را رایگان منتشر می‌کند",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "اپل دسترسی کامل به دیسک را محدود می‌کند",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "متا ابزارهای ساخت سخت‌افزار هوش مصنوعی را متن‌باز کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-open-sources-muse-gadget-sdks-for-diy-ai-hardware-devices/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "متا کدهای ابزار هوش مصنوعی Muse را منتشر کرد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
