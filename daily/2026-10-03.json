@@ -99,6 +99,20 @@
       "link": "https://www.unite.ai/sgd-vs-adam-how-machine-learning-optimizers-actually-learn/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "استعفای کارشناس ایمنی OpenAI و هشدار درباره خطرات",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "دستیارهای هوش مصنوعی پیام‌رسان‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
