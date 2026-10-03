@@ -50,6 +50,34 @@
       "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "مایکروسافت مدل جدید تبدیل گفتار به متن را عرضه کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "وقتی هوش مصنوعی پیش‌قدم می‌شود!",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "عرضه پلتفرم آی‌بی‌ام باب برای محیط‌های ایزوله",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "عرضه پرایم اینفرنس برای مدل‌های هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
