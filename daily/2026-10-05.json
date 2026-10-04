@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "مقایسه غول‌های هوش مصنوعی؛ کدام مدل به کار شما می‌آید؟",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "استعفای مدیر ایمنی اوپن‌ای‌آی به دلیل فرهنگ سازمانی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تعلیق برنامه‌های جایزه باگ گوگل به دلیل هجوم مطالب هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    }
+  ]
+}
