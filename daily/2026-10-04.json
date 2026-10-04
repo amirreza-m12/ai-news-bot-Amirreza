@@ -29,6 +29,20 @@
       "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل کلوبری؛ غول ۷۸ میلیاردی آلفف آلفا",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "انتقال یادگیری فدرال گوگل به TEEs",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
