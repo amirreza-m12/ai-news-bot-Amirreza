@@ -43,6 +43,20 @@
       "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "پاسخ آمازون به انتقادات مراکز داده و حذف توافق‌نامه‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "معافیت مالیاتی کلان برای دیتاسنترهای روستایی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
