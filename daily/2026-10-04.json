@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-04",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "درخشش موتور امنیتی OpenAPPA با نرخ موفقیت صفر حملات",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "نسخه جدید دیپ‌سیک هارنس با اپلیکیشن‌های دسکتاپ آمد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "کنترل ربات با دست و هوش مصنوعی انویدیا",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    }
+  ]
+}
