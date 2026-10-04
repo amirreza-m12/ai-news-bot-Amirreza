@@ -92,6 +92,13 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
       "category": "قوانین و اخلاق",
       "importance": 4
+    },
+    {
+      "title": "ارتقای امنیت اندروید با کتابخانه‌های جدید گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
