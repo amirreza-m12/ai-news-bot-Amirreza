@@ -71,6 +71,20 @@
       "link": "https://www.unite.ai/what-are-ai-guardrails-how-production-systems-control-model-behavior/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "تشکیل نیروی فوق هوش مصنوعی توسط ترامپ",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "وقتی هوش مصنوعی در استارفرفت حریف آدم‌ها نمی‌شود!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
