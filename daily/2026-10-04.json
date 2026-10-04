@@ -57,6 +57,20 @@
       "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "مقابله با هرزنامه‌های هوش مصنوعی در مقالات علمی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/fighting-ai-slop-in-science-papers/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "گاردریل‌های هوش مصنوعی چیست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-are-ai-guardrails-how-production-systems-control-model-behavior/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
