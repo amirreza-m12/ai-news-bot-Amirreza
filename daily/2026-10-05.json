@@ -218,6 +218,27 @@
       "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "سام آلتمن: باید پیامدهای منفی هوش مصنوعی را بپذیریم",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تقاطع هوش مصنوعی با تمام صنایع در کنفرانس ام‌تک",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "مصاحبه‌گر هوش مصنوعی هکررنک؛ آینده استخدام",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
