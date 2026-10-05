@@ -155,6 +155,27 @@
       "link": "https://www.unite.ai/pwc-and-cohere-form-global-ai-alliance-launching-first-in-canada/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "احضار غول‌های هوش مصنوعی به شورای شهر نیویورک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "نخستین چالش دولتی برای عینک‌های هوشمند",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "انقلاب «Jev» در تصمیم‌گیری هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/why-system-one-models-separate-fast-judgment-slow-reasoning/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
