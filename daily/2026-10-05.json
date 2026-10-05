@@ -197,6 +197,27 @@
       "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "شروع واترمارک متنی اوپن‌ای‌آی برای قانون اروپا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "آغاز حمل‌ونقل خودکار بارهای ولوو و واابی در تگزاس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/volvo-and-waabi-begin-autonomous-freight-operations-for-warp-in-texas/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "گفتگو با آدام شیف درباره تنظیم‌گری هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
