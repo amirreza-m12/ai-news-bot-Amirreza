@@ -239,6 +239,27 @@
       "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "واکنش جنجالی روابط عمومی OpenAI به سوالی درباره خودکشی کاربر",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تازه‌های جاوا؛ از لنگ‌چین تا ابزارهای جدید",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/java-news-roundup-sep28-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
+    },
+    {
+      "title": "مشاوره عاطفی با هوش مصنوعی برای دختران جوان",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 4
     }
   ]
 }
