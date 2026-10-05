@@ -50,6 +50,27 @@
       "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
       "category": "مدل‌های جدید",
       "importance": 9
+    },
+    {
+      "title": "معرفی «سونا»؛ سیستم جدید یاندکس برای سیستم‌های پیشنهاددهنده",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "ساخت بزرگترین مرکز داده هوش مصنوعی در فنلاند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/atnorth-plans-fin05-data-center-in-salo-finland-with-path-to-230-mw/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
+    },
+    {
+      "title": "تناقض عجیب: چرا با وجود تنفر از هوش مصنوعی، باز هم به آن وابسته‌ایم؟",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
