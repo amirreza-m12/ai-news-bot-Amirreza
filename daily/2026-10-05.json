@@ -176,6 +176,27 @@
       "link": "https://www.unite.ai/why-system-one-models-separate-fast-judgment-slow-reasoning/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ورود تبلیغات به چت‌جی‌پی‌تی؛ اوپن‌آی از فرمت جدید پرده برداشت",
+      "source": "openai.com",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "معرفی نسخه جدید پلتفرم هوش مصنوعی کوهیر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cohere-launches-north-2-with-redesigned-agent-harness-and-memory/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ردیابی ناوگان عوامل هوش مصنوعی چینی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
