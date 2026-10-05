@@ -22,6 +22,27 @@
       "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مدل متن‌باز جدید برای کشف آسیب‌پذیری‌های امنیتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "گواهی‌های امن کلودفلر در برابر رایانه‌های کوانتومی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/postquatam-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "تلاش دولت ترامپ برای تغییر چهره هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
