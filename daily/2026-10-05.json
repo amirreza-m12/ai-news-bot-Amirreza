@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "پیوستن شرکت روب‌کو به جمع تک‌شاخ‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/robco-raises-new-investment-at-1b-valuation-with-employee-share-sale/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "ساخت اپلیکیشن مک با کلود در ۱۱ روز بدون کدنویسی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "ربات‌های امن‌تر با انسان‌های دیجیتالی صف‌ورلد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
