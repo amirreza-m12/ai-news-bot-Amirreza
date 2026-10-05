@@ -106,6 +106,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "ساخت چارچوب‌های ارزیابی برای ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "پلتفرم‌انگری برای مدیریت مدل‌های زبانی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "آینده امنیت سایبری: از سخت‌افزار تا رمزنگاری پسا‌کوانتومی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
