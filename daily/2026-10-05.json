@@ -85,6 +85,27 @@
       "link": "https://www.infoq.com/news/2026/10/dotnet-aspire-13-6-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "رونمایی اوپن‌آی‌دی از تبلیغات تصویری در چت‌جی‌پی‌تی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-introduces-visual-chatgpt-ad-format-and-expanded-measurement/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "توافق بزرگ هواوی و کوالکام بر سر پتنت‌های ۵G و هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "ذهن ما آمادگی مواجهه با هوش مصنوعی را ندارد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
