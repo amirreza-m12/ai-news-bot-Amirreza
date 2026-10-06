@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-07",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "عرضه رابط کاربری Decisions توسط OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-releases-decisions-api-in-public-beta-powered-by-gpt-6-luna/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه کلان ۴ میلیارد دلاری توسط استارتاپ لامبدا",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "انتشار ۷۲۲ دست‌نویس ریاضی توسط اوپن‌آی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "امتیاز ۳۸ هوش مصنوعی میسترال لارج ۴ پیش‌نمایش",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/benchmark-firm-gives-mistral-large-4-preview-a-38-intelligence-score/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    }
+  ]
+}
