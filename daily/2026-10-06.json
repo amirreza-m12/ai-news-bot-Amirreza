@@ -281,6 +281,20 @@
       "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "گسترش برنامه امنیت سایبری آنتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-expands-cyber-verification-program-to-three-access-tiers/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "فیلم «مصنوعی»؛ طعنه‌ سنگین به خالقان هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
