@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-06",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل بیم؛ غول جدید هوش مصنوعی برای برنامه‌نویسی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "آسیب‌پذیری خطرناک پروتکل MCP در گوگل و جی‌پی‌مورگان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/researcher-discloses-same-mcp-flaw-at-google-jpmorgan-two-governments/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ابزار Together Link؛ اجرای مدل‌های متن‌باز",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پروتکل خطرناک جدید برای ارتباط بین ایجنت‌های هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    }
+  ]
+}
