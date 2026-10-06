@@ -176,6 +176,27 @@
       "link": "https://www.unite.ai/precisely-announces-unified-data-management-platform-for-ai-ready-data/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "میس‌ترال از مدل جدید و قدرتمند خود رونمایی کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "رویکرد اوپن‌آی‌اس به قوانین اتحادیه اروپا",
+      "source": "openai.com",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۹۰ میلیون دلاری اسپایکو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/spiko-raises-90m-to-bring-programmable-cash-to-business-treasury/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
