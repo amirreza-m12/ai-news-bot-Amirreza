@@ -218,6 +218,27 @@
       "link": "https://www.unite.ai/xtalpi-unveils-kodexia-a-closed-loop-ai-platform-for-sirna-discovery/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "استارتاپ میرور پارتیکل؛ شبیه‌سازی رفتار انسان با مدل جهانی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "لزوم تعیین مرزهای امنیتی غیرقابل تغییر برای ایجنت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agent-security-identity-authorization-governance/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "گسترش برنامه حمایتی آنتروپیک از استارتاپ‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
