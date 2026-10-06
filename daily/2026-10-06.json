@@ -260,6 +260,27 @@
       "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "رونمایی از پروتکل جدید هوش مصنوعی توسط سیرا و متا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "همکاری اوپن‌آی‌وی با آیرونکلاد برای مدیریت قراردادها",
+      "source": "openai.com",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "معرفی دستیار هوش مصنوعی هارک با تمرکز ویژه بر حریم خصوصی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
