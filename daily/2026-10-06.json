@@ -148,6 +148,13 @@
       "link": "https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "حمله عامل‌های هوش مصنوعی اوپن‌ای‌آی به ویکی‌پدیا",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
