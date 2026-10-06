@@ -50,6 +50,27 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-cf-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "پذیرش تمام توصیه‌های هوش مصنوعی سلامت توسط بریتانیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uk-adopts-all-44-recommendations-from-nhs-doctors-led-ai-panel/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل JEPA-Anything؛ مدل جهانی همه‌فن‌حریف",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "واترمارک متنی هوشمند اوپن‌ای‌آی در راه چت‌جی‌پی‌تی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
