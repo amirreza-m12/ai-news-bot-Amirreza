@@ -85,6 +85,27 @@
       "link": "https://www.unite.ai/wpp-to-apply-kyndryls-agentic-ai-framework-in-expanded-partnership/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "کنفرانس QCon لندن ۲۰۲۷ با تمرکز بر هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/qconlondon-2027-track/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "رونمایی از دستیار هوش مصنوعی Realtor.com برای مشاوران املاک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/realtor-com-adds-realassist-ai-agent-layer-to-realtor-com-plus-workspace/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "ساخت پلتفرم‌های پایدار با ۲۰ سال تجربه",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/infrastructure-financial-services-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
