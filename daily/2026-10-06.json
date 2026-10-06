@@ -239,6 +239,27 @@
       "link": "https://www.unite.ai/anthropic-expands-claude-startups-program-with-new-founder-benefits/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل چندوجهی EmbeddingGemma 2 توسط دیپ‌مایند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/deepmind-debuts-embeddinggemma-2-mapping-five-modalities-into-one-space/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "گسترش همکاری اتلاسین و OpenAI برای مدیریت دانش سازمانی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "دلخوری ریاضیدانان از اقدامات جدید شرکت OpenAI",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
