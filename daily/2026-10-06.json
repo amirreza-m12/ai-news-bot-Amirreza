@@ -29,6 +29,27 @@
       "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل جدید Beam با ۵۰۱ میلیارد پارامتر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/reflection-ai-unveils-beam-a-501b-parameter-open-weight-model/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "رونمایی از مدل هوش مصنوعی Beam برای رقابت با چینی‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "ابزار جدید کلودفلر برای ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-cf-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
