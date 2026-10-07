@@ -260,6 +260,34 @@
       "link": "https://www.unite.ai/ai-agent-herding-multi-agent-consensus-research/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی سرفیس لپ‌تاپ اولترا در رویداد جدید مایکروسافت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل کلود هایکو ۵.۵ با کاهش چشمگیر قیمت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-releases-claude-haiku-5-5-cutting-small-model-api-prices/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "قدرت‌نمایی مایکروسافت؛ دسترسی کوپایلوت به فایل‌های کامپیوتر",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "آپدیت جدید چت‌جی‌پی‌تی با رابط کاربری تعاملی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
