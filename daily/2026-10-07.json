@@ -134,6 +134,27 @@
       "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "درخشش مدل نموترون در المپیادهای جهانی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۵۲.۵ میلیون دلاری استارتاپ Stuut برای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/stuut-52-5m-series-b-ai-order-to-cash/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "خرید شرکت هوش مصنوعی Boost.ai توسط Automation Anywhere",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/automation-anywhere-agrees-to-acquire-conversational-ai-firm-boost-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
