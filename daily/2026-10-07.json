@@ -302,6 +302,27 @@
       "link": "https://www.unite.ai/vidu-releases-q4-preview-of-next-generation-flagship-ai-video-model/",
       "category": "مدل‌های جدید",
       "importance": 9
+    },
+    {
+      "title": "رونمایی از رابط کاربری هوشمند چت‌جی‌پی‌تی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "موفقیت بزرگ اوپن‌آی در حل مسائل ریاضی با هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل‌های تصمیم‌گیری جدید Liquid AI بدون توکن خروجی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
