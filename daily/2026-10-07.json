@@ -50,6 +50,27 @@
       "link": "https://www.unite.ai/nano-banana-2-1-debuts-at-half-the-image-cost-of-its-predecessor/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "متا ابزار قدرتمند Rebalancer را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "هدیه ویژه آنتروپیک به استارتاپ‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "گسترش تحقیقات مالی جامپ تریدینگ با چت‌جی‌پی‌تی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/jump-trading",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
