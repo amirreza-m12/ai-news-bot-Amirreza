@@ -113,6 +113,20 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "عامل هوش مصنوعی جدید اوپن‌آی؛ از خرید تا ابراز عشق!",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تحولی نو در تیم‌های برنامه‌نویسی با هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
