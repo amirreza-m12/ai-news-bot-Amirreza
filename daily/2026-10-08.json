@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-08",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "پایان نرم‌افزارهای سنتی؛ حمله هوش مصنوعی به ادوبی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ارزش شرکت Nous Research به ۱.۵ میلیارد دلار رسید",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "کاهش ۵۰ درصدی هزینه خواندن کش در کلود سونِت ۵.۵",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-slashes-claude-sonnet-5-5-cache-read-cost-by-50/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    }
+  ]
+}
