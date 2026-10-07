@@ -71,6 +71,13 @@
       "link": "https://openai.com/index/jump-trading",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "استفاده کلادفلر از هوش مصنوعی برای تست امنیت وب",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-sec-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
