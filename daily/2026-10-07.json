@@ -218,6 +218,27 @@
       "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "خطرات جدید: ایجنت‌های هوش مصنوعی با ابزارها ناامن‌تر می‌شوند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-research-finds-ai-agents-become-less-safe-when-using-tools/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری ۳۰۰ میلیون دلاری گوگل و متا روی سلول مجازی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استفاده شف رباتیکس از پلتفرم انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/chef-robotics-builds-food-manipulation-robots-on-nvidia-isaac-stack/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
