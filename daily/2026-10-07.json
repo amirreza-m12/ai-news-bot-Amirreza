@@ -239,6 +239,27 @@
       "link": "https://www.unite.ai/chef-robotics-builds-food-manipulation-robots-on-nvidia-isaac-stack/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "ابزارهای جدید متا برای شناسایی تبلیغات آزار کودکان",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "امکانات جدید هوش مصنوعی برای برنامه‌ریزی تحصیلی نوجوانان",
+      "source": "openai.com",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "خطرات پنهان اجماع در سیستم‌های چندعاملی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agent-herding-multi-agent-consensus-research/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
