@@ -92,6 +92,27 @@
       "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "دستاورد جدید و خیره‌کننده اوپن‌آی در ریاضیات",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل قدرتمند «میسترال لارژ ۴» با ۱ تریلیون پارامتر",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "چت‌جی‌پی‌تی برای نوجوانان؛ خطری غیرقابل قبول!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
