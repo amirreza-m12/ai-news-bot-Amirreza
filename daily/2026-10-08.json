@@ -288,6 +288,20 @@
       "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "کمک ۵۰ میلیون دلاری کروسو به پروژه هوش مصنوعی سفیدخانه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/crusoe-commits-ai-compute-credits-to-white-house-genesis-mission/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "کاهش حجم فضای ابری وان‌درایو برای مشترکین مایکروسافت ۳۶۵",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 5
     }
   ]
 }
