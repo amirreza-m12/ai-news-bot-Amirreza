@@ -127,6 +127,27 @@
       "link": "https://www.unite.ai/gft-survey-legacy-systems-cancel-corporate-ai-projects/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "چت‌گپ در بحران‌های روحی نوجوانان را رها نمی‌کند",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "رابط کاربری جدید چت‌جی‌پی‌تی با قابلیت‌های بصری",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "امنیت در هوش مصنوعی عامدمحور چیست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-agentic-ai-security-tool-misuse-privilege-abuse-and-behavior-hijacking/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
