@@ -106,6 +106,27 @@
       "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "سرمایه‌گذاری بزرگ انویدیا روی هوش مصنوعی فیزیکی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معماری سیستم‌های چندعاملی در پلتفرم تبلیغات اسپاتیفای",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "شکست پروژه‌های هوش مصنوعی به دلیل زیرساخت‌های قدیمی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/gft-survey-legacy-systems-cancel-corporate-ai-projects/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
