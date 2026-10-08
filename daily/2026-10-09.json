@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-09",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "اعتراض محققان اخراجی اوپن‌آی به اتهامات اخیر",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "اسکن امنیتی رایگان آنتروپیک برای پروژه‌های متن‌باز",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "کاهش چشمگیر هزینه‌های کدنویسی در شرکت LegalOn",
+      "source": "openai.com",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    }
+  ]
+}
