@@ -246,6 +246,27 @@
       "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "آپدیت سیاست‌های مصرف انتروپیک با قوانین جدید",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-updates-usage-policy-adding-model-abuse-and-deception-rules/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "خرید دارایی‌های آوگمنت کد توسط هارنس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/harness-augment-code-assets-acquisition/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "تلاش نهادهای نظارتی برای جلوگیری از اخراج با هوش مصنوعی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
