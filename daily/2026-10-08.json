@@ -302,6 +302,20 @@
       "link": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
       "category": "محصولات و شرکت‌ها",
       "importance": 5
+    },
+    {
+      "title": "ابتکار جدید آنتروپیک برای امنیت زیرساخت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-launches-cyber-mission-for-critical-infrastructure-open-source/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "طراح لوگوی جدید متا: انتظار این حجم از خشم را نداشتم!",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 4
     }
   ]
 }
