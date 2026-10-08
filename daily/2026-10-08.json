@@ -22,6 +22,34 @@
       "link": "https://www.unite.ai/anthropic-slashes-claude-sonnet-5-5-cache-read-cost-by-50/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "عرضه جهانی جی‌پی‌تی-۶ با رابط کاربری هوشمند",
+      "source": "openai.com",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "معرفی مدل‌های جدید و قدرتمند پرپلکسیتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۶۰ میلیون دلاری توسط استارتاپ مکا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mecka-raises-60m-series-b-to-scale-robot-data-and-deployment/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "مایکروسافت از سخت‌افزار و قابلیت‌های جدید هوش مصنوعی رونمایی کرد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
