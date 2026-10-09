@@ -22,6 +22,27 @@
       "link": "https://openai.com/index/legalon-halves-codex-costs",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "طراحی ویروس‌های جدید با هوش مصنوعی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۲۰۰ میلیون دلاری آرنا برای توسعه ارزیابی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/arena-secures-200m-series-b-at-3-1b-valuation-to-advance-ai-evaluation/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی کلادفلر از سرویس استریم رویداد K2",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
