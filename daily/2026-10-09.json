@@ -260,6 +260,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "شگفتی ریاضی‌دانان از دستاورد جدید و عجیب OpenAI",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "category": "پژوهش و تحقیقات",
+      "importance": 10
+    },
+    {
+      "title": "گزارش دروغین قتل توسط هوش مصنوعی آنتروپیک",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ابزارهای هوش مصنوعی نرم‌افزار بیشتری نمی‌سازند!",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
