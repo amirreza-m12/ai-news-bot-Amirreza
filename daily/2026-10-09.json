@@ -211,6 +211,27 @@
       "link": "https://www.unite.ai/priya-saiprasad-general-partner-at-touring-capital-interview-series/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 4
+    },
+    {
+      "title": "عرضه اندروید بنچ ۲ با پشتیبانی از کارهای پیچیده",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "پایان پنهان‌کاری آمازون در قراردادهای دیتاسنتر",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
+    },
+    {
+      "title": "آمازون توافق‌نامه‌های محرمانگی مراکز داده را لغو کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
