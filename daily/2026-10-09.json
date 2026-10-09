@@ -113,6 +113,20 @@
       "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "آموزش هوش مصنوعی در مدارس؛ ضرورت یا ممنوعیت؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-literacy-schools/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "مدیریت هوشمند سیستم‌ها در نتفلیکس با گراف دانش",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
