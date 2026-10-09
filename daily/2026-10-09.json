@@ -43,6 +43,34 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ورود هوش مصنوعی عامی به جمنای گوگل",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "رونمایی گوگل از دستیار جامع جمینای برای محیط کار",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "شکایت «یواس‌اتودی» از اوپن‌آی‌سی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "مقابله اوپن‌آی‌ال با عملیات‌های نفوذ با هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
