@@ -239,6 +239,27 @@
       "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "کاهش ۷۶ برابری هزینه‌های آسانا با مدل جدید هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "رد صلاحیت برنده مسابقه عکاسی نیکون به دلیل استفاده از هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "category": "قوانین و اخلاق",
+      "importance": 5
+    },
+    {
+      "title": "حذف برنده مسابقه عکاسی نیکون به دلیل استفاده از هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "category": "قوانین و اخلاق",
+      "importance": 5
     }
   ]
 }
