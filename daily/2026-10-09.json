@@ -71,6 +71,20 @@
       "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل Saluki 27B؛ غول ۲ بیتی جدید",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "انتشار نسخه ۸.۰ پرووایدر گوگل کلود تراففرم",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/terraform-google-cloud-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
