@@ -85,6 +85,27 @@
       "link": "https://www.infoq.com/news/2026/10/terraform-google-cloud-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "اعتماد بیش از حد به توانایی هوش مصنوعی در امتناع",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "کاهش ۹۶ درصدی زمان بررسی تهدیدات با هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/sophos",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "بررسی آینده و پیشرفت‌های پایگاه داده Valkey",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
