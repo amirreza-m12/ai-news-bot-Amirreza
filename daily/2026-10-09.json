@@ -127,6 +127,20 @@
       "link": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "عرضه عمومی ارکستراتور سرورهای سیرکل‌سی‌آی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/circleci-machine-runner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "موازنه بایاس و واریانس در هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-the-biasvariance-tradeoff-underfitting-and-overfitting-explained/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 5
     }
   ]
 }
