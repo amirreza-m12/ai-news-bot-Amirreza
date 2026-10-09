@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-10",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "جذب سرمایه ۸۷۰ میلیون دلاری تایپ‌سیف",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/typesafe-ai-raises-870m-series-a-at-7-5b-valuation-to-ship-more-ai-models/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "حمله پهپادی اوکراین به مرکز داده هوش مصنوعی روسیه",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "آپدیت بزرگ انتروپیک؛ معرفی داشبوردها و قابلیت‌های جدید",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "درخشش هوش مصنوعی پزشکی گوگل در مجله لنست",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/googles-amie-primary-care-feasibility-study-published-in-the-lancet/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    }
+  ]
+}
