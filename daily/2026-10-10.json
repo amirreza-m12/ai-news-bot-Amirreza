@@ -71,6 +71,27 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "رونمایی گوگل کلود از ایجنت جامع جمنای",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "کاهش زمان پاسخگویی به تهدیدات با هوش مصنوعی سوفوس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sophos-says-daybreak-ai-agents-cut-average-case-response-to-89-seconds/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "قفل هوشمند جدید رینگ با قابلیت شارژ دستی معرفی شد",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
