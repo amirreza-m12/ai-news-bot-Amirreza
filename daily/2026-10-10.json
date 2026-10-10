@@ -99,6 +99,20 @@
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "استفاده از هوش مصنوعی برای گول زدن کلاهبرداران اینترنتی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "پروتکل Agent2Agent؛ ارتباط هوش مصنوعی‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-agent2agent-a2a-protocol/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
