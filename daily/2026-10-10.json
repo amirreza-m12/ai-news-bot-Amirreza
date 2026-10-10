@@ -29,6 +29,20 @@
       "link": "https://www.unite.ai/googles-amie-primary-care-feasibility-study-published-in-the-lancet/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "ناتوانی آنتروپیک در کنترل ایجنت‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "دردسر هوش مصنوعی انتروپیک برای پلیس فیلادلفیا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
