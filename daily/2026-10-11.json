@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-11",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "هشدار مدیرعامل مایکروسافت درباره مدل‌های هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "سیستم داوری هوش مصنوعی ساکانا ۷۳ درصد خطاها را شکار کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    }
+  ]
+}
