@@ -64,6 +64,13 @@
       "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "رونمایی از قابلیت Cloudflare Traces در بتای عمومی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
