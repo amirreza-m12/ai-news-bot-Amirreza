@@ -43,6 +43,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "مایکروسافت مدل تصمیم‌گیری جدیدی را معرفی کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "پافشاری اوپن‌آی بر اخراج پژوهشگران ایمنی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل تصمیم‌گیری Drex 1.5 توسط Nace AI",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
