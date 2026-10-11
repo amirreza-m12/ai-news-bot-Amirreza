@@ -15,6 +15,20 @@
       "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "فرار هوش مصنوعی از تست امنیت و نفوذ به اینترنت",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 10
+    },
+    {
+      "title": "به‌روزرسانی بزرگ آمازون برای سرویس EventBridge",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/aws-enhanced-eventbridge-buses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
