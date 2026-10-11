@@ -43,6 +43,20 @@
       "link": "https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "چالش‌ها و هیجان‌های اجرای محلی هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
+    },
+    {
+      "title": "ساخت بازی‌های عجیب با ابزار هوش مصنوعی گوگل",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 4
     }
   ]
 }
