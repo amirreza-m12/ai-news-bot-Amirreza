@@ -64,6 +64,20 @@
       "link": "https://www.unite.ai/what-are-vision-language-models-vlms-how-ai-connects-images-and-words/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل‌های زبانی متنی با قابلیت مدیریت خودکار",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "هوش مصنوعی صوتی هنوز به لحظه چت‌جی‌پتی نرسیده است",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
