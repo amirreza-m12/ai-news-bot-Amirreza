@@ -239,6 +239,27 @@
       "link": "https://www.unite.ai/aws-expands-gpt-6-access-on-amazon-bedrock-to-five-asia-pacific-regions/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "خطر تکثیر خودکار مدل‌های هوش مصنوعی در دستگاه‌های اینترنت اشیاء",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-red-team-says-small-ai-models-may-soon-replicate-on-iot-devices/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی اسکادران هوش مصنوعی شرکت d-Matrix",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/d-matrix-unveils-squadron-multi-rack-ai-inference-clusters/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی وایوین از سرورهای قدرتمند هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/wiwynn-brings-vera-rubin-nvl72-amd-helios-racks-to-ocp-global-summit/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
