@@ -197,6 +197,27 @@
       "link": "https://www.unite.ai/guglielmo-faglioni-co-founder-and-chief-of-science-technology-callimacus-interview-series/",
       "category": "پژوهش و تحقیقات",
       "importance": 3
+    },
+    {
+      "title": "بازگشت متا به اوج رقابت هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "متا از مدل‌های جدید هوش مصنوعی رونمایی کرد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "پیروزی بزرگ استارتاپ هواشناسی در مناقصه ارتش آمریکا",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
