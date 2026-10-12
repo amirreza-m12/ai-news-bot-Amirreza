@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-13",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "چرخش بزرگ اپیک گیمز به سمت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/epic-games-ceo-confirms-huge-pivot-to-retool-teams-for-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "چرخش اپیک گیمز به سمت توسعه بازی با هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "افتتاح بزرگ‌ترین مرکز تحقیق و توسعه تراشه جهان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/applied-materials-unveils-epic-center-for-collaborative-chip-r-and-d/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    }
+  ]
+}
