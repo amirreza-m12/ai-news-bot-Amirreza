@@ -78,6 +78,27 @@
       "link": "https://www.infoq.com/news/2026/10/java-news-roundup-oct05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "برنامه‌نویسی با هوش مصنوعی یعنی چه؟",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "بحران هزینه‌های هوش مصنوعی و چالش صورتحساب‌ها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "چه زمانی باید از خوشه‌بندی مایع استفاده کنیم؟",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
