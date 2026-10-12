@@ -8,6 +8,27 @@
       "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 3
+    },
+    {
+      "title": "معرفی مدل چندوجهی کلادفلر Clef-omni",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های تصمیم‌گیری Decision 3.0",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "آیا هوم‌ویو موفقیت خانگی اپل می‌شود؟",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 6
     }
   ]
 }
