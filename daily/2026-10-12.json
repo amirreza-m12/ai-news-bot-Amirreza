@@ -99,6 +99,27 @@
       "link": "https://www.infoq.com/articles/liquid-clustering-lakehouse-layout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "همکاری بزرگ HCLTech و آنتروپیک برای توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/hcltech-forms-anthropic-business-unit-under-global-premier-partnership/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری عظیم آامازون روی ربات‌ها",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "چرا مدیریت هوش مصنوعی در شرکت‌ها با شکست مواجه می‌شود؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agent-governance-software-supply-chain/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
