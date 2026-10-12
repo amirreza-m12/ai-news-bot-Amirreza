@@ -176,6 +176,27 @@
       "link": "https://www.unite.ai/cisco-announces-g302-silicon-and-usfp-optics-with-nvidia-at-ocp-2026/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل هوش مصنوعی GLM-Legal برای کارهای حقوقی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/z-ai-unveils-glm-legal-an-agentic-model-for-legal-workflows/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی ایسوس از سرور جدید با پردازنده‌های انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/asus-debuts-xa-p2n-e2-server-with-dual-nvidia-vera-cpus-at-ocp/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "گفتگو با بنیان‌گذار کالیماکوس درباره آینده فناوری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/guglielmo-faglioni-co-founder-and-chief-of-science-technology-callimacus-interview-series/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 3
     }
   ]
 }
