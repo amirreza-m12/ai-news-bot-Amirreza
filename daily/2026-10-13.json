@@ -43,6 +43,20 @@
       "link": "https://www.unite.ai/dxc-technology-partners-with-langchain-to-scale-governed-ai-agents/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "هشدار صندوق بین‌المللی پول درباره بحران مالی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/imf-warns-ai-market-correction-could-trigger-global-financial-turmoil/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "درگاه جدید کلودفلر از رمزگشایی درخواست‌ها امتناع کرد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-ohttp-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
