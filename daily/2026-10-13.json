@@ -22,6 +22,27 @@
       "link": "https://www.unite.ai/applied-materials-unveils-epic-center-for-collaborative-chip-r-and-d/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "شکست و اعلام ورشکستگی شرکت Character.AI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/character-ai-files-for-chapter-11-with-disney-stalking-horse-deal/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "معرفی QwenGyre؛ چارچوب یادگیری تقویتی علی‌بابا",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "همکاری دی‌اکس‌سی و لانگ‌چین برای توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/dxc-technology-partners-with-langchain-to-scale-governed-ai-agents/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
