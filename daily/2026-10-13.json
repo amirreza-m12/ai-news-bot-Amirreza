@@ -99,6 +99,20 @@
       "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "ویکی‌پدیا در عصر هوش مصنوعی؛ بحران فراتر از بازدید",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "استفاده بازی EVE Online از هوش مصنوعی و نمونه‌برداری",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
