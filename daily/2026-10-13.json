@@ -162,6 +162,27 @@
       "link": "https://www.unite.ai/openevidence-johns-hopkins-medicine-partner-on-ai-education-and-care/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "استارتاپ Satlyt برای اجرای هوش مصنوعی در فضا سرمایه گرفت",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "معرفی مدل جمنای ۴ آرگون برای رباتیک",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "معرفی جمنای ۴ آرگون برای حل مسائل پیچیده",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
