@@ -197,6 +197,27 @@
       "link": "https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "درخواست OpenAI و آنتروپیک برای نظارت بیشتر",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "راه‌اندازی «ایکس‌باکس لبز» برای تحقیق روی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/xbox-creates-xbox-labs-to-explore-ai-agents-and-game-decompilation/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "اجرای سریع و خصوصی هوش مصنوعی روی دستگاه با LFM2.5",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
