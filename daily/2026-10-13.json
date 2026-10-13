@@ -218,6 +218,34 @@
       "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "انقلاب هیگزفیلد در ویدیوهای هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "گسترش خرید هوشمند با ورود عوامل هوش مصنوعی به شاپیفای",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "فیسبوک امکان شخصی‌سازی الگوریتم فید را فراهم کرد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "نصب آسان‌تر اپلیکیشن‌های هوش مصنوعی گوگل",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
