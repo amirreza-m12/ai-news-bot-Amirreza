@@ -113,6 +113,27 @@
       "link": "https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "درخشش مدل حقوقی GLM-Legal در بنچمارک هاروی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۰ میلیون دلاری کلوسو برای ساخت ویدیوی تجاری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/clueso-10m-series-a-agentic-business-video/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "چالش‌های اجرای هوش مصنوعی در نشست QCon AI",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
