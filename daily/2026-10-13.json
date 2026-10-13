@@ -78,6 +78,27 @@
       "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "چالش مدل‌های هوش مصنوعی متن‌باز: مزایا در برابر خطرات",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "قرارداد جدید سምትک و تاور برای توسعه سخت‌افزار هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/semtech-secures-dedicated-sige-capacity-at-tower-for-ai-interconnect/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "سرازیر شدن میلیون‌ها دلار به شرکت‌های صوری در نوادا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
