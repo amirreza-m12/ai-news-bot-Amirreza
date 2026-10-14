@@ -211,6 +211,27 @@
       "link": "https://www.unite.ai/kyndryl-applies-agentic-ai-framework-to-toyota-finance-it-operations/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "راه‌اندازی بودجه ۵۰ میلیونی برای هوش مصنوعی شهری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/rockefeller-openai-foundations-launch-cities-deliver-ai-grant-program/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "قابلیت رایانش محرمانه متا برای عینک‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "اضافه شدن مدل‌های جدید ران‌وی به پلتفرم بیس‌تن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baseten-adds-runways-gen-4-5-and-aleph-2-0-to-dedicated-inference/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
