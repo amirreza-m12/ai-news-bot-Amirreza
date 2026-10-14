@@ -141,6 +141,27 @@
       "link": "https://www.unite.ai/alibabas-qwen-glasses-n1-use-himax-wiseeye-always-on-vision-ai/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "آسیب‌پذیری جدید مدل‌های هوش مصنوعی گوگل و اوپن‌آی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "استارتاپ Scimplify با کمک هوش مصنوعی ۲۵ میلیون دلار جذب کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری تلوس دیجیتال و پارلو برای هوش مصنوعی سازمانی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/telus-digital-to-implement-parloas-agentic-ai-platform-for-enterprises/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
