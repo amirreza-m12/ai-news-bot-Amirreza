@@ -127,6 +127,20 @@
       "link": "https://www.unite.ai/seventeen-organizations-secure-36-million-from-google-org-challenge/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "کمک ۲۵۰ میلیون دلاری انویدیا به تحقیقات ایمنی هوش مصنوعی در بریتانیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-pledges-five-years-of-compute-to-uk-agentic-safety-research/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "عینک هوشمند علی‌بابا با پردازنده هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/alibabas-qwen-glasses-n1-use-himax-wiseeye-always-on-vision-ai/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
