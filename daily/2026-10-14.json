@@ -232,6 +232,27 @@
       "link": "https://www.unite.ai/baseten-adds-runways-gen-4-5-and-aleph-2-0-to-dedicated-inference/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "اجرای ۱۰ هزار عامل هوش مصنوعی برای بیش از ۳۶ ساعت",
+      "source": "openai.com",
+      "link": "https://openai.com/index/third-moment-research",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۴۴ میلیون دلاری اپلیکیشن چت هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "دیزر به زودی قابلیت فیلتر موسیقی‌های هوش مصنوعی را می‌آورد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
