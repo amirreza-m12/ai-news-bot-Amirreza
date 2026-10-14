@@ -29,6 +29,34 @@
       "link": "https://www.unite.ai/anthropic-reports-distillation-defenses-reduced-extracted-reasoning-tokens/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "رونمایی گوگل از مدل قدرتمند جمنای ۴ آرگون",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "عرضه جمنای ۴ آرگون با ظرفیت خروجی ۱ میلیون توکن",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "همکاری گوگل دیپ‌مایند و سنگاپور برای مقابله با کلاه‌برداری",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "درخواست آنتروپیک برای بازنگری در پرونده پنتاگون",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-asks-d-c-circuit-to-rehear-pentagon-supply-chain-risk-case/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
