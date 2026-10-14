@@ -281,6 +281,34 @@
       "link": "https://www.unite.ai/microsoft-research-publishes-ai-weather-forecasting-study-in-nature/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل گفتار هوشمند گروک ۳ توسط xAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "ورود ایجنت‌های هوش مصنوعی «آمپ» به دنیایی فراتر از کدنویسی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 9
+    },
+    {
+      "title": "طراحی پروتئازهای هوش مصنوعی برای مقابله با بیماری‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baker-lab-designs-ai-proteases-that-cleave-disease-linked-proteins/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "طراحی پروتئین‌های تخریب‌گر با کمک هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
