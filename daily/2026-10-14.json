@@ -99,6 +99,27 @@
       "link": "https://www.unite.ai/vitvio-partners-with-uck-gdansk-to-bring-3d-operating-room-ai-to-poland/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "معرفی مدل هوش مصنوعی قدرتمند LFM2.5 برای دستگاه‌های شخصی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "دور زدن آسان خطوط قرمز هوش مصنوعی برای اقدامات تروریستی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "پشتیبانی از مدل‌های محلی در SDK آنتی‌گرَویتی گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/antigravity-sdk-local-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
