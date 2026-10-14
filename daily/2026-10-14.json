@@ -330,6 +330,27 @@
       "link": "https://openai.com/index/sentinelone",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "ورشکستگی کاراکتر.ای آی و نگرانی‌ها درباره داده‌ها",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "بازگشت رقابت داغ در دنیای هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "برچسب‌گذاری موزیک‌های هوش مصنوعی در یوتیوب",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
