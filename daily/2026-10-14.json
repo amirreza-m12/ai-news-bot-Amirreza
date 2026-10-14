@@ -57,6 +57,27 @@
       "link": "https://www.unite.ai/anthropic-asks-d-c-circuit-to-rehear-pentagon-supply-chain-risk-case/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل هوش مصنوعی Neuron AI برای روبات‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/neura-robotics-unveils-neuron-ai-foundation-model-for-physical-ai/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "همکاری دانهِر و انویدیا برای تحول در ابزارهای علمی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/danaher-and-nvidia-partner-to-integrate-ai-into-scientific-instruments/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استفاده از هوش مصنوعی انویدیا در شهرهای اروپا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-details-ai-agent-deployments-for-city-operations-across-emea/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
