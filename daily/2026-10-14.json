@@ -260,6 +260,27 @@
       "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "درز اسناد محرمانه اوپن‌آی‌اس به اپل",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "دستگیری مهندس OpenAI توسط اف‌بی‌آی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "انقلاب مایکروسافت در پیش‌بینی بلندمدت آب‌وهوا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-research-publishes-ai-weather-forecasting-study-in-nature/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
