@@ -183,6 +183,34 @@
       "link": "https://www.unite.ai/genpact-debuts-agentic-ai-suite-for-accounts-receivable/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "هشدار آنتروپیک درباره تکثیر خودکار مدل‌های کوچک هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "اولین اقدامات اجرایی اتحادیه اروپا برای قانون هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/eu-announces-first-ai-act-enforcement-actions-after-ai-agent-incidents/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه ۵۰ میلیون دلاری هارمونیک سکوریتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/harmonic-security-raises-50m-series-b-to-expand-us-and-uk-teams/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استفاده تویوتا از هوش مصنوعی عامل‌محور کیندریل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/kyndryl-applies-agentic-ai-framework-to-toyota-finance-it-operations/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
