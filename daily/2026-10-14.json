@@ -309,6 +309,27 @@
       "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "جدایی مدیر ارشد زیرساخت اوپن‌آی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sachin-katti-leaving-openai-compute-role-to-build-something-new/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "هوش مصنوعی به سراغ حل مسائل پیچیده علمی آمد",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تحلیل بدافزار با هوش مصنوعی در چند ساعت",
+      "source": "openai.com",
+      "link": "https://openai.com/index/sentinelone",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
