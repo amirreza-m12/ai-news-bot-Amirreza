@@ -176,6 +176,27 @@
       "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "مدل جدید انویدیا؛ گامی رو به جلو در هوش مصنوعی متن‌باز",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی پلتفرم CLiF برای یادگیری مداوم هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ورود عامل‌های هوش مصنوعی به خودروهای ریویان",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
