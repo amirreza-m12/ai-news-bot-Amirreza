@@ -22,6 +22,27 @@
       "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "معرفی گروک ویس ۳؛ رتبه نخست هوش مصنوعی صوتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "شکایت ۸ ایالت آمریکا از اوپن‌آی به دلیل ناامنی چت‌جی‌پی‌تی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل هوش مصنوعی دراما ۳؛ انقلاب تبدیل متن به گفتار",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
