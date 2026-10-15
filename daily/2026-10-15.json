@@ -92,6 +92,27 @@
       "link": "https://www.unite.ai/agentic-ai-enterprise-workflow-process-context/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "رازهای استقبال برنامه‌نویسان از هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۶۵ میلیون دلاری موئون برای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mueon-raises-65m-series-a-to-move-cubelets-toward-production-readiness/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "ربات اسباب‌بازی بامزه؛ جاسوس چینی در خانه‌ها!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
