@@ -218,6 +218,27 @@
       "link": "https://www.unite.ai/new-5-6b-parameter-flux-3-image-klein-debuts-as-open-weights-release/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "کشف پپتید ضد میکروبی جدید با هوش مصنوعی گوگل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-deepmind-walkthrough-details-antimicrobial-peptide-discovery/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "قرارداد ۱۵ ساله سیلزفورس با اداره مالیات انگلیس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/salesforce-wins-15-year-hmrc-contract-to-modernize-uk-tax-services/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "معرفی پلتفرم جدید Voxel51 3.0 برای هوش مصنوعی فیزیکی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/voxel51-unveils-unified-data-platform-3-0-aimed-at-physical-ai-teams/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
