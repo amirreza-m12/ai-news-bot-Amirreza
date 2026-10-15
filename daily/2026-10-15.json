@@ -113,6 +113,27 @@
       "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی گجت‌های هوش مصنوعی جدید آمازون",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/amazons-bee-introduces-frontier-eclipse-and-a-pro-subscription/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "معرفی دو گجت هوش مصنوعی جدید از سوی آمازون",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "معرفی «اِنی»؛ دستیار هوشمند مک‌پا و حافظ حریم خصوصی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/macpaw-introduces-eney-an-on-device-assistant-that-asks-before-acting/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
