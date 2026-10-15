@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-16",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل‌های مادلار گرانیت سوئیچ ۴.۱ آی‌بی‌ام",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-releases-modular-granite-switch-4-1-models-in-8b-and-30b-sizes/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "رمزگشایی زبان ارتباطی سلول‌ها با هوش مصنوعی",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "عرضه عمومی سیستم بررسی کد آنتروپیک برای کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-makes-code-review-for-claude-code-generally-available/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    }
+  ]
+}
