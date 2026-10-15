@@ -260,6 +260,27 @@
       "link": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "همکاری نزدیک آنتروپیک با موسسه METR",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-onboards-six-metr-evaluators-with-employee-like-access/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "گسترش همکاری ولوو و انویدیا برای رانندگی خودکار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/volvo-cars-expands-nvidia-partnership-for-door-to-door-automated-driving/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "قابلیت جدید گوگل برای شناسایی پیام‌های کلاهبرداری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-details-circle-to-search-scam-checks-for-android-text-messages/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
