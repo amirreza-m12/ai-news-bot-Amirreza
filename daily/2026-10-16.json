@@ -274,6 +274,20 @@
       "link": "https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "کشف منشأ رازآلود کلیدهای رمزنگاری NIST توسط کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-says-claude-traced-nist-ecdsa-curve-seeds-to-a-1990s-rng/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "رشد انفجاری استک اوورفلو با افزونه چجی‌پی‌تی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
