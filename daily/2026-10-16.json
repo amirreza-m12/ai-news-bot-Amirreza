@@ -22,6 +22,34 @@
       "link": "https://www.unite.ai/anthropic-makes-code-review-for-claude-code-generally-available/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "انویدیا بزرگ‌ترین پیکره داده هوش مصنوعی هند را معرفی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-unveils-2-8t-token-indic-pretraining-corpus-and-open-pipeline/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "انقلاب هوش مصنوعی در زبان‌های هندی با ۲.۸ تریلیون توکن",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "کنترل تب‌های کروم با هوش مصنوعی OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "دسترسی چت‌جی‌پی‌تی به تب‌های کروم",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
