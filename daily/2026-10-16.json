@@ -50,6 +50,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "متا مدل غول‌پیکر Muse Spark Open را معرفی کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "مایکروسافت تراشه مایا را برای پردازش ابری گسترش می‌دهد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "همکاری OpenAI و سالیوان برای تحلیل قراردادها",
+      "source": "openai.com",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
