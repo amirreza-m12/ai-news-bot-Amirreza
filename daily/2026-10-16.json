@@ -232,6 +232,20 @@
       "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "دسترسی کارمندی آنتروپیک به ممیزان خارجی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "بازگشت مونیخ به نرم‌افزارهای متن‌باز",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+      "category": "قوانین و اخلاق",
+      "importance": 5
     }
   ]
 }
