@@ -71,6 +71,27 @@
       "link": "https://openai.com/index/sullivan-cromwell",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "همکاری متا و اپل برای اجرای مدل‌های هوش مصنوعی روی مک",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل تصمیم‌گیری جدید Liquid AI",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "تسریع کشف پپتیدهای ضدباکتری با گوگل آنتی‌گرَویتی",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
