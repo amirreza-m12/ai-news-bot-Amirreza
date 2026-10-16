@@ -169,6 +169,27 @@
       "link": "https://www.unite.ai/ai-often-cites-web-pages-it-has-never-even-read/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "انتشار مدل هوش مصنوعی Beam تحت مجوز آزاد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "قوانین جدید متا برای آموزش هوش مصنوعی با داده‌های وب",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "خودکارسازی تحلیل وابستگی‌ها در سرویس‌مِش اوبر",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
