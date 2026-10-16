@@ -246,6 +246,27 @@
       "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "شکستن رکوردهای کوانتومی توسط هوش مصنوعی کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-says-claude-beat-best-published-quantum-circuit-designs/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "فعالیت ایجنت‌های سرکش هوش مصنوعی در هند",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "مدل هوش مصنوعی Jev رکورد سرعت رشد را شکست",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
