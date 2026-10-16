@@ -106,6 +106,27 @@
       "link": "https://www.infoq.com/articles/enterprise-mobile-id-mdl-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "ابزارهای جدید آمازون برای توسعه ایجنت هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/aws-strands-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "چالش‌های امنیتی هوش مصنوعی و کارت‌های گرافیک",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/ai-security-kubernetes-gpu-threats/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "ورود ویمو به تورنتو؛ تاکسی‌های خودران در راه کانادا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/waymo-targets-2028-toronto-launch-with-element-as-fleet-partner/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
