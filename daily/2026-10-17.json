@@ -113,6 +113,27 @@
       "link": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل گرانیت سوئیچ ۴.۱ با قابلیت‌های چندوجهی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عقب‌نشینی متا از آموزش هوش مصنوعی با محتوای وب‌سایت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-rewrites-web-crawling-clause-in-pending-commercial-terms/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "عقب‌نشینی متا از استفاده از اخبار برای هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
