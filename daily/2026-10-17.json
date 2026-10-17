@@ -22,6 +22,27 @@
       "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "پرپلکسیتی پلتفرم امنیتی SPACE را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "استفاده از هوش مصنوعی مولد در بانک ایتائو",
+      "source": "openai.com",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "استفاده از کودکس برای تسریع تحلیل وام",
+      "source": "openai.com",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
