@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-18",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل REKI؛ جهش ربات‌ها با حافظه هوشمند",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "تحول ساختاری در شرکت انتروپیک؛ نیروهای باتجربه‌تر و جلسات بیشتر",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
+    },
+    {
+      "title": "جشن انویدیا برای لپ‌تاپ‌های RTX اسپارک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 5
+    }
+  ]
+}
