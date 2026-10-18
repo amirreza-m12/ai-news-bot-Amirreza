@@ -78,6 +78,27 @@
       "link": "https://www.unite.ai/what-is-a-reranker-the-second-stage-model-that-improves-search-results/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی ایجنت هوش مصنوعی آمازون برای ارتقای زیرساخت",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "رپلیت مدل‌های اوپن‌آی را جایگزین انتروپیک کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "متا متن جنجالی مربوط به اسکرپ و هوش مصنوعی را برداشت",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
