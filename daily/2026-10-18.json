@@ -141,6 +141,20 @@
       "link": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "رایگان شدن جستجو برای ایجنت‌های هوش مصنوعی توسط TinyFish",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "دستگیری زن معترض به ربات‌های تحویل‌دار در فیلادلفیا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 4
     }
   ]
 }
