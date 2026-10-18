@@ -22,6 +22,27 @@
       "link": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/",
       "category": "محصولات و شرکت‌ها",
       "importance": 5
+    },
+    {
+      "title": "معرفی نسخه ۳.۰ ووکسل۵۱ برای هوش مصنوعی فیزیکی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "دید سه‌بعدی هوش مصنوعی به دنیای مواد",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "قطع همکاری رپلیت با انتروپیک به دلیل هزینه و کارایی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/replit-ceo-masad-says-company-no-longer-works-with-anthropic/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
