@@ -99,6 +99,20 @@
       "link": "https://www.unite.ai/ai-investment-mistakes-retail-strategy/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 5
+    },
+    {
+      "title": "استفاده دموکرات‌ها از قانون‌گذاری هوش مصنوعی در انتخابات",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "حریم خصوصی تفاضلی چیست؟ حفاظت از داده‌ها در هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-differential-privacy-protecting-personal-data-in-machine-learning/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 6
     }
   ]
 }
