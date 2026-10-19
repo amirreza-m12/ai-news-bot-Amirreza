@@ -50,6 +50,27 @@
       "link": "https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "معرفی مدل چندوجهی EmbeddingGemma 2 گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/embeddinggemma-2-multimodal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "مشاوره راهبردی برای استقلال هوش مصنوعی در بریتانیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uk-council-for-science-and-technology-publishes-ai-sovereignty-advice/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "درخواست عجیب دیزنی از کارکتر AI برای اعلام ورشکستگی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
