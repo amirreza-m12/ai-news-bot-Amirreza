@@ -197,6 +197,20 @@
       "link": "https://www.unite.ai/modal-plans-nvidia-vera-rollout-for-sandboxes-in-first-arm-move/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ترس بازیسازان مستقل از کپی‌برداری با هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "پیدا کردن دوربین‌های نظارتی با قابلیت جدید مپ‌کوئست",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
