@@ -176,6 +176,27 @@
       "link": "https://www.unite.ai/michael-heinrich-co-founder-and-ceo-of-0g-interview-series/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "دستاورد بزرگ کوانتیوم در پایداری حافظه کوانتومی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/quantinuum-reports-99-9995-logical-memory-fidelity-on-helios/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "همکاری کاگنیشن و گوگل کلود برای توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cognizant-and-google-cloud-launch-gemini-frontier-capability-group/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "پشتیبانی مودال از پردازنده‌های انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/modal-plans-nvidia-vera-rollout-for-sandboxes-in-first-arm-move/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
