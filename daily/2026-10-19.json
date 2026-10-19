@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-19",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل تایمسترال توسط میسترال",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "انویدیا پلتفرم Run:ai را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    }
+  ]
+}
