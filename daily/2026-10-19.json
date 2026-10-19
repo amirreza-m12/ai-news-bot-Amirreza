@@ -134,6 +134,27 @@
       "link": "https://www.unite.ai/binance-ai-pro-turns-trading-ideas-into-tested-automated-workflows/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 8
+    },
+    {
+      "title": "هک بیش از ۱۰۰ وب‌سایت با لشکر هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "مایکروسافت عامل‌های نگهبان را به امنیت هوش مصنوعی افزود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-adds-guardian-agents-to-project-perception-for-ai-insider-risk/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "نگاه فرماندار ایلینوی به فرصت‌ها و تهدیدهای هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
