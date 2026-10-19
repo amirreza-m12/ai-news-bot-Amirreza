@@ -211,6 +211,34 @@
       "link": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "زلزله در دنیای هوش مصنوعی با ادعای یک محقق",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "جهش ارزش تنس‌تورنت به ۶.۲ میلیارد دلار",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "شبیه‌سازی رکوردشکنی کوانتومی انویدیا روی ابررایانه ژوپیتر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-simulates-record-104-qubit-fault-tolerant-protocol-on-jupiter/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "انقلاب هوش مصنوعی در دقت سونوگرافی‌های دوران بارداری",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
