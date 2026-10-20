@@ -162,6 +162,27 @@
       "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "پاکسازی اسپاتیفای از ۵۰ میلیون آهنگ هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "دیدگاه مدیر فیگما درباره پروتکل MCP",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "مقیاس‌پذیری هوش مصنوعی بدون نیاز به بازسازی داده‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/making-enterprise-ai-infrastructure-reusable/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
