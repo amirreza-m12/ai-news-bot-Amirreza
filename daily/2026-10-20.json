@@ -218,6 +218,27 @@
       "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "گزارش جدید: چگونه هوش مصنوعی تعصب جنسیتی را باز تولید می‌کند؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/gepi-how-ai-fails-women-report-algorithmic-gender-bias/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "ترجمه زبان گیاهان با کمک هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "موفقیت بزرگ آی‌بی‌ام در بنچمارک خدمات مشتری با حافظه یادگیری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-research-reports-learned-memory-tops-tau-2-bench-service-benchmark/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
