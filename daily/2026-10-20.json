@@ -120,6 +120,27 @@
       "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "افشای اطلاعات محرمانه کاربران در ابزار هوش مصنوعی متا",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ورود ربات‌های انسان‌نما به خط تولید",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/agility-robotics-signs-agco-deal-to-pilot-digit-humanoid-robots/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "معرفی نسخه ۱.۰ سیستم llm-d در کنفرانس پای‌تورچ",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/llm-d-1-0-debuts-at-pytorch-conference-with-production-inference-stack/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
