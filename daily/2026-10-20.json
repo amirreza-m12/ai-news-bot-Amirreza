@@ -197,6 +197,27 @@
       "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "عرضه ابزار TorchTPU گوگل برای پردازنده‌های ابری",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "دیپ‌سیک فریم‌ورک DeepInfer را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "اقتصاد جدید هوش مصنوعی در شرکت‌ها",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
