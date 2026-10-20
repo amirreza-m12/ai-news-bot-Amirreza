@@ -57,6 +57,20 @@
       "link": "https://www.unite.ai/cloudflare-releases-clairic-its-first-system-one-extraction-model/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "همکاری نورا رباتیکس و NXAI برای تقویت حافظه ربات‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/neura-robotics-nxai-team-up-to-give-cognitive-robots-lasting-memory/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "هشدار مایکروسافت: عامل‌های هوش مصنوعی مانند تهدید داخلی هستند",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
