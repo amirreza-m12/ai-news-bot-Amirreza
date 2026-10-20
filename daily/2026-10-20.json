@@ -183,6 +183,20 @@
       "link": "https://www.unite.ai/making-enterprise-ai-infrastructure-reusable/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "درخشش مدل ALTK-Evolve در خدمات مشتری",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "ورود ایجنت هوش مصنوعی به لیست ایمیل محققان اینترنت",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
