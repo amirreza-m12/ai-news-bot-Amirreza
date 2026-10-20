@@ -239,6 +239,27 @@
       "link": "https://www.unite.ai/ibm-research-reports-learned-memory-tops-tau-2-bench-service-benchmark/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "جلسه اضطراری دولت فرانسه با پلتفرم‌ها",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "دادگاه متا را به افشای مدیران ارشد ملحق کرد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "همکاری سیرا و استرپ برای پرداخت درون‌تماسی با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sierra-partners-with-stripe-to-bring-payments-into-ai-agent-calls/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
