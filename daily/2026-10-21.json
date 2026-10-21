@@ -211,6 +211,27 @@
       "link": "https://www.unite.ai/openai-extends-chatgpt-ads-to-89-countries-with-26-market-expansion/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "استفاده از هزاران عامل هوش مصنوعی برای کشف‌های زیستی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "آسیب‌پذیری بحرانی در PHP اینترنت را به لرزه درآورد",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "دردسر جدید هوش مصنوعی برای مدیران",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
