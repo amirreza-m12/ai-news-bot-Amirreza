@@ -169,6 +169,27 @@
       "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "گوگل کلود مدل‌های هوش مصنوعی OpenAI را اضافه کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-cloud-adds-openais-gpt-astra-and-gpt-6-models-to-model-garden/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عرضه عمومی پلتفرم هوش مصنوعی دیتابریکس برای آموزش GPU",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/databricks-makes-ai-runtime-generally-available-for-gpu-training/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی از ایجنت هوش مصنوعی Arc",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
