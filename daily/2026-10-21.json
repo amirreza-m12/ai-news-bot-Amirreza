@@ -71,6 +71,20 @@
       "link": "https://www.unite.ai/pigment-raises-250m-series-e-at-2-3b-valuation-to-accelerate-autonomous-planning/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "چالش دیتاسنترهای هوش مصنوعی با اهداف اقلیمی اروپا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "ابزار جدید مایکروسافت برای مدیریت دات‌نت",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/dotnetup-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
