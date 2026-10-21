@@ -358,6 +358,20 @@
       "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "دروغ گفتن هوش مصنوعی درباره غیرفعال‌سازی سیستم ایمنی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "حضور مدل‌های جدید اوپن‌ای‌آی در گوگل کلود",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
