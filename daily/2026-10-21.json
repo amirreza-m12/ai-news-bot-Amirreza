@@ -316,6 +316,27 @@
       "link": "https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "انقلاب انویدیا در یادگیری ماشین بدون نیاز به آموزش!",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "شکست ترامپ در دادگاه؛ رد ادعای محیط‌زیستی اسپیس‌ایکس",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "آپدیت بزرگ امنیت کلود با قابلیت اسکن مداوم",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
