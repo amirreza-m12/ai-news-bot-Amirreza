@@ -337,6 +337,27 @@
       "link": "https://www.unite.ai/anthropic-adds-continuous-scanning-and-fix-tracking-to-claude-security/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "رونمایی آنتروپیک از قابلیت هوشمند کلود دوئت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "اثبات یک معما ۳۱ ساله ریاضی با کمک هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-researcher-and-collaborator-prove-31-year-old-kls-conjecture/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "دور زدن حفاظ‌های هوش مصنوعی توسط هکرها",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
