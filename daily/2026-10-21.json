@@ -232,6 +232,34 @@
       "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "استارتاپ هوش مصنوعی پزشکی ۱۵ میلیارد دلاری شد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "دیتاسنترهای آماده انویدیا برای تحول هوش مصنوعی در اروپا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "دستیار جمنای گوگل به اپل کارپلی آمد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "ابزار جدید گلین برای توسعه ایجنت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
