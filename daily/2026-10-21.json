@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "رونمایی انویدیا از مدل طراحی پروتئین RFD4-Proteina",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-debuts-open-protein-design-model-rfd4-proteina-with-uw-medicine/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های جدید انویدیا برای بازیابی پیشرفته اطلاعات",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "انقلاب هوش مصنوعی در شبکه‌های مخابراتی با انویدیا و نوکیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-nokia-and-operators-advance-ai-ran-on-live-networks/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
