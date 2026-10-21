@@ -148,6 +148,27 @@
       "link": "https://www.unite.ai/nvidia-nokia-and-operators-advance-ai-ran-on-live-networks/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "راه‌اندازی سرویس‌های انویدیا در گوگل کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-clouds-first-nvidia-vera-rubin-a5x-instances-go-live/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "گسترش پلتفرم رباتیک انویدیا با ربات انسان‌نما",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-expands-isaac-platform-with-agile-one-sn-reference-humanoid/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "عرضه نسخه ۱.۰ ابزار llm-d توسط گوگل کلود",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
