@@ -295,6 +295,27 @@
       "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "کاهش ۷۷ درصدی هزینه‌های استنتاج با مدل‌های زبانی کوچک",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "هشدار کروم به کاربران درباره وب‌سایت‌های مشکوک",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "هک گواهی‌نامه‌های امنیتی eMudhra",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "قوانین و اخلاق",
+      "importance": 5
     }
   ]
 }
