@@ -260,6 +260,20 @@
       "link": "https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "جذب ۱۰ میلیون یورو برای ساخت لیزرهای مراکز داده هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/photon-bridge-raises-10m-laser-sources-ai-data-centers/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "مصاحبه با مدیرعامل XBP Global درباره هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/andrej-jonovic-ceo-of-xbp-global-interview-series/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 5
     }
   ]
 }
