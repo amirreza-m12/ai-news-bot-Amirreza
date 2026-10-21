@@ -99,6 +99,34 @@
       "link": "https://www.infoq.com/articles/spring-batch-without-broker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "سرمایه‌گذاری اوپن‌آی‌بر روی استارتاپ ایمپلنت مغزی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "گسترش مدل‌های باز انویدیا برای هوش مصنوعی حاکمیتی اروپا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-expands-open-model-portfolio-for-european-sovereign-ai/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی معماری امن انویدیا برای ایجنت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-debuts-openshell-reference-architecture-for-agent-governance/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ابزار تشخیص SynthID گوگل برای محتوای هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
