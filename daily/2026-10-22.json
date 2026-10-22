@@ -148,6 +148,20 @@
       "link": "https://www.unite.ai/autonomous-ai-security-delegated-authority/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "الگوهای جدید برای توسعه ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "استخدام شرکت امنیتی توسط سازنده ربات ایليکو",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
