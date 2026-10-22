@@ -162,6 +162,27 @@
       "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "همکاری اگلیتی رباتیکس با انویدیا برای ربات دیجیت ۵",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/agility-robotics-standardizes-digit-5-on-nvidia-igx-thor-compute/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "آمادگی عوامل هوش مصنوعی برای خرید آنلاین",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "شکست هوش مصنوعی کلود در ساخت پادزهر عقرب",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
