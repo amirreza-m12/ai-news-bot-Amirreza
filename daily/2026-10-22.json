@@ -183,6 +183,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "دیپ‌سیک ۱۵ میلیارد دلار جذب سرمایه کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "ورود ایجنت‌های هوش مصنوعی با پسوردبانک 1Password",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۰ میلیون دلاری استارتاپ هوش مصنوعی Enact",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/enact-intelligence-raises-30m-pre-seed-for-force-and-touch-robot-dexterity/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
