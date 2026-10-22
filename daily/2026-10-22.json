@@ -246,6 +246,20 @@
       "link": "https://www.unite.ai/opply-raises-7-5m-agentic-ai-consumer-goods-operations/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "رونمایی انویدیا از پلتفرم مینروا برای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-launches-minerva-aiops-platform-for-ai-factory-observability/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "آسیب‌پذیری خطرناک در زبان برنامه‌نویسی PHP",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
