@@ -99,6 +99,13 @@
       "link": "https://www.unite.ai/php-patches-two-critical-rce-flaws-found-with-frontier-ai-models/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "پیش‌بینی دقیق‌تر با مدل‌های سری زمانی آی‌بی‌ام",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
