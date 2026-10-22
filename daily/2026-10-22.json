@@ -260,6 +260,27 @@
       "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی موتور پردازش فوق‌سریع RIPL توسط Liquid AI",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "استفاده ۳۰ هزار کارمند اوبر از چت‌جی‌پی‌تی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uber-rolls-out-chatgpt-work-to-more-than-30-000-employees/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "هک هزاران شرکت با کمک هوش مصنوعی توسط هکرهای چینی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
