@@ -106,6 +106,27 @@
       "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "رونمایی ورسِل از fx؛ ایجنت برنامه‌نویسی مبتنی بر زیگ",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "نقش هوش مصنوعی در تحول رابط‌های داده",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "پشتیبانی هاربر از داکر سندباکس برای ارزیابی ایزوله ایجنت‌ها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
