@@ -281,6 +281,27 @@
       "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "موفقیت چشمگیر هوش مصنوعی مایکروسافت در تشخیص بیماری‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "ورود طوفانی «وارپ ساینس» با سرمایه ۲۱۵ میلیون دلاری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/warp-sciences-215m-ai-robotics-chemistry-labs/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "رکوردشکنی لابی‌گری غول‌های هوش مصنوعی در واشنگتن",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
