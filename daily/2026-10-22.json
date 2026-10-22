@@ -323,6 +323,27 @@
       "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "ابزار هوش مصنوعی مایکروسافت دقیق‌تر از پزشکان",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 9
+    },
+    {
+      "title": "معرفی Decisions API برای ساخت اپلیکیشن‌های سریع‌تر",
+      "source": "openai.com",
+      "link": "https://openai.com/index/decisions-api",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "احتمال ادغام تسلا و اسپیس‌ایکس",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
