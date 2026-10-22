@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-23",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "خیزش اوپن‌ای‌آی برای جذب سرمایه ۳۰ میلیارد دلاری",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "موفقیت چشمگیر هوش مصنوعی کلود در امنیت کدها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-says-claude-proved-security-properties-across-123-libraries/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی کانوا از مدل هوش مصنوعی تولید تصویر Craft",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/canva-debuts-craft-image-model-built-by-its-in-house-research-lab/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "متا همچنان می‌تواند سایت‌های خبری را اسکن کند",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    }
+  ]
+}
