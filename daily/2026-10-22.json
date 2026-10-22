@@ -302,6 +302,27 @@
       "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "درخشش هوش مصنوعی مایکروسافت در تشخیص پزشکی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-diagnostic-ai-outperforms-generalist-physicians-in-science-study/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 9
+    },
+    {
+      "title": "عرضه عمومی مدل تصمیم‌گیری جدید اوپن‌آی‌سی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "استفاده ۳۰ هزار کارمند اوبر از چت‌جی‌پی‌تی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
