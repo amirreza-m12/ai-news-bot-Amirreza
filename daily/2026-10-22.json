@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مدل جدید هوش مصنوعی برای گفت‌وگو با دی‌ان‌ای",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "همکاری بزرگ OpenAI و گوگل کلود",
+      "source": "openai.com",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "خطرات امنیتی سیستم‌های هوش مصنوعی خودمختار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/autonomous-ai-security-delegated-authority/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
