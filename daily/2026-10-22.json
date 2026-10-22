@@ -29,6 +29,27 @@
       "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "بلک‌اسمیت با جذب سرمایه ۶۶ میلیون دلاری تک‌شاخ شد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "آموزش ابزار انویدیا Nsight Python برای پایش GPU",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "نگرانی‌ها درباره بدهی‌های توسعه هوش مصنوعی اغراق‌آمیز است",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
