@@ -218,6 +218,20 @@
       "link": "https://www.unite.ai/denise-muyco-co-founder-and-ceo-of-ravel-interview-series/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 4
+    },
+    {
+      "title": "هکرهای کلاه‌سیاه پیش از انتشار وصله، به آسیب‌پذیری PHP نفوذ کردند",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "مقابله با آسیب‌پذیری خطرناک PHP2Shell",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
