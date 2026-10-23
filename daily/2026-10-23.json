@@ -57,6 +57,27 @@
       "link": "https://openai.com/index/uber-chatgpt-work-rollout",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "معرفی موتور پردازش ایجنت گوگل کلود",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی یو دات کام از اینفرنس روتر با ۱۲ مدل هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "گسترش زیرساخت‌های هوش مصنوعی انویدیا در قزاقستان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-details-kazakhstan-gpu-deployments-and-robotaxi-plans/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
