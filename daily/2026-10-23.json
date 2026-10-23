@@ -274,6 +274,27 @@
       "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "آپدیت امنیتی بزرگ اوپن‌آی‌اس پس از یک حادثه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "مدل هوش مصنوعی جدید جک دورسی؛ دوستی عجیب و صمیمی!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "category": "مدل‌های جدید",
+      "importance": 6
+    },
+    {
+      "title": "جزئیات رویداد بزرگ بنیان‌گذاران استارتاپ‌ها در سال ۲۰۲۶",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 5
     }
   ]
 }
