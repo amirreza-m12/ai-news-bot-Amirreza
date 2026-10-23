@@ -78,6 +78,20 @@
       "link": "https://www.unite.ai/nvidia-details-kazakhstan-gpu-deployments-and-robotaxi-plans/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "همکاری اپن‌ای‌آرتی با لهستان برای ایمنی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/polish-research-institute-nask-openai-reach-deal-on-ai-safety-work/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "معرفی اولمو ارث؛ برترین مدل امبدینگ سیاره زمین",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
