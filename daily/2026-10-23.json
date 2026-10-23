@@ -92,6 +92,27 @@
       "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "ورود ایجنت‌های هوش مصنوعی بدون دیدن رمز عبور",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "انتشار نسخه ۲۲ نگه‌اریکس با امکانات جدید برای انگولار",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/ngrx-22-angular/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "در پشت صحنه اجرای یک جاب اسپارک چه می‌گذرد؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-actually-happens-when-you-run-a-spark-job/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
