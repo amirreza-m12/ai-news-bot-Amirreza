@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-24",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "آموزش مدل‌های پیشرفته OpenAI بدون دسترسی به اینترنت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی «دسا»؛ مدل صوتی جدید بلو با قابلیت مکالمه واقعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/block-unveils-dessa-a-full-duplex-speech-model-trained-on-conversation/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "نقش هوش مصنوعی در حفظ یا تضعیف دموکراسی در نگاه MIT",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "category": "قوانین و اخلاق",
+      "importance": 6
+    }
+  ]
+}
