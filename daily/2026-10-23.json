@@ -232,6 +232,27 @@
       "link": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مقیاس‌پذیری ذخیره‌سازی ابری برای ۱ میلیارد کاربر چات‌جی‌پی‌تی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "ابزار LitPivot برای توسعه ایده‌های پژوهشی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "گفتگو با مدیرعامل بولد سکوریتی درباره امنیت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nati-hazut-ceo-and-co-founder-of-bold-security-interview-series/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 5
     }
   ]
 }
