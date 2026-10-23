@@ -29,6 +29,34 @@
       "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "تشدید محدودیت سرمایه‌گذاری خارجی آمریکا در فناوری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/treasury-proposes-rules-to-expand-outbound-tech-investment-curbs/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ماجراجویی هوش مصنوعی در جزیره مجازی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تغییر نام بخش کریپتو آندریسن هوروویتز و گسترش فعالیت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/andreessen-horowitz-renames-a16z-crypto-expands-fund-beyond-crypto/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری اوبر و OpenAI؛ چت‌گپتی برای ۳۰ هزار کارمند",
+      "source": "openai.com",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
