@@ -169,6 +169,27 @@
       "link": "https://www.unite.ai/what-is-the-eu-ai-act-a-practical-guide-to-general-purpose-ai-rules/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی قابلیت جدید AWS برای اجرای اپلیکیشن‌های نود جی‌اس",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "درخشش هوش مصنوعی در درآمد اینفوسیس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/parekh-ai-now-delivers-10-5-of-infosys-q2-revenue-up-29-sequentially/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
+    },
+    {
+      "title": "سازگاری مدل خود با AWS Trainium را بررسی کنید",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
