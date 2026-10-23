@@ -295,6 +295,20 @@
       "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 5
+    },
+    {
+      "title": "تقویت امنیت محیط آموزش مدل‌های پیشرفته توسط OpenAI",
+      "source": "openai.com",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تاکید رئیس MIT بر اهمیت علوم انسانی در عصر هوش مصنوعی",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+      "category": "پژوهش و تحقیقات",
+      "importance": 3
     }
   ]
 }
