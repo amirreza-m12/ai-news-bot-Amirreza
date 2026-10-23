@@ -127,6 +127,27 @@
       "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "همکاری استلانتیس، انویدیا و وی‌وی در فرانسه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/wayve-stellantis-and-nvidia-join-french-government-on-av-deployment/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "مرزهای هوش مصنوعی در حوزه‌های حساس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-guardrails-payroll-admissions/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "سرعت‌بخشی هوش مصنوعی به تولید سخت‌افزار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-hardware-development-faster-prototyping/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
