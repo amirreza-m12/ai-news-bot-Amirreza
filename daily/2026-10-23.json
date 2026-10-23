@@ -113,6 +113,20 @@
       "link": "https://www.unite.ai/what-actually-happens-when-you-run-a-spark-job/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "اسکنر امنیتی آنتروپیک برای پروژه‌های متن‌باز",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "معماری جدید تین‌فیش برای جستجوی هوشمند",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
