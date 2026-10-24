@@ -92,6 +92,13 @@
       "link": "https://www.unite.ai/how-do-ai-video-generators-work-from-diffusion-to-world-simulation/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "معرفی sandbox-runtime آنتروپیک؛ ایزوله کردن ایمن ایجنت‌ها",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
