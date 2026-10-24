@@ -57,6 +57,20 @@
       "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
       "category": "مدل‌های جدید",
       "importance": 9
+    },
+    {
+      "title": "عرضه عمومی کیت ابزار داده گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "صرفه‌جویی ۱۰۰ ترابایتی کلادفلر با بهینه‌سازی هشینگ",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
