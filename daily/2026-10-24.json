@@ -78,6 +78,20 @@
       "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "نقش هوش مصنوعی در کشف و سوءاستفاده از باگ‌های PHP",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "ابزارهای تولید ویدیو با هوش مصنوعی چطور کار می‌کنند؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/how-do-ai-video-generators-work-from-diffusion-to-world-simulation/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 6
     }
   ]
 }
