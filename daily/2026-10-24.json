@@ -22,6 +22,34 @@
       "link": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "راه‌اندازی آزمایشگاه امنیت زیستی هوش مصنوعی در بریتانیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uk-establishes-ai-biosecurity-lab-backed-by-openai-and-anthropic/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "پایان آموزش هوش مصنوعی روی اینترنت زنده توسط OpenAI",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل کوچک و متن‌باز انویدیا برای دستیارهای صوتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی CADRE؛ کاهش تأخیر مدل‌های جهانی به زیر ۲۳۰ میلی‌ثانیه",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
