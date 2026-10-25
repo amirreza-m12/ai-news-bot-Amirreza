@@ -106,6 +106,27 @@
       "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "معرفی کربن-ایکس؛ مدل زبانی جدید هوش مصنوعی برای دی‌ان‌ای",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی موتور پردازش هوش مصنوعی گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "هوش مصنوعی سود مالی برای شرکت‌ها نداشته است",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
