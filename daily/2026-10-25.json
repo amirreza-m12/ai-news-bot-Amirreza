@@ -64,6 +64,20 @@
       "link": "https://www.unite.ai/ai21-labs-releases-lift-bench-to-curb-reward-hacking-in-rl-training/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "تحولات جستجوی هوش مصنوعی گوگل و نشر آنلاین",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "مسمومیت داده‌ها در هوش مصنوعی چیست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-data-poisoning-how-attackers-corrupt-ai-models-and-datasets/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 6
     }
   ]
 }
