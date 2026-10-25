@@ -29,6 +29,27 @@
       "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "مدل صوتی جدید بلاک با صدایی کاملاً شبیه به انسان",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "اختلال و افزایش خطا در پنج مدل هوش مصنوعی کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "هک بزرگ شرکت پینگ‌کپ و افشای اطلاعات حساس مشتریان",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
