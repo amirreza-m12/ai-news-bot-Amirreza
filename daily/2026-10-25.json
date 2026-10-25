@@ -78,6 +78,27 @@
       "link": "https://www.unite.ai/what-is-data-poisoning-how-attackers-corrupt-ai-models-and-datasets/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "معرفی توکن‌گیت؛ افزایش سرعت پردازش متون طولانی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی اسکنر امنیتی جدید آنتروپیک برای کدهای متن‌باز",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ممنوعیت پروژه های هوش مصنوعی در ردیت متن‌باز",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
