@@ -57,6 +57,13 @@
       "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "معرفی بنچمارک جدید برای بهبود آموزش هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai21-labs-releases-lift-bench-to-curb-reward-hacking-in-rl-training/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
