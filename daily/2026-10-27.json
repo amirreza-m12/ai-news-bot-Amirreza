@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "تقویت امنیت کدهای پیچیده با کمک هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "همکاری اوپن‌آی‌سی با دانشگاه‌ها برای تحقیقات علمی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "راه‌اندازی پلتفرم زیرساخت هوش مصنوعی Vertiv SmartIT",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/vertiv-launches-smartit-pre-engineered-ai-infrastructure-platform/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    }
+  ]
+}
