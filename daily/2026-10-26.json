@@ -246,6 +246,27 @@
       "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "category": "قوانین و اخلاق",
       "importance": 5
+    },
+    {
+      "title": "معرفی مدل جدید GPT-6.1 Terra",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "پشتیبانی سیری از زبان‌های جدید با بروزرسانی اپل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apple-expands-siri-ai-beyond-english-with-27-2-software-updates/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "اعتراض کارکنان بوستون داینامیکس به فروش سگ‌های رباتیک به اداره مهاجرت",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
