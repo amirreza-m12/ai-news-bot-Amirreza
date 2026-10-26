@@ -15,6 +15,27 @@
       "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "راه‌اندازی SWI Compute برای ساخت کارخانه‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/swi-compute-debuts-with-plans-for-nvidia-ai-factories-across-europe/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری بانک اروپایی با Cognizant برای تحول هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ebrd-taps-cognizant-for-five-year-ai-led-tech-blueprint-partnership/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "نسخه جدید MCP C# SDK با قابلیت‌های پیشرفته",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/MCP-CSharp-SDK-Stateless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
