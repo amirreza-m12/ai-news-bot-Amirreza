@@ -225,6 +225,27 @@
       "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "دیجیتال‌اوشن ابزارهای جدید هوش مصنوعی را معرفی کرد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/digitalocean-self-improving-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "گسترش کاربرد چت‌جی‌پی‌تی در محیط‌های کاری",
+      "source": "openai.com",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "آیا هوش مصنوعی زیرساخت شکننده اینترنت را لو می‌دهد؟",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "category": "قوانین و اخلاق",
+      "importance": 5
     }
   ]
 }
