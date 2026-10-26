@@ -148,6 +148,27 @@
       "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "راه‌اندازی نخستین کلود پردازشی فریدوم هلدینگ در قزاقستان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/freedom-holding-plans-its-first-public-gpu-cloud-in-kazakhstan/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "گسترش فعالیت اسککیل ای‌آی در امارات",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/scale-ai-formally-launches-uae-entity-at-dubai-ai-festival/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "چرا درک متن‌های هوش مصنوعی سخت‌تر از تصور ماست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/why-ai-generated-text-is-harder-to-understand-than-you-think/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 6
     }
   ]
 }
