@@ -127,6 +127,27 @@
       "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "مصاحبه با مدیرعامل ردوکتو درباره پردازش اسناد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/adit-abraham-co-founder-and-ceo-of-reducto-interview-series/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "همکاری فاناتیکس و OpenAI برای بهبود خرید هواداران",
+      "source": "openai.com",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "تسلا تاج‌وتخت خودروهای برقی را به رقیب داد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
