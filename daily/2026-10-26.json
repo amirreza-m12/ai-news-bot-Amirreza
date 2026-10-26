@@ -106,6 +106,27 @@
       "link": "https://www.unite.ai/colare-raises-2-5m-hardware-engineering-hiring-simulations/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "ورود آنتروپیک به بورس ناسداک با عرضه اولیه سهام",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-files-s-1-registration-statement-for-nasdaq-ipo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 10
+    },
+    {
+      "title": "نجات کدهای قدیمی بانکی با هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "غفلت از خطرات روزمره هوش مصنوعی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
