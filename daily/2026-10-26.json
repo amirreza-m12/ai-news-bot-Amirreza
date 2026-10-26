@@ -64,6 +64,27 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "تحول معماری ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "گسترش استفاده از ربات‌های انسان‌نما در انبارهای GXO",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/gxo-agility-robotics-expand-digit-humanoid-deployments-to-more-u-s-sites/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "وقتی ایمنی هوش مصنوعی از مهندسی فاصله می‌گیرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-model-welfare-safety-human-control/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
