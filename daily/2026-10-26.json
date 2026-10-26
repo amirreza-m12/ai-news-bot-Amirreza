@@ -85,6 +85,27 @@
       "link": "https://www.unite.ai/ai-model-welfare-safety-human-control/",
       "category": "قوانین و اخلاق",
       "importance": 6
+    },
+    {
+      "title": "پشتیبانی کامل پای‌تورچ از شتاب‌ساز آی‌بی‌ام",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-makes-spyre-accelerator-a-first-class-pytorch-backend/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "عوامل کامپیوتری هوش مصنوعی: تقلید از رفتار انسان در کار با نرم‌افزارها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-are-computer-using-ai-agents/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۲.۵ میلیون دلاری استارتاپ کولار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/colare-raises-2-5m-hardware-engineering-hiring-simulations/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
