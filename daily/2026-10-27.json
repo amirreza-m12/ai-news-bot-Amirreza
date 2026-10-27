@@ -232,6 +232,27 @@
       "link": "https://www.unite.ai/bito-governor-context-model-routing-coding-agent-costs/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "تحقیق از وزارت کشور بریتانیا درباره استفاده از ChatGPT",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تاثیر لحن قاطع مقالات بر داوران هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/confident-science-papers-sway-ai-judges-regardless-of-merit/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "جدایی مدیر هوش مصنوعی متا برای رقابت با مایکروسافت",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
