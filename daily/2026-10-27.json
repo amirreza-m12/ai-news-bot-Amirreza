@@ -183,6 +183,34 @@
       "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "سیلزفورس ابزارهای جدید ارزیابی و کنترل هزینه را معرفی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/salesforce-adds-agent-evals-and-cost-controls-to-agent-fabric/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "معرفی استاندارد جدید اپرا برای اجرای محلی هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۰۰ میلیون دلاری توسط General Compute",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۴۵ میلیون دلاری هایفینیت برای هوش مالی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/hyphenate-raises-45m-series-a-autonomous-finance-agents/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
