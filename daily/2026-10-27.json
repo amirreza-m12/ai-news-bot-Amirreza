@@ -162,6 +162,27 @@
       "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "همکاری IBM و کگل برای ارزیابی ایجنت‌های کدنویسی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-and-kaggle-partner-on-continuous-scarfbench-migration-leaderboard/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "نبرد جدید در نرم‌افزارهای سازمانی فراتر از پروتکل MCP",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mcp-enterprise-ai-saas-differentiation/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "عوامل هوش مصنوعی، مخاطبان جدید رسانه‌ها",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
