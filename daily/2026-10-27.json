@@ -22,6 +22,27 @@
       "link": "https://www.unite.ai/vertiv-launches-smartit-pre-engineered-ai-infrastructure-platform/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "دستاورد جدید علمی OpenAI با کمک محققان دانشگاهی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "ابزار جدید آی‌بی‌ام برای امنیت و مدیریت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-brings-governed-identity-and-credential-controls-to-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "درز اطلاعات در هوش مصنوعی کلادفلر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cloudflare-says-glm-5-3-bug-leaked-155-responses-across-tenant-sessions/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
