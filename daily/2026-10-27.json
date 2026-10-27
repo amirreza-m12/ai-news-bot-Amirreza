@@ -337,6 +337,27 @@
       "link": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 2
+    },
+    {
+      "title": "نسخه جدید مدل هوش مصنوعی Genie گوگل با قابلیت‌های پیشرفته",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "صندوق ۱۰ میلیارد دلاری برای سرمایه‌گذاری در فناوری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/disruptive-announces-10b-flagship-fund-to-back-private-tech-companies/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "طراحی پروتئین با هوش مصنوعی با دستور زبان طبیعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
