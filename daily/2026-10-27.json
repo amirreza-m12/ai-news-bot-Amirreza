@@ -253,6 +253,34 @@
       "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل جنیس ۴ گوگل با قابلیت صوتی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "گسترش همکاری اورکل و OpenAI با چهار ابزار هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/oracle-expands-openai-partnership-with-four-enterprise-ai-offerings/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری انویدیا و اورکل برای توسعه زیرساخت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-oracle-plan-multi-gigawatt-vera-rubin-expansion-on-oci/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "گسترش تاکسی‌های خودران ویمو در ۵ شهر آمریکا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/waymo-expands-fully-autonomous-ride-hailing-across-five-u-s-cities/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
     }
   ]
 }
