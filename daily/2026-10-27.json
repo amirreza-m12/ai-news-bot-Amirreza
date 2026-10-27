@@ -211,6 +211,27 @@
       "link": "https://www.unite.ai/hyphenate-raises-45m-series-a-autonomous-finance-agents/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۴۰ میلیون دلاری ماچنتا برای یادگیری ربات‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/machenta-raises-40m-seed-instant-robot-learning/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "اپل هوش مصنوعی را به برنامه‌های آفیس خود آورد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "ابزار Governor برای کاهش هزینه‌های کدنویسی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/bito-governor-context-model-routing-coding-agent-costs/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
