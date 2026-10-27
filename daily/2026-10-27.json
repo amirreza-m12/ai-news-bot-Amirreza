@@ -71,6 +71,27 @@
       "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل چندموجهی جدید d3-ultra با ۲۷ میلیارد پارامتر",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی ابزار tsrs؛ بازنویسی تایپ‌سکریپت با هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "گسترش زیرساخت هوش مصنوعی کورویو در دانمارک و جهان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/coreweave-activates-denmark-ai-capacity-and-extends-global-network-backbone/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
