@@ -281,6 +281,13 @@
       "link": "https://www.unite.ai/waymo-expands-fully-autonomous-ride-hailing-across-five-u-s-cities/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 8
+    },
+    {
+      "title": "آیا می‌توان به هوش مصنوعی برای سنجش ایده‌های نو اعتماد کرد؟",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/allenai/novelty-bench",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
