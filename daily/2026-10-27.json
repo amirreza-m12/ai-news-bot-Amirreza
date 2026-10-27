@@ -141,6 +141,27 @@
       "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "سرمایه‌گذاری انویدیا روی استارتاپ هوش مصنوعی هندی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "انتروپیک سیستم کنترل نسخه جدیدی را معرفی کرد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "هوش صنعتی؛ موتور محرک رشد آینده تولید",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
