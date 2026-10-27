@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-28",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "موفقیت‌های اولیه آنتروپیک در توسعه داروسازی با کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-reports-early-drug-development-progress-with-claude/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری ۱۰ میلیارد دلاری در استارتاپ‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "عرضه ۵۰۰ تاکسی خودران در آلمان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tensor-mtz-sign-loi-to-deploy-up-to-500-autonomous-taxis-in-germany/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    }
+  ]
+}
