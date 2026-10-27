@@ -43,6 +43,34 @@
       "link": "https://www.unite.ai/cloudflare-says-glm-5-3-bug-leaked-155-responses-across-tenant-sessions/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل GPT-6.1 Terra با قیمت ارزان‌تر",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "دستاورد بزرگ اوپن‌ای‌آی در ریاضیات و فیزیک با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "همکاری گسترده متا و انویدیا روی مدل‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-deepens-nvidia-partnership-on-muse-ai-models-and-infrastructure/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "بایدو سیستم پردازش اسناد قطور را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
