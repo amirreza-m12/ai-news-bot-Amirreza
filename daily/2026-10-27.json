@@ -316,6 +316,27 @@
       "link": "https://www.unite.ai/oracle-to-offer-snowflake-ai-data-cloud-as-first-party-oci-service/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "دیپ‌مایند مدل جهانی جینی ۴ را معرفی کرد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "ساخت مدل‌های چندوجهی تخصصی با LFM3",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "طرح‌های جدید تی-موبایل برای جابجایی اشتراک‌ها",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 2
     }
   ]
 }
