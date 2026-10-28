@@ -246,6 +246,27 @@
       "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "اجرای محلی هوش مصنوعی در مرورگر اپرا",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۶ میلیون دلاری پلاتو برای شبیه‌سازی محیط کار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/plato-raises-16-million-series-a-simulated-workplaces-ai-agents/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "خرید شرکت Entytle توسط RapidCanvas برای هوش مصنوعی صنعتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/rapidcanvas-acquires-entytle-industrial-aftermarket-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
