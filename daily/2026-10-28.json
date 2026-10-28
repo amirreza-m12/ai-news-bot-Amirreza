@@ -267,6 +267,27 @@
       "link": "https://www.unite.ai/rapidcanvas-acquires-entytle-industrial-aftermarket-ai/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "معرفی جمنای ۴ کربن؛ مدل جدید و پیشرفته گوگل",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "تاخیر مجدد متا در اجرای قوانین تجاری جدید",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تکمیل خودکار گوگل کروم با کمک هوش مصنوعی جیمیل",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
