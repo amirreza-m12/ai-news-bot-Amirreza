@@ -92,6 +92,20 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "ابزار FlashMap؛ سرعت ۶ برابری مدل‌های زبانی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "هشدار اضطراری هوش مصنوعی در راه است",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
