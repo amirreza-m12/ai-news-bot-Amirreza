@@ -330,6 +330,27 @@
       "link": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "قابلیت‌های جدید کلود برای شرکت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-adds-smart-reports-surveys-pooled-budgets-to-claude-enterprise/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "ابزارهای جدید آنتروپیک برای مدیریت هزینه‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "هشدار درباره بحران جدید آسیب‌پذیری‌های امنیتی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
