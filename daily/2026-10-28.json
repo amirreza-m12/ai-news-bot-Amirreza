@@ -288,6 +288,27 @@
       "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "تحول وب با هوش مصنوعی؛ گوگل درهای جمنای را باز کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "آینده شرکت‌ها با هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "انتشار ابزار برنامه‌نویسی MiniMax MCode Stack",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
