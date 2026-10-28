@@ -148,6 +148,27 @@
       "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "ابزار هوش مصنوعی بلومبرگ برای کدنویسی مالی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/bloomberg-adds-domain-grounded-ai-coding-assistant-to-bquant/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "متا اپلیکیشن حیوان خانگی هوش مصنوعی را عرضه کرد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
+    },
+    {
+      "title": "مدیریت داده‌های تلومتری در مقیاس بزرگ",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
