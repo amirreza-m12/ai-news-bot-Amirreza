@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/news/2026/10/chrome-email-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "گلایه محققان از پنهان‌کاری‌های اوپن‌ای‌آر",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "سیستم‌عامل هوش مصنوعی برای وکلا",
+      "source": "openai.com",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "انتروپیک: انقلاب زیست‌شناسی با هوش مصنوعی زمان‌بر است",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
