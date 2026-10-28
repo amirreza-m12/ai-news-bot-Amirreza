@@ -106,6 +106,27 @@
       "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "رونمایی کلادفلر از سرویس Workers KV Instant",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/workers-kv-instant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "معلم برنامه‌نویسی هوش مصنوعی آفلاین برای اندروید",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/building-offline-first-android-app-low-end-devices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "آزمایش API جدید کروم برای تأیید ایمیل بدون ارسال پیام",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/chrome-email-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
