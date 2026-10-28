@@ -309,6 +309,27 @@
       "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ابزارهای جدید کلود برای محاسبه بازگشت سرمایه هوش مصنوعی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "مایکروسافت کوپلایت هارنس را عرضه کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "عرضه عمومی سیستم کوپایلوت فیوژن گیت‌هاب",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
