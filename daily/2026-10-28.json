@@ -169,6 +169,27 @@
       "link": "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "مدل‌های بینایی، زبان و عمل؛ پایه روبات‌های همه‌کاره",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-are-vision-language-action-models-the-foundation-of-general-purpose-robots/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "دریافت گواهی امنیتی فدرال توسط هوش مصنوعی هاروی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/harvey-announces-fedramp-class-d-certification-for-federal-legal-work/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۲۵ میلیون دلاری سرکیت مایند برای طراحی الکترونیک با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/circuit-mind-18-5m-series-a-ai-electronics-design/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
