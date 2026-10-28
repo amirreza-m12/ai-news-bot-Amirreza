@@ -71,6 +71,27 @@
       "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "خطرات ترسناک هوش مصنوعی از نگاه آنتروپیک",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "سود نجومی آمازون از عرضه اولیه آنتروپیک",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "نقشه راه آنتروپیک برای عرضه اولیه سهام",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
