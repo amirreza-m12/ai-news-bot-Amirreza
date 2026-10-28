@@ -225,6 +225,27 @@
       "link": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "انویدیا مدل هوش مصنوعی صوتی جدیدی عرضه کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های جدید انویدیا برای تبدیل صوت به متن",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "موج جدید حملات سایبری به بانک‌های کره جنوبی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
