@@ -211,6 +211,27 @@
       "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "مدل قدرتمند ۱ تریلیون پارامتری میسترال منتشر شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mistrals-1-trillion-parameter-le-chonk-checkpoint-lands-on-hugging-face/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "ورود آنتروپیک به بورس وال‌استریت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه ۱۰۰ میلیون دلاری سولینک برای توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/solink-secures-100m-plus-led-by-vertu-capital-for-ai-vision-growth/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
