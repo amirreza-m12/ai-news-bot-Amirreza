@@ -169,6 +169,27 @@
       "link": "https://www.unite.ai/precision-vs-recall-vs-f1-score-which-metric-should-you-use/",
       "category": "پژوهش و تحقیقات",
       "importance": 5
+    },
+    {
+      "title": "استراتژی جنجالی آنتروپیک: ساخت خدای ماشینی یا شکست!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استارت‌آپ وابی با جذب ۵۵ میلیون دلار تک‌شاخ شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/wabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۵۰ میلیون دلاری سروال",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/serval-raises-150m-series-c-at-3b-valuation-to-hire-over-500/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
