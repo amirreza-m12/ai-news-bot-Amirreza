@@ -232,6 +232,27 @@
       "link": "https://www.unite.ai/solink-secures-100m-plus-led-by-vertu-capital-for-ai-vision-growth/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "مدل جدید میسترال چین را در هوش مصنوعی پشت سر گذاشت",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه سنگین کوهیر با ارزش ۳۵ میلیارد دلاری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cohere-closes-initial-series-e-targeting-up-to-cad-7b-at-cad-35-7b-valuation/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "کوچک‌سازی مایکروسافت با کمک هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
