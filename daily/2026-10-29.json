@@ -29,6 +29,34 @@
       "link": "https://www.unite.ai/openai-and-servicenow-expand-partnership-with-chatgpt-workflow-plugin/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "معرفی جمنای ۴ کربن توسط گوگل با جهشی بزرگ",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "معرفی مدل جدید انویدیا برای تبدیل صوت به متن",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "درآمد واقعی ۳۳.۲ میلیارد دلاری مایکروسافت از آژور",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جهش ۴۸ درصدی درآمد آژور مایکروسافت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-posts-19-revenue-growth-as-azure-revenue-jumps-48/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
