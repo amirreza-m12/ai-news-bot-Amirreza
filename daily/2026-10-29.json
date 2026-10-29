@@ -253,6 +253,34 @@
       "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل جینی ۴ گوگل دیپ‌مایند با قابلیت صوتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "بازنگری اساسی اوپن‌آی‌ال بر اساس پنج ارزش کلیدی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-reorganizes-model-spec-around-five-core-behavior-values/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "گسترش سیستم نظارت بر مدل‌های پیشرفته توسط OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-expands-monitoring-to-detect-frontier-model-misalignment/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل قدرتمند میسترال لارج ۴",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
