@@ -148,6 +148,27 @@
       "link": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۶ میلیون دلاری استارتاپ کراکس لبز",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/crux-labs-raises-over-6m-enterprise-ai-agent-evaluation/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "معرفی مدل‌های جدید هوش مصنوعی اپل",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "راهنمای انتخاب معیار ارزیابی در هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/precision-vs-recall-vs-f1-score-which-metric-should-you-use/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 5
     }
   ]
 }
