@@ -71,6 +71,27 @@
       "link": "https://www.infoq.com/news/2026/10/cloudflare-web-search-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل صوتی جدید «دسا» توسط بلاک",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی هرمی، فریم‌ورک متن‌باز برای هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "عرضه مدل تبدیل متن به صوت AssemblyAI با قیمت ارزان",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
