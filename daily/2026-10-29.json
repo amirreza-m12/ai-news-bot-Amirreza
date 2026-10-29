@@ -288,6 +288,27 @@
       "link": "https://openai.com/index/ropes-gray-ai-diligence",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "ویرایش فایل‌های گوگل داکس مستقیماً در جمنای",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "نفوذ هوش مصنوعی شخصی به شبکه امن پنتاگون",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل تصمیم‌گیری جوی-۱ توسط بیس‌تن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baseten-releases-joey-1-a-2b-open-weights-decision-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
