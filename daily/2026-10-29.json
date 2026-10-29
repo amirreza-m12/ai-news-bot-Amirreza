@@ -281,6 +281,13 @@
       "link": "https://huggingface.co/blog/mistral-large4",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "همکاری روپس اند گری با OpenAI برای هوش مصنوعی حقوقی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
