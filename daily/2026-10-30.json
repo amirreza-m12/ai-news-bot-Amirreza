@@ -204,6 +204,27 @@
       "link": "https://www.unite.ai/ai-adoption-business-performance-workflow-roi/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "گزارش امنیت جامعه و محدودیت‌های جدید تسلیحاتی OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "راه‌اندازی هالو؛ پلتفرم هوش مصنوعی خرده‌فروشی کریسپ",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/crisp-halo-retail-ai-enterprise-cloud/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "هشدار افشاگر ترانوس درباره کلاهبرداری‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
