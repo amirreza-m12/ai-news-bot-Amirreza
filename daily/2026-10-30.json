@@ -106,6 +106,27 @@
       "link": "https://www.unite.ai/pudu-robotics-establishes-regional-hq-in-neuss-to-anchor-europe-operations/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 5
+    },
+    {
+      "title": "استارت‌آپ میسترال مدل هوش مصنوعی امنیتی خود را منتشر کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "اعتراض به مراکز داده هوش مصنوعی در انتخابات مین",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "چالش‌های ارتقای شغلی برنامه‌نویسان در عصر هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
