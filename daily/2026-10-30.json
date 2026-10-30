@@ -22,6 +22,27 @@
       "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "حمله هکری چین با مدل دیپ‌سیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/china-nexus-vapor-panda-breached-nine-of-200-plus-targets-with-ai-agents/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "نسخه به‌روزرسانی‌شده راهنمای مدل‌های هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/updated-model-spec",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "روش جدید اوپن‌آی برای شناسایی انحراف مدل‌ها",
+      "source": "openai.com",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
