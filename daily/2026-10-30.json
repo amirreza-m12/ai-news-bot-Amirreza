@@ -253,6 +253,27 @@
       "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "اولین شعر هوش مصنوعی در فضا توسط گوگل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/project-suncatchers-orbiting-tpu-delivers-its-first-ai-generated-haiku/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "اولین ماهواره هوش مصنوعی گوگل در مدار زمین",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "استارباکس به دنبال منوی دیجیتال هوشمند در بخش خودرویی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
