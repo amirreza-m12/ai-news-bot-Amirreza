@@ -225,6 +225,34 @@
       "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل جدید گوگل؛ جیمنای ۴ کربن",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "درخواست پاپ برای خلع سلاح هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "آپدیت امنیتی جدید اوپن‌آی برای محافظت از نوجوانان",
+      "source": "openai.com",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "گسترش همکاری OpenAI و ServiceNow",
+      "source": "openai.com",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
