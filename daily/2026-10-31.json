@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-31",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "نفوذ ایجنت هوش مصنوعی به پنتاگون",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ترک‌های عمیق در تب خرید هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "گسترش همکاری دیتابریکس و SAP برای ارتقای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/databricks-expands-sap-partnership-with-genie-lakeflow-and-lakebase/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    }
+  ]
+}
