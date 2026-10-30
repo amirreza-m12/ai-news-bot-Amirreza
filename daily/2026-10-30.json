@@ -295,6 +295,27 @@
       "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "category": "مدل‌های جدید",
       "importance": 5
+    },
+    {
+      "title": "پاسخ هوش مصنوعی به سوالات انتخاباتی مردم",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ابزار مایکروسافت برای کاهش هزینه برنامه‌نویسان هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "مقایسه ایجنت‌های امنیتی هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
