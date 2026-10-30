@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل ویدئویی Mischief با الهام از نورون‌های زنده",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tbc-mischief-neuron-derived-ai-video-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "نگاه نو؛ نتفلیکس و مدیریت خرابی پردازنده‌های گرافیکی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "تفاوت‌های کلیدی ایجنت‌ها، کوپایلوت‌ها و ورک‌فلوها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agents-vs-copilots-vs-workflows/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
