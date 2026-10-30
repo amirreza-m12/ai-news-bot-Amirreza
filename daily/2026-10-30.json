@@ -148,6 +148,27 @@
       "link": "https://www.unite.ai/ai-agents-vs-copilots-vs-workflows/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "ادامه هجوم هوش مصنوعی به دنیای ریاضیات",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "کاهش زمان سفارش مجدد در دوردش با هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "آیا مراکز داده هوش مصنوعی مثل خودرو تولید می‌شوند؟",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
