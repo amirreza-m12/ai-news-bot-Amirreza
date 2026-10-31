@@ -50,6 +50,27 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "ارسال اولین پاسخ هوش مصنوعی گوگل از فضا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "کشف ۵۰۰ باگ امنیتی توسط ایجنت هوش مصنوعی گوگل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "کنترل بهتر وب‌سایت‌ها روی داده‌های آموزشی هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
