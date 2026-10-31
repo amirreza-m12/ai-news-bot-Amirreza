@@ -113,6 +113,27 @@
       "link": "https://www.unite.ai/google-plans-support-for-shared-robots-txt-ai-training-control/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "فلو مچینگ چیست؟ سرعت بالاتر در هوش مصنوعی مولد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-flow-matching-a-faster-path-for-generative-ai/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی فکتوری دروید ۱.۰؛ ایجنت برنامه‌نویسی مستقل از مدل",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "بدافزار ترسناک جدید با کمک هوش مصنوعی از قربانیان جاسوسی می‌کند",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
