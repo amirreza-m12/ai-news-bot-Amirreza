@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-01",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "چراغ سبز دادگاه به شکایت از مرکز داده xAI ایلان ماسک",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "موضع اپل درباره هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "فقط ۴ روز تا رویداد مهم بنیان‌گذاران تک‌کرانچ",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 2
+    }
+  ]
+}
