@@ -22,6 +22,34 @@
       "link": "https://www.unite.ai/databricks-expands-sap-partnership-with-genie-lakeflow-and-lakebase/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "ورود هوش مصنوعی اپل به بازار چین با iOS 27.3",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apple-brings-first-apple-intelligence-features-to-china-in-ios-27-3/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "اپل اینتلیجنس راهی بازار چین می‌شود",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "آنتراپیک در انتظار رتبه اعتباری پایین پس از عرضه اولیه",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "هک اکانت انتروپیک در محیط کرسر",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
