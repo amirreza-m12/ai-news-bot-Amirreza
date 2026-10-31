@@ -169,6 +169,13 @@
       "link": "https://www.unite.ai/cisco-talos-details-volta-infostealers-llm-victim-ranking-stage/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "انتشار نسخه جدید سیستم‌عامل OpenBSD 8.0",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
