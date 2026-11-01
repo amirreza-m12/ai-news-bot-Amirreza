@@ -22,6 +22,13 @@
       "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 2
+    },
+    {
+      "title": "ابزار متن‌باز آمازون برای انتقال فایل به S3",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
