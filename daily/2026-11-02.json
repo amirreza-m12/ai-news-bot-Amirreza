@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-02",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "تغییر نام احتمالی دیتاسنترهای OpenAI",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "category": "قوانین و اخلاق",
+      "importance": 5
+    },
+    {
+      "title": "هوش مصنوعی و مدیران فناوری؛ دردسر بقیه!",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 4
+    }
+  ]
+}
