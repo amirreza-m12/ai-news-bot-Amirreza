@@ -29,6 +29,27 @@
       "link": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "عرضه مدل هوش مصنوعی Drex Max v1 برای اپل سیلیکون",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "ظرفیت سرورهای آمازون تا سال ۲۰۲۷ تکمیل شد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "دیپ‌سیک ابزار برنامه‌نویسی جدید خود را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
