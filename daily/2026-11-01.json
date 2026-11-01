@@ -57,6 +57,13 @@
       "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "چانکینگ در RAG چیست و چه تاثیری دارد؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-chunking-in-rag-how-document-splitting-shapes-answer-quality/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
