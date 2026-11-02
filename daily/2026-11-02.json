@@ -141,6 +141,27 @@
       "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 6
+    },
+    {
+      "title": "پایان دوران شمارش توکن در هوش مصنوعی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "اتصال داده‌های علائم تجاری به مایکروسافت کوپایلوت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/clarivate-connects-compumark-trademark-data-to-microsoft-copilot/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "راه‌اندازی ابزار SMARE برای نظارت بر رفتار عوامل هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ebix-and-intentyx-launch-smare-to-track-ai-agent-behavior/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
