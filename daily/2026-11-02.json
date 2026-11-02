@@ -274,6 +274,27 @@
       "link": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 8
+    },
+    {
+      "title": "درخشش محققان ام‌آی‌تی در کشف آنتی‌بیوتیک با هوش مصنوعی",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "معرفی مدل هیدروژن ۱.۰ برای کشفیات علمی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "ابزار Qodo برای بازبینی کدهای هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
