@@ -162,6 +162,27 @@
       "link": "https://www.unite.ai/ebix-and-intentyx-launch-smare-to-track-ai-agent-behavior/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "درگاه جدید اوبر برای مدیریت ابزارهای هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "معرفی Agentic Studio برای بهبود کدنویسی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/linearb-agentic-studio-coding-agents-engineering-context/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "عرضه سمعک‌های پیشرفته سیگنیا برای نهادهای دولتی آمریکا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/signia-brings-max-and-active-mini-ix-to-u-s-government-services/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 4
     }
   ]
 }
