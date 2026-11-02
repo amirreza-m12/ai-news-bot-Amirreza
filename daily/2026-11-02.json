@@ -15,6 +15,27 @@
       "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 4
+    },
+    {
+      "title": "معرفی بنچمارک جدید GDPx برای سنجش ایجنت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/semianalysis-launches-gdpx-benchmark-spanning-11-agentic-domains/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری ۲.۶ میلیارد دلاری آرامکو در هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/aramco-acquires-49-humain-stake-with-2-6b-cash-ai-assets/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استفاده از تراشه Ceva در هوش مصنوعی موبیلینت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ceva-neupro-npu-family-reaches-production-in-mobilint-regulus-edge-ai-soc/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
