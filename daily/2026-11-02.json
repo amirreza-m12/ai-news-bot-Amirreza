@@ -204,6 +204,27 @@
       "link": "https://www.unite.ai/ai-brand-protection-disinformation/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "استارتاپ 42AI با سرمایه ۶۲.۵ میلیونی آمد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "جزئیات معماری حافظه و ای‌پی‌آی پرپلکسیتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/perplexity-details-brain-memory-architecture-and-agent-api-testing/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "ایلان ماسک محدودیت‌های ربات گروک را بیشتر کرد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
