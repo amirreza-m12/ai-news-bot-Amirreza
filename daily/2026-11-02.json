@@ -113,6 +113,27 @@
       "link": "https://www.unite.ai/ai-agent-recovery-prevent-duplicate-actions/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "نقش کلیدی هوش مصنوعی در انتخابات ۲۰۲۸ آمریکا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openais-lehane-calls-ai-the-number-one-issue-of-the-2028-election/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "معماری نوین هوش مصنوعی عاملمحور",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/agentic-ai-context-memory-knowledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "معماری نرم‌افزار؛ گفتگو با لوکا مزالیرا",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/podcasts/educating-architect-conversation-luca-mezzalira/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 5
     }
   ]
 }
