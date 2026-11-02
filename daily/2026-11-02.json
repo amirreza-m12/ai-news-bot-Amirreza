@@ -92,6 +92,27 @@
       "link": "https://www.infoq.com/news/2026/11/shopify-kubernetes-ingresses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "صدها اپلیکیشن هوش مصنوعی با قابلیت دیپ‌فیک غیراخلاقی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تسریع در تصمیم‌سازی‌های شهری با هوش مصنوعی",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "چرا ایجنت‌های هوش مصنوعی به مدرک نیاز دارند؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agent-recovery-prevent-duplicate-actions/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
