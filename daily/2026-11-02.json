@@ -253,6 +253,27 @@
       "link": "https://openai.com/index/lifeval",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۰ میلیون دلاری لاریدین برای رصد هزینه‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "شکایت نیویورک تایمز از مرورگر بریو",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "دسترسی بیماران به کلود برای بررسی پرونده‌های پزشکی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
     }
   ]
 }
