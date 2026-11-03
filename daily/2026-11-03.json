@@ -22,6 +22,34 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "خرید غول اپتیک توسط مارول در قراردادی ۱۱۵ میلیاردی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/marvell-agrees-to-acquire-lumentum-in-all-stock-ai-connectivity-deal/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "رونمایی آنتروپیک از پروتکل امنیتی FlashProve",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-releases-flashprove-for-cryptographic-ai-inference-proofs/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "خرید شرکت Cresta توسط سیلزفورس برای توسعه هوش مصنوعی صوتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/salesforce-agrees-to-buy-cresta-for-voice-led-customer-service-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مکانیزم توجه جدید زیفرا برای مدل‌های زبانی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
