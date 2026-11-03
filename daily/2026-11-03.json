@@ -232,6 +232,27 @@
       "link": "https://www.unite.ai/cogent-reports-vr-1-1-passing-repairs-on-57-9-of-livecvebench-tasks/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "استبرد هوشمندانه اپل در بازار هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "محدودسازی هوش مصنوعی گوگل در مدارس به قیمت از دست دادن جستجو",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "تغییر نام مراکز داده اوپن‌آی‌اس به «پردیس پردازشی»",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
