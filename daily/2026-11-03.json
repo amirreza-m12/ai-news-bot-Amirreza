@@ -253,6 +253,34 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "انقلاب در کشف دارو با هوش مصنوعی گوگل",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "ابزار StateBench برای سنجش مدل‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai2-releases-statebench-to-measure-long-context-state-tracking/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی بنچمارک مهندسی گوگل با ۸۵ وظیفه پیچیده",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-opens-85-task-engineering-benchmark-and-agent-competition/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "چالش‌های آنتروپیک با هزینه‌های پردازشی هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
