@@ -330,6 +330,27 @@
       "link": "https://www.unite.ai/meta-proposes-five-series-senior-notes-offering-in-ai-financing-push/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "سیری به اپلیکیشن‌های شخص ثالث متصل شد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "نقش کلیدی هوش مصنوعی در مهندسی دنیای فیزیکی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "همکاری سیسکو و OpenAI برای امنیت سایبری",
+      "source": "openai.com",
+      "link": "https://openai.com/index/cisco-cyber",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
