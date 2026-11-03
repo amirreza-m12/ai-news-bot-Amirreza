@@ -134,6 +134,27 @@
       "link": "https://www.unite.ai/pudu-robotics-unveils-tomo-s-mowers-with-self-sharpening-blades/",
       "category": "محصولات و شرکت‌ها",
       "importance": 6
+    },
+    {
+      "title": "مهار هوش مصنوعی با «نظریه بازی‌های معکوس»",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "نگاهی به چالش‌های هوش مصنوعی و مراکز داده در نیویورک",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "فراتر از ابزارها: بوم هوش مصنوعی برای عامل‌ها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
