@@ -71,6 +71,27 @@
       "link": "https://openai.com/index/scaling-git-at-openai",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "نقش کلیدی کوم‌سِک در عرضه اولیه سهام آنتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropics-planned-ipo-would-give-commsec-australian-retail-lead-role/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "هوش صوتی اپل واچ در دست توسعه‌دهندگان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apple-watch-audio-intelligence-enters-developer-beta-testing/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "گسترش هوش مصنوعی شهری انویدیا با دوقلوهای دیجیتال",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-expands-city-ai-with-shared-infrastructure-and-digital-twins/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
