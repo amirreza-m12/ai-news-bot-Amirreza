@@ -169,6 +169,27 @@
       "link": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
       "category": "محصولات و شرکت‌ها",
       "importance": 4
+    },
+    {
+      "title": "ابزار سینتیزیا با قابلیت ساخت ویدیو به چت‌جی‌پی‌تی آمد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/synthesia-brings-ai-video-creation-and-automation-to-chatgpt/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۲.۵ میلیون دلاری آتنا برای معاملات املاک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/athena-raises-2-5m-ai-legal-services-real-estate/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "آیا ابزار Claude Code واقعاً سریع‌تر شده است؟",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
