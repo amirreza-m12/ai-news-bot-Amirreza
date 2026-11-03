@@ -302,6 +302,34 @@
       "link": "https://www.unite.ai/innolights-first-near-package-optics-device-enters-early-production/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "چت‌جی‌پی‌تی در جستجو به گوگل نزدیک می‌شود",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "جهش ارزش فال به ۱۶ میلیارد دلار با اوج‌گیری تقاضا",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "هشدار سالانه کارمندان اوپن‌آی درباره ناامنی داخلی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-employees-warned-for-years-about-internal-security-risks/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "تامین مالی جدید متا برای توسعه زیرساخت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-proposes-five-series-senior-notes-offering-in-ai-financing-push/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
