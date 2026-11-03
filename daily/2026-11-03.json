@@ -155,6 +155,20 @@
       "link": "https://www.infoq.com/presentations/canvas-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "استفاده لینکدین از اپن‌تل‌متری برای رهگیری کاربران",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
+    },
+    {
+      "title": "بررسی رد مجیک ۱۲ پرو؛ سریع‌ترین اندروید تاریخ",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 4
     }
   ]
 }
