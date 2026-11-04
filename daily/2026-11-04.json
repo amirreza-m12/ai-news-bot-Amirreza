@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-04",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "درآمد رکوردشکنی ۱۳.۴ میلیارد دلاری AMD",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/amds-record-13-4-billion-quarter-lifts-operating-profit-123/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "استفاده از موتورهای جت فرسوده برای تأمین برق دیتاسنترها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه عظیم برای امنیت سایبری هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۲۰ میلیون دلاری تراورس در حوزه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/traversal-raises-120m-series-b-at-1b-valuation-to-expand-ai-sre/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    }
+  ]
+}
