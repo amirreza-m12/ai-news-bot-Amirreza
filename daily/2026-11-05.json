@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-05",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل SWE-2 Flash برای کدنویسی سریع‌تر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cognition-launches-swe-2-flash-for-faster-lower-cost-coding-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "چت‌جی‌پتی اکنون می‌تواند تصاویر متحرک GIF بسازد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "نقش کلیدی کلود در کشف ساختارهای پروتئینی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    }
+  ]
+}
