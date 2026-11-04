@@ -337,6 +337,27 @@
       "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "راه‌اندازی سیستم «گرید» برای مدیریت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baseten-launches-grid-to-route-and-govern-enterprise-ai-coding/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پیوستن استارتاپ Conductor به متا و تعطیلی سرویس ابری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/conductor-joins-meta-and-will-shut-down-its-coding-agent-cloud/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "رشد بی‌سابقه هوش مصنوعی متن‌باز در جهان",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
