@@ -106,6 +106,27 @@
       "link": "https://www.unite.ai/ohio-voters-back-local-data-center-limits-in-unofficial-results/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "مقابله کراداسترایک با عوامل خودسر هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/crowdstrike-targets-rogue-ai-agents-with-insider-threat-detection/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "درخشش ربات انسان‌نمای KAPEX با جایزه ملی علم کره",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/kists-lee-jong-won-wins-korea-science-award-for-kapex-humanoid/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "معامله جنجالی گوگل با مدارس درباره هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
