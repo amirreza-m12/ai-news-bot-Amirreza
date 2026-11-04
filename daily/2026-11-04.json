@@ -85,6 +85,27 @@
       "link": "https://www.unite.ai/cerillion-26-2-extends-ai-from-customer-care-to-churn-prediction/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "هشدار داکر درباره امنیت ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "افت سهام هوش مصنوعی به دلیل نگرانی‌های دیتاسنتر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/data-center-policy-fears-hit-ai-stocks-after-hinojosas-texas-win/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "رای آوردن محدودیت مراکز داده در اوهایو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ohio-voters-back-local-data-center-limits-in-unofficial-results/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
