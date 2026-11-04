@@ -267,6 +267,27 @@
       "link": "https://openai.com/index/daybreak-red-aws-govcloud",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "قوانین جدید بریتانیا برای نظارت بر تشخیص چهره پلیس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uk-home-office-sets-out-police-facial-recognition-oversight-plans/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "پشتیبانی گوگل از پروژه هوش مصنوعی انتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "تصاویر ماهواره‌ای اسکای‌فای به رابین‌هود آمد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/skyfi-brings-satellite-intelligence-to-robinhood-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
