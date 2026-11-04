@@ -309,6 +309,34 @@
       "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "جذب ۱۰ میلیارد دلار سرمایه جدید توسط سکویا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sequoia-raises-approximately-10b-in-new-funds-as-teams-merge/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "گجت هوش مصنوعی ناثینگ بدون نمایشگر می‌آید",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "قابلیت ساخت گیف متحرک به چجی‌پی‌تی اضافه شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/chatgpt-adds-animated-gif-creation-and-editing-with-images-2-6/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "شکست سنگین حامیان دیتاسنترها در انتخابات",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
