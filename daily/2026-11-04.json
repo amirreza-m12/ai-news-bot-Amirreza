@@ -29,6 +29,27 @@
       "link": "https://www.unite.ai/traversal-raises-120m-series-b-at-1b-valuation-to-expand-ai-sre/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "معرفی FlashProve توسط آنتروپیک؛ اثبات رمزنگاری پاسخ‌ها",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "افزایش ۴۲ درصدی سرعت هوش مصنوعی انویدیا با سه ترفند جدید",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "پناهگاه‌های زیرزمینی؛ پاسخ روسیه به حملات پهپادی اوکراین",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
