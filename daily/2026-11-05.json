@@ -281,6 +281,27 @@
       "link": "https://www.unite.ai/baseten-launches-sandboxes-for-long-running-stateful-ai-agents/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "دوبرابر شدن سرعت پیشرفت مدل‌های هوش مصنوعی آنتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/metr-estimates-anthropics-model-capability-growth-has-nearly-doubled/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "۶ تغییر کلیدی در تنظیمات پیکسل ۱۱ برای کارایی بهتر",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "گشایش انبارهای کینائو برای آموزش هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cainiao-opens-global-warehouse-network-for-embodied-ai-training/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
