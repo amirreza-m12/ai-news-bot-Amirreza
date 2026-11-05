@@ -190,6 +190,20 @@
       "link": "https://www.unite.ai/ceo-ai-investment-decisions/",
       "category": "اخبار هوش مصنوعی",
       "importance": 5
+    },
+    {
+      "title": "راه‌اندازی ایجنت‌های سازمانی کیمی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/kimi-formally-launches-hosted-agents-for-enterprise-ai-workloads/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جایزه یک میلیون دلاری استارتاپ YC برای چالش‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
