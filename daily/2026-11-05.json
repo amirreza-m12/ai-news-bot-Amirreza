@@ -302,6 +302,27 @@
       "link": "https://www.unite.ai/cainiao-opens-global-warehouse-network-for-embodied-ai-training/",
       "category": "اخبار هوش مصنوعی",
       "importance": 5
+    },
+    {
+      "title": "مدل‌های جدید انویدیا برای شبیه‌سازی دنیای تعاملی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "رونمایی از فریم‌بوی توسط ورد لبز برای اکتشاف سه‌بعدی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/world-labs-releases-frameboy-for-real-time-atlas-exploration/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "قابلیت‌های صوتی و آواتار زنده در اپلیکیشن میوز متا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-brings-real-time-voice-and-expressive-avatars-to-muse/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
