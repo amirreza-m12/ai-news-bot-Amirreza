@@ -113,6 +113,27 @@
       "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل‌های جدید تولید تصویر توسط OpenAI",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی نسخه جدید هوش مصنوعی تولید تصویر با قابلیت‌های پیشرفته",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عرضه کامپایلر جدید برای افزایش سرعت پردازش هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
