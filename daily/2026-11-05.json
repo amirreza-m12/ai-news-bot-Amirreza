@@ -22,6 +22,34 @@
       "link": "https://www.unite.ai/anthropic-uses-claude-to-show-bacterial-and-phage-proteins-form-vaults/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "کشف ۹۴۸ آسیب‌پذیری لینوکس توسط هوش مصنوعی OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-pipeline-finds-948-linux-kernel-privilege-escalation-flaws/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "کوالکام به دنبال دیتاسنترهای هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل هوش مصنوعی TwIL-8B با قدرت استدلال بالا",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "همکاری یو‌سی‌بی و کریدل در طراحی آنتی‌بادی با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ucb-adds-cradles-ai-platform-to-antibody-discovery-projects/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
     }
   ]
 }
