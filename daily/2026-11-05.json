@@ -71,6 +71,27 @@
       "link": "https://www.unite.ai/amodei-wins-dismissal-of-direct-copyright-claim-with-leave-to-amend/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "انقلاب در خدمات سازمانی با مدل جدید GPT-6.1 Sol",
+      "source": "openai.com",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "معرفی چارچوب جدید گوگل برای تحلیل تصاویر مبهم",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "واکنش منفی رأی‌دهندگان به هوش مصنوعی یا ترامپ؟",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
