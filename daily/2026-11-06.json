@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-06",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "قدرت‌نمایی پردازنده ورا انویدیا در برابر x86",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-pits-vera-cpu-against-x86-on-agent-speed-and-power-capacity/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "دپوی ۶۰۰ هزار تراشه انویدیا در هنگ‌کنگ",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/roughly-600-000-nvidia-h200s-idle-in-hong-kong-amid-beijings-import-hold/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "چت تصویری کاربران آمریکایی با آواتار هوش مصنوعی متا",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    }
+  ]
+}
