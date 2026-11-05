@@ -246,6 +246,27 @@
       "link": "https://www.unite.ai/guardian-applies-sierra-ai-to-high-volume-insurance-service/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "تامین مالی اپل برای توسعه زیرساخت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apple-proposes-seven-series-senior-notes-amid-ai-data-center-buildout/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "افتتاح عصر تازه شبکه‌های اجتماعی توسط بنیان‌گذار ردیت",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "همکاری اسمارت‌برد و سوپرمیکرو برای زیرساخت هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/smartbird-supermicro-managed-enterprise-ai-infrastructure/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
