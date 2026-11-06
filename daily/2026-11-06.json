@@ -113,6 +113,27 @@
       "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "نسخه جدید اوپن‌بائو با پشتیبانی از رمزنگاری کوانتومی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/vault-fork-openbao-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "قفل‌ فایل‌های گیت‌هاب اکشنز عمومی شد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/github-actions-lockfiles-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "مدیریت هویت در سازمان: فراتر از احراز هویت",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/identity-as-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
