@@ -197,6 +197,27 @@
       "link": "https://www.unite.ai/harvey-ai-to-assist-cbd-lawyers-with-research-drafting-and-review/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "مدل صوتی ۳۲ مگابایتی آندرداگ با قابلیت تولید موسیقی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۱۰ میلیون دلاری فیزیکل برای ربات‌ها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "اصالت‌سنجی محتوا؛ مقابله با رسانه‌های جعلی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-content-provenance-c2pa-watermarking-and-detecting-ai-media/",
+      "category": "قوانین و اخلاق",
+      "importance": 5
     }
   ]
 }
