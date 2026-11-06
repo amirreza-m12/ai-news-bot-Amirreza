@@ -92,6 +92,27 @@
       "link": "https://www.unite.ai/xiilab-approves-krw-10b-convertible-bond-to-expand-ai-data-center-business/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "معرفی مدل جدید بَیدو؛ ارنی ۵.۵ فلش بیس با ۲۸۰ میلیارد پارامتر",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "پالو آلتو در فکر خرید کلچ سکوریتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/palo-alto-networks-explores-clutch-security-acquisition/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "حق انتخاب محدود مدارس در استفاده از هوش مصنوعی گوگل",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
