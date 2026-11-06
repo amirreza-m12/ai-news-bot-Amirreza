@@ -22,6 +22,34 @@
       "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل اینکلینگ ۲ توسط تینکینگ ماشینز",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/thinking-machines-lab-launches-inkling-2-small-with-open-weights-pending/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "پیمان‌نامه‌های محرمانگی دیتاسنترها حذف می‌شوند",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ایرن‌بی‌بی دستیار هوش مصنوعی مسافرتی می‌سازد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل جِناینی امنی ۱.۲ فلش گوگل با قابلیت ویدئویی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
