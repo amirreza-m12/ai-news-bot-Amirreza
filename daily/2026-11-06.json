@@ -50,6 +50,27 @@
       "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "مدل سایبری جدید OpenAI؛ کافی است؟",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "پالو آلتو در فکر خرید کلچ با قیمت ۵۰۰ میلیون دلار",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "سقوط سهام هوش مصنوعی آسیا به دلیل ترس‌های آمریکایی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/asian-ai-and-chip-stocks-tumble-on-us-data-center-fears/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
