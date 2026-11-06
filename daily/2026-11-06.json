@@ -330,6 +330,34 @@
       "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مدل جدید ام‌آی‌تی برای پیش‌بینی ساختار مولکولی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mit-details-chemeleon-model-for-low-data-molecular-prediction/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "ادامه توسعه مراکز داده OpenAI علیرغم موانع",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-cfo-says-data-center-buildout-will-continue-after-midterms/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "قابلیت جدید متا برای شخصی‌سازی اپلیکیشن میوز",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-adds-custom-spaces-to-personalize-the-muse-app-experience/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "قابلیت جدید هوش مصنوعی متا برای ساخت فضاهای اختصاصی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
