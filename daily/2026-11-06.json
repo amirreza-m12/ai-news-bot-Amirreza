@@ -176,6 +176,27 @@
       "link": "https://www.unite.ai/ai-briefed-clients-accounting-firms/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "گیت‌لب ۱۹.۵: توسعه مبتنی بر ایجنت با نظارت کامل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "اعتراض به ساخت دیتاسنتر مایکروسافت در آمستردام",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "استفاده بانک تجاری دبی از هوش مصنوعی هاروی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/harvey-ai-to-assist-cbd-lawyers-with-research-drafting-and-review/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
