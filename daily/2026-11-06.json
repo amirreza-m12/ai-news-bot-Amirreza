@@ -288,6 +288,27 @@
       "link": "https://www.unite.ai/ramp-data-shows-business-ai-token-use-outpacing-spending-growth/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "معرفی زیفرا ZYFA با سرعت ۱.۷۶ برابری روی پردازنده‌های AMD",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "افت ناگهانی هزینه‌کرد شرکت‌ها برای هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "عقب‌نشینی متا از آموزش هوش مصنوعی با محتوای کاربران",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
