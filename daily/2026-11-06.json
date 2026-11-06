@@ -309,6 +309,27 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "قدرت نگران‌کننده مدل‌های هوش مصنوعی چینی در هک",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تاثیر انتخابات آمریکا بر آینده صنعت هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "افشای صدها ابزار هک آرتیکس روی وب",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
