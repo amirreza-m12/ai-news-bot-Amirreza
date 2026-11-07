@@ -148,6 +148,27 @@
       "link": "https://www.unite.ai/book-review-forward-deployed-riste-gramatikov/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "ارزش اوپن‌ای‌آی از مرز ۱.۲۵ تریلیون دلار گذشت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 10
+    },
+    {
+      "title": "معرفی مدل جدید Inkling 2 Small با ۵۹۴ میلیارد پارامتر",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "ورود آنتروپیک به بورس با ارزش تریلیون دلاری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropics-planned-ipo-puts-public-trust-and-data-centers-in-focus/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
