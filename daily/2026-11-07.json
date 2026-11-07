@@ -120,6 +120,20 @@
       "link": "https://www.unite.ai/what-is-model-distillation-how-large-ai-models-teach-smaller-ones/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "فروش تراشه‌های انویدیا به یک شرکت خالی در چین!",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "تاثیر مخرب هوش مصنوعی بر امنیت سایبری",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
