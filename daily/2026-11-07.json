@@ -50,6 +50,27 @@
       "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "مدل جدید هوش مصنوعی در صدر مدل‌های متن‌باز غربی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "قابلیت چت متنی با الکسا برای خرید آسان‌تر در آمازون",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "معرفی ToyBlocks برای آموزش بهتر ربات‌ها",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
