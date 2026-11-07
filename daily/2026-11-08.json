@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-08",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "اجرای مدل Dory 4B انویدیا با llama.cpp",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "چالش‌های پیش‌روی ایلان ماسک و دیتاسنترها",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 4
+    }
+  ]
+}
