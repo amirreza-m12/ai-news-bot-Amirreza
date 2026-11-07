@@ -29,6 +29,27 @@
       "link": "https://www.unite.ai/anthropic-ipo-valuation-expectations-fall-after-technology-selloff/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "جذب سرمایه جدید ۱۱ میلیارد دلاری توسط OpenAI",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 10
+    },
+    {
+      "title": "موفقیت مدل موز در شاخص هوش مصنوعی متا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/current-muse-scores-47-on-metas-personal-superintelligence-index/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "فروش پروژه دیتاسنتر وایومینگ به گوگل توسط کروسو",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
