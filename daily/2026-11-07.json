@@ -134,6 +134,20 @@
       "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "دستیار هوش مصنوعی نیویورک تایمز در آشپزی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "بررسی کتاب جدید درباره چارچوب هوش مصنوعی پالانتیر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/book-review-forward-deployed-riste-gramatikov/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
