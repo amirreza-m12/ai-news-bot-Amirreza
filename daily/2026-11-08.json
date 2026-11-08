@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "summary_sent": false,
+  "summary_sent": true,
   "items": [
     {
       "title": "اجرای مدل Dory 4B انویدیا با llama.cpp",
