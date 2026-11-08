@@ -50,6 +50,20 @@
       "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "انقلاب در گیت؛ ابزاری جدید برای همکاری با هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "ابزار جدید گوگل برای کدنویسی دقیق‌تر با هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
