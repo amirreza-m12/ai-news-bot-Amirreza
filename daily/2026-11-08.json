@@ -29,6 +29,20 @@
       "link": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "راهنمای جامع استراتژی‌های مسیریابی در مدل‌های MoE",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "ارائه راهکار وی‌میر در گوگل کلود",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
