@@ -50,6 +50,20 @@
       "link": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "تحقیقات انویدیا درباره رابطه مدیرعامل با جاسوس چینی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "پینترست سیستم خود را با مدل هوش مصنوعی Qwen بروزرسانی کرد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
