@@ -190,6 +190,27 @@
       "link": "https://www.unite.ai/agentic-ai-enterprise-software-modernization/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "اتوماتیک با Spacefast به میدان آمد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "همکاری ویو و کورویو برای آموزش هوش مصنوعی رانندگی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/wayve-to-train-ai-driver-models-on-coreweave-cloud-with-blackwell-gpus/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "گسترش داور هوش مصنوعی در پرونده‌های تجاری",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/aaa-expands-ai-arbitrator-to-documents-only-commercial-cases/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
