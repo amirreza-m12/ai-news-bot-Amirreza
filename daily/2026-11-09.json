@@ -169,6 +169,27 @@
       "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "معرفی تراشه‌های جدید گوگل در نسل هشتم TPU",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-adds-tpu-8tx-and-tpu-8i-max-to-eighth-generation-lineup/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "راه‌اندازی مؤسسه ملی هوش مصنوعی اثرگذار در اسرائیل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/israels-national-ai-directorate-launches-impact-driven-ai-institute/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "آیا معماری نرم‌افزار شما برای ایجنت‌های هوش مصنوعی آماده است؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/agentic-ai-enterprise-software-modernization/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
