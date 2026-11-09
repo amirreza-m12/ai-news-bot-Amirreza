@@ -127,6 +127,27 @@
       "link": "https://www.unite.ai/nyu-langones-previa-flags-ptsd-risk-from-emergency-narratives/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "همکاری بزرگ برای توسعه ربات‌های انسان‌نما",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "اجرای مدل‌های پای‌تورچ روی آمازون با TorchNeuron",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-torchneuron-trainium-pytorch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تاییدیه امنیتی فدرال برای پلتفرم هوش مصنوعی Nozomi",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nozomi-networks-takes-ai-security-cloud-to-fedramp-moderate/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
