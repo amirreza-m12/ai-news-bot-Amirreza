@@ -323,6 +323,34 @@
       "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های جدید آنتروپیک با سرعت و ظرفیت بالا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropics-fable-5-2-pairs-1m-token-context-with-faster-output/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "عرضه عمومی پت‌ویز برای پردازش‌های سنگین گوگل کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-cloud-makes-pathways-runtime-ga-for-large-scale-tpu-workloads/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عرضه چت‌جی‌پتی انترپرایز در مارکت‌پیس آمازون",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-starts-selling-chatgpt-enterprise-through-aws-marketplace/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "سیستم جدید بایدو برای خودکارسازی تحقیقات هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baidus-ernie-evolve-automates-ai-research-and-inference-optimization/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
