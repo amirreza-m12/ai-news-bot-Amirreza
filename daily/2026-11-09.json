@@ -281,6 +281,27 @@
       "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "افشای تصادفی اطلاعات محرمانه توسط کلود کد در گیت‌هاب",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جانشین نانسی پلوسی آماده قانون‌گذاری برای هوش مصنوعی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "خرید توربین‌های گازی توسط انتروپیک به ارزش ۳.۴ میلیارد دلار",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
