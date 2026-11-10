@@ -204,6 +204,27 @@
       "link": "https://www.unite.ai/n8n-releases-open-source-personal-agent-nod-for-mac-and-windows/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "گسترش همکاری‌های گوگل و ادوبی در جیمیل و جمنای",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-expands-adobe-integrations-across-drive-gemini-and-search/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل فکتوری توسط هدرا برای توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/hedra-model-factory-post-training-inference-physical-ai/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "همکاری اینتل و الترای برای توسعه بردهای حسگر هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/intel-and-altera-develop-modular-sensor-bridges-for-physical-ai/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
