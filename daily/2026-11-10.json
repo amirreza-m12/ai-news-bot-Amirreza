@@ -50,6 +50,34 @@
       "link": "https://www.unite.ai/australia-releases-ai-safety-recommendations-after-openai-breach/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "متا مدل Muse Ember را با کانتکست یک میلیونی عرضه کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "بودجه ۵۳ میلیون دلاری ام‌آی‌تی برای علف‌کش‌های هوش مصنوعی",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "آمادگی آنتروپیک برای عرضه اولیه سهام",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "واکنش ترامپ به رسوایی مدیرعامل انویدیا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
