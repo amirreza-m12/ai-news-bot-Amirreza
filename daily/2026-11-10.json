@@ -267,6 +267,27 @@
       "link": "https://www.unite.ai/wellsaid-producer-puts-ai-voiceover-production-inside-mcp-workflows/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی ابزار Claude Meetings برای جلسات کاری",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "ورود آنتروپیک به بازار ابزارهای اداری هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۵ میلیون دلاری گرافون لبز برای حافظه AI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/graphon-labs-raises-35m-series-a-to-scale-persistent-ai-memory/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
     }
   ]
 }
