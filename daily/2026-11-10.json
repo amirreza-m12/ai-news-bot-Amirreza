@@ -29,6 +29,27 @@
       "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "اشتباه جنجالی آنتروپیک در اعلام رقم عرضه اولیه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-withdraws-ipo-pricing-after-draft-outlines-up-to-69-3b-raise/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "اثبات امنیت پروتکل سیگنال با هوش مصنوعی گوگل",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "استرالیا دستورالعمل‌های جدید ایمنی هوش مصنوعی را منتشر کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/australia-releases-ai-safety-recommendations-after-openai-breach/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
