@@ -99,6 +99,27 @@
       "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ماجرای رسوایی جاسوسی انویدیا و مدیرعامل آن",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "پر کردن خلاء راهنمایی هوش مصنوعی در آموزش",
+      "source": "openai.com",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "قابلیت سقف هزینه در گوگل کلود عرضه شد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-cloud-spend-caps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
