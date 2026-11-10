@@ -316,6 +316,34 @@
       "link": "https://www.unite.ai/anthropic-launches-claude-whiteboards-and-sheets-in-beta/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "رونمایی از «اینت‌های تجاری» تأییدشده در چت‌جی‌پی‌تی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "خرید استارتاپ سفر هوش مصنوعی توسط OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-acquires-ai-travel-startup-odessia-as-founder-joins/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "خرید استارتاپ هوش مصنوعی توسط اورا با ۶۲۵ میلیون دلار",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "انقلاب هوش مصنوعی در کشفیات علمی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
