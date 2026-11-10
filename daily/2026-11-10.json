@@ -225,6 +225,27 @@
       "link": "https://www.unite.ai/intel-and-altera-develop-modular-sensor-bridges-for-physical-ai/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "معرفی جمنای رباتیک ۲.۵ و بنچمارک ایمنی آسیموف",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه ۳۰۰ میلیون دلاری توسط Path Robotics",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/path-robotics-raises-300m-series-e-at-2-45b-to-expand-manufacturing-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "ابزارهای هوش مصنوعی جدید ادوبی برای فتوشاپ و پریمیر",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
