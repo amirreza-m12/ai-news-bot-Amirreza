@@ -162,6 +162,27 @@
       "link": "https://www.unite.ai/ceipal-launches-ora-ai-agents-for-recruiting-and-compliance/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "همکاری پینترست و اینتل برای توسعه پروفایلینگ متن‌باز",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "راه‌اندازی خدمات مدیریت‌شده کلود توسط کاگنیزنت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cognizant-launches-claude-managed-services-with-25-000-plus-professionals/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "رقابت پهپادهای فیبر نوری اوکراین با دیتاسنترها",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
