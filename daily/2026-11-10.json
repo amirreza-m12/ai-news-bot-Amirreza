@@ -141,6 +141,27 @@
       "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "آزادسازی چت‌بات‌ها از بند شرکت‌ها توسط هکرهای یاغی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "کاهش هزینه هوش مصنوعی والمارت با پردازش دسته‌ای",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "رونمایی از دستیارهای هوش مصنوعی Ora برای استخدام",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ceipal-launches-ora-ai-agents-for-recruiting-and-compliance/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
