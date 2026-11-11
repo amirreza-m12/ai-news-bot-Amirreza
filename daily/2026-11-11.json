@@ -148,6 +148,34 @@
       "link": "https://www.unite.ai/harvey-partners-with-djof-forlag-to-add-danish-legal-sources/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های کلود ۵.۲ آنتروپیک با سطح ایمنی متفاوت",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی الگوریتم e-means متا برای جایگزینی k-means",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "سود ۲۵۰ میلیون دلاری بنیان‌گذاران آنتروپیک در IPO",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "معرفی قابلیت‌های جدید کسب‌وکار در چت‌جی‌پی‌تی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
