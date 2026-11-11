@@ -295,6 +295,27 @@
       "link": "https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "سیستم SFR-AutoR&D سیلزفورس؛ اتوماسیون تحقیق و توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/salesforces-sfr-autor-and-d-automates-model-research-and-validation/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی ابزار Tabletop گوگل برای ساخت فضای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-introduces-tabletop-for-building-collaborative-ai-spaces/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "اتصال ابزارهای هوش مصنوعی به پلتفرم LegalOS",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/lawvu-gives-five-ai-tools-governed-access-to-legalos-workflows/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
