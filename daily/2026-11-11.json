@@ -99,6 +99,27 @@
       "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل جهانی PAN 2 برای هوش مصنوعی فیزیکی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "خرید تراشه‌های انویدیا توسط دانشگاه تحریم‌شده چینی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/procurement-notices-detail-four-nvidia-h200-cards-at-blacklisted-nwpu/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "کامپایلر جدید انگولار با پیش‌پردازنده راسی در راه است",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/angular-compiler-rust-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
