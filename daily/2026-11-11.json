@@ -246,6 +246,27 @@
       "link": "https://www.unite.ai/metalenz-buys-pxe-imaging-to-add-color-and-depth-to-edge-ai/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "گوگل دیپ‌مایند بخش‌های کلیدی پیام‌رسان سیگنال را تایید کرد",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "ابزارهای جدید ادوبی؛ از عکس سه‌بعدی تا گفتگو با هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل پیش‌بینی قدرتمند Olas Predict",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/valory-olas-predict-open-weight-model-forecasting/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
