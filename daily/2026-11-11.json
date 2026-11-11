@@ -204,6 +204,27 @@
       "link": "https://www.infoq.com/news/2026/11/qcon-ai-newyork-2026-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "روی آوردن داروسازان چینی به بازاریابی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/drugmakers-in-china-explore-ai-marketing-amid-anti-graft-scrutiny/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "راه‌اندازی خط تولید چیلرهای هوش مصنوعی در تگزاس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/modine-starts-chiller-production-in-texas-for-ai-data-centers/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 5
+    },
+    {
+      "title": "عرضه موتور پرده هوشمند سوییچ‌بات مدل Curtain Track 4",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/switchbot-launches-curtain-track-4-for-existing-u-rail-curtains/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 4
     }
   ]
 }
