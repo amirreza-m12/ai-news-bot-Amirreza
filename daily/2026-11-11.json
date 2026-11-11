@@ -22,6 +22,34 @@
       "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "افشای اطلاعات محرمانه اسپیس‌اکس از طریق ابزار گروک",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "نسخه جدید فایس متا با الگوریتم خوشه‌بندی سریع",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/metas-faiss-1-16-0-adds-e-means-for-faster-large-scale-clustering/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ورود هوش مصنوعی کلود به دنیای ابزارهای اداری",
+      "source": "theregister.com",
+      "link": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "آپدیت جدید کورسر برای کار گروهی با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cursor-adds-team-collaboration-and-agent-handoffs-to-projects/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
