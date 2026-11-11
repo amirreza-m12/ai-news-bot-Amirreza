@@ -316,6 +316,27 @@
       "link": "https://www.unite.ai/lawvu-gives-five-ai-tools-governed-access-to-legalos-workflows/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "مقابله با سلاح‌های زیستی با کمک هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عرضه عمومی وورک‌فلوهای ایجنتیک گیت‌هاب",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "کلود به زودی دستیار جلسات کاری شما می‌شود",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
