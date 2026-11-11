@@ -337,6 +337,27 @@
       "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری ۱ میلیارد دلاری TSMC در اوپن‌آی و انتروپیک",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "آلفاژنوم ۲؛ رمزگشایی خوانش دی‌ان‌ای برای درمان بیماری‌ها",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "معرفی API جدید جمنای برای تصمیم‌گیری چندوجهی",
+      "source": "blog.google",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
