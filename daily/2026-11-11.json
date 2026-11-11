@@ -50,6 +50,34 @@
       "link": "https://www.unite.ai/cursor-adds-team-collaboration-and-agent-handoffs-to-projects/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "جهش ۵۰ درصدی درآمد فصلی OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-quarterly-revenue-rises-about-50-as-operating-loss-widens/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "قانون جدید ایمنی هوش مصنوعی در نیویورک",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "معرفی ۵ مدل هوش مصنوعی برای خودروهای خودران",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tier-iv-details-five-open-source-models-for-autonomous-driving/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل صوتی جدید Fish Audio Live 3",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
