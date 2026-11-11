@@ -78,6 +78,27 @@
       "link": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "عرضه مدل جدید جمنای ۴ کربن توسط گوگل",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "همکاری اوپن‌آی و Cogent برای امنیت سایبری",
+      "source": "openai.com",
+      "link": "https://openai.com/index/cogent-security",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ماجرای جنجالی مدیرعامل انویدیا و جاسوس چینی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
