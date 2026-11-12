@@ -316,6 +316,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل جمنای ۴ هیدروژن توسط گوگل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-launches-gemini-4-hydrogen-for-everyday-agentic-workflows/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "جذب سرمایه یک میلیارد دلاری میرندیل در سری A",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mirendil-raises-1b-series-a-to-bring-frontier-ai-r-and-d-to-more-teams/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "معرفی کلود برای صنایع با ۱۷ قابلیت کاربردی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-launches-claude-for-manufacturing-with-17-workflow-skills/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
     }
   ]
 }
