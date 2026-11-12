@@ -337,6 +337,34 @@
       "link": "https://www.unite.ai/anthropic-launches-claude-for-manufacturing-with-17-workflow-skills/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "عرضه مدل جدید جمنای ۴ هیدروژن توسط گوگل",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "شکایت گروه‌های مدافع حقوق بشر برای توقف توسعه هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/public-citizen-advocacy-groups-sue-to-freeze-frontier-ai-development/",
+      "category": "قوانین و اخلاق",
+      "importance": 9
+    },
+    {
+      "title": "عرضه مدل‌های گرانیت IBM با مقاومت بالا در برابر هک پرامپت",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ibm-releases-granite-models-designed-to-resist-prompt-injection/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "اتصال دستیار هوش مصنوعی به ریموت پی‌سی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/remotepc-connects-ai-assistants-to-remote-computer-management/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
