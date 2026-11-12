@@ -239,6 +239,34 @@
       "link": "https://www.unite.ai/baidu-launches-token-exchange-for-verified-ai-model-services/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "پیش‌فروش عینک هوشمند گوگل با قدرت جمنای",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-opens-pre-orders-for-gemini-powered-intelligent-eyewear/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "نورس‌وست صندوق ۴ میلیارد دلاری خود را راه‌اندازی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/norwest-announces-4b-fund-with-ai-among-its-investment-priorities/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "چرا ایجنت‌های هوش مصنوعی قوانین را فراموش می‌کنند؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agents-can-remember-rules-and-still-break-them-after-compression/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "هک فایروکس‌ AI و افشای چت‌های نوشن",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
