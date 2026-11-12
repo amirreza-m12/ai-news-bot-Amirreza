@@ -204,6 +204,20 @@
       "link": "https://www.unite.ai/hatz-ai-secures-24m-series-a-to-grow-its-engineering-teams/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "برکناری جنسن هوانگ، مدیرعامل انویدیا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 10
+    },
+    {
+      "title": "رونمایی از ناووکا؛ دستیار هوش مصنوعی مالی و پرداختی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/navoka-arrives-with-payment-tools-for-ai-under-holder-set-limits/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
