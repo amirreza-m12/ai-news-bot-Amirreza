@@ -120,6 +120,27 @@
       "link": "https://www.infoq.com/news/2026/11/finprim-validation-qanda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "گوگل کتابخانه TPU Sync را متن‌باز کرد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۰ میلیون دلاری SE3 برای توسعه هوش مصنوعی فضایی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/se3-raises-30m-series-a-to-scale-spatial-ai-for-autonomous-systems/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "اتصال هوش مصنوعی متا به خانه هوشمند تویا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tuya-connects-metas-muse-to-smart-home-devices-through-cloud-apis/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
