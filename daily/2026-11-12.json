@@ -288,6 +288,34 @@
       "link": "https://www.unite.ai/polar-light-technologies-signs-foxconn-deal-for-microled-optical-links/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "عرضه ابزار AWS Emulator توسط آمازون",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۴ میلیون دلاری اوراکل انکولوژی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/orakl-oncology-raises-34m-series-a-to-expand-ai-cancer-drug-prediction/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "زیان سنگین سافت‌بانک در تأمین انرژی هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "چت‌بات‌های هوش مصنوعی کاربران را به سایت‌های تقلبی هدایت می‌کنند",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
