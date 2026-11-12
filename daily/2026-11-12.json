@@ -29,6 +29,27 @@
       "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "معرفی آلفاژنوم ۲ توسط گوگل دیپ‌مایند",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "مدل‌های سریع‌تر و قابل‌اعتمادتر هوش مصنوعی برای اقلیم",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "عرضه مدل هوش مصنوعی تتر برای اجرای ابزارها روی دستگاه شخصی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tether-releases-qvac-botpsy-for-tool-using-ai-on-personal-devices/",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
