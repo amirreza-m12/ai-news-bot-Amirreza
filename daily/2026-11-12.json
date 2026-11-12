@@ -50,6 +50,27 @@
       "link": "https://www.unite.ai/tether-releases-qvac-botpsy-for-tool-using-ai-on-personal-devices/",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "فرار شرکت‌های چینی به دیتاسنترهای خارج از کشور",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/chinese-ai-firms-seek-overseas-nvidia-capacity-amid-export-control-fears/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "همکاری‌های جدید بایومپ در حوزه هوش مصنوعی زیستی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/biomap-unveils-11-ai-life-science-collaborations-at-hong-kong-summit/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "چالش‌های ساخت دیتاسنترهای هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
