@@ -197,6 +197,27 @@
       "link": "https://www.unite.ai/asus-sets-human-pace-packing-target-for-gallop-humanoid-robot/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "انتشار نسخه ۱.۰.۰ ابزار Llama.cpp با قوانین جدید",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/llama-cpp-v1-0-0-sets-api-stability-rules-for-local-ai-tools/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ابزار جدید گوگل برای عیب‌یابی ایجنت‌های هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "عرضه ابزار جدید سونو برای تولید موسیقی در ایبلتون لایو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/suno-launches-bridge-beta-for-ai-stem-generation-in-ableton-live/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
