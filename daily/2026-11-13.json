@@ -141,6 +141,20 @@
       "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "جهش درآمد گوندولا با کمک هوش مصنوعی",
+      "source": "openai.com",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "جعبه‌ابزار نفوذ در معماری نرم‌افزار",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/bbc-software-architecture-influence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
