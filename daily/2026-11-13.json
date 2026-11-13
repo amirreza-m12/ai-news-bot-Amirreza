@@ -78,6 +78,27 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "معرفی جمنای ۴ هیدروژن توسط گوگل دیپ‌مایند",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "آپدیت بزرگ جستجوی گوگل با جمنای ۴ هیدروژن",
+      "source": "blog.google",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "رشد استفاده از هوش مصنوعی در بازی‌سازی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
     }
   ]
 }
