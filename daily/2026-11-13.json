@@ -176,6 +176,27 @@
       "link": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی ابزار TPU Sync گوگل برای انتقال کش",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پدیده «هک پاداش» در هوش مصنوعی چیست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-reward-hacking-when-ai-optimizes-the-metric-instead-of-the-goal/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "ربات انسان‌نمای ایسوس برای بسته‌بندی قطعات",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/asus-sets-human-pace-packing-target-for-gallop-humanoid-robot/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
