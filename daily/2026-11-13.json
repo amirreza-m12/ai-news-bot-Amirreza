@@ -288,6 +288,27 @@
       "link": "https://www.unite.ai/sierra-releases-poppy-1-0-with-shopify-and-meta-muse-support/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "راهنمای جدید آنتروپیک برای ارزیابی ایمنی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-publishes-guidance-for-more-reliable-ai-safety-evaluations/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "انتشار دادگان مدل‌های پیش‌بینی آب‌وهوا",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "آموزش شبیه‌سازی ربات با دارایی‌های SimReady",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
