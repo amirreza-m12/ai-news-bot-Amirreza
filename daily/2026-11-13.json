@@ -267,6 +267,27 @@
       "link": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "هشدار عضو هیئت مدیره OpenAI درباره تسلط هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "خرید استارتاپ هوش مصنوعی پزشکی AgileMD",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/wolters-kluwer-agrees-to-buy-clinical-ai-company-agilemd/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "عرضه نسخه ۱.۰ پروتکل Poppy توسط سیرا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sierra-releases-poppy-1-0-with-shopify-and-meta-muse-support/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
