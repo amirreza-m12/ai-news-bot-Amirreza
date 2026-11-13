@@ -309,6 +309,20 @@
       "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "اجرای هوش مصنوعی دیانیا روی سرورهای بیمارستانی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/dyania-health-runs-synapsis-ai-on-hospital-owned-gpu-systems/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "بازگشت مایکروسافت ۳۶۵ پس از قطعی ۲۴ ساعته",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 5
     }
   ]
 }
