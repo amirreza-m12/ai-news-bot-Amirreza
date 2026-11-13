@@ -239,6 +239,34 @@
       "link": "https://www.unite.ai/cohere-acquires-aisle-and-cubic-to-add-cyber-defense-and-secure-coding/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۳۰۰ میلیون دلاری لنگ‌چین",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/langchain-secures-300m-series-c-at-3b-valuation-for-agent-governance/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "کیف پول جدید چجی‌پتی برای خرید آنلاین",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "عرضه نسخه جدید مدل تصمیم‌گیر پرپلکسیتی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "نسخه‌ پیش‌نمایش سیری هوش مصنوعی برای توسعه‌دهندگان اپل",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
