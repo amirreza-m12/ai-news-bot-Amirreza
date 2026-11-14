@@ -29,6 +29,27 @@
       "link": "https://openai.com/business/customer-stories/shield",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "هک کرسر از طریق کلید لو رفته در فایرورکس AI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cursor-traces-breach-to-access-key-exposed-by-fireworks-ai/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "نقشه جدید آمازون برای جمع‌آوری تمام کالاهای اینترنت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "سیل باگ‌های هوش مصنوعی لینوکس را خسته کرد",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 6
     }
   ]
 }
