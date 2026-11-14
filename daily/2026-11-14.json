@@ -85,6 +85,27 @@
       "link": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "عرضه کی‌سیت رابط کاربری ورسل برای ایجنت‌های برنامه‌نویسی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "انتشار نسخه ۱.۰.۰ از llama.cpp برای هوش مصنوعی محلی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "آپدیت جدید نود جی‌اس با قابلیت‌های کلیدی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
