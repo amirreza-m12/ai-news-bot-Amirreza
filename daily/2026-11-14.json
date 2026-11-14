@@ -134,6 +134,20 @@
       "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "موج جدید باج‌افزارهای مجهز به هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "راهنمای جامع چارچوب مدیریت ریسک هوش مصنوعی NIST",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/what-is-the-nist-ai-risk-management-framework-a-guide-for-ai-teams/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
