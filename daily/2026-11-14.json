@@ -50,6 +50,20 @@
       "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "جهش ارزش لنگ‌چین به ۳ میلیارد دلار",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "دیتابیس متن‌باز DocumentDB 1.0 عرضه شد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
