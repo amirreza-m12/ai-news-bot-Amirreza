@@ -64,6 +64,27 @@
       "link": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "رونمایی از کیف پول چت‌جی‌پی‌تی برای خرید خودکار",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 9
+    },
+    {
+      "title": "نگرانی استارتاپ‌های هوش مصنوعی از جدایی جنسن هوانگ",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "نسخه‌بندی جدید گوگل کلود برای Compute Engine API",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
