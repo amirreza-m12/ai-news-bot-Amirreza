@@ -64,6 +64,20 @@
       "link": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل جدید Tofu-1 برای مکالمات تلفنی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "تاماگوتچی هوش مصنوعی اشیاء روزمره را زنده می‌کند!",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
