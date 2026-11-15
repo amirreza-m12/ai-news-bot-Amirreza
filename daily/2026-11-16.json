@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-16",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "نقش هوش مصنوعی در حل یک معمای فیزیک ذرات",
+      "source": "openai.com",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی کیف پول چت‌جی‌پی‌تی برای خرید امن",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۲۴ میلیون دلاری استارتاپ هندی Bharat Semi",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    }
+  ]
+}
