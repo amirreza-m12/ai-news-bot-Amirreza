@@ -309,6 +309,27 @@
       "link": "https://www.unite.ai/databricks-publishes-tabular-foundation-model-guide-for-ai-runtime/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ابزار جدید OpenAI برای شناسایی دیپ‌فیک‌های کودکان",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۱۱۰ میلیون دلاری نوری برای هوش مصنوعی خودکار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/noeri-raises-110m-to-build-self-improving-ai-for-enterprises/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه میلیونی برای توسعه سلول‌های مجازی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/infevo-raises-over-rmb-100m-pre-a-to-expand-ai-virtual-cell-research/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
