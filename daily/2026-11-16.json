@@ -288,6 +288,27 @@
       "link": "https://www.unite.ai/nvidia-launches-nemotron-for-science-and-open-chemistry-dataset/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "قرارداد بزرگ تنسورویو با OpenAI برای پردازنده‌های AMD",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tensorwave-signs-six-year-openai-deal-for-amd-powered-ai-capacity/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "چالش کنترل هوش مصنوعی و دور زدن سیستم‌های نظارتی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "راهنمای جدید دیتابریکس برای مدل‌های جدول‌بندی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/databricks-publishes-tabular-foundation-model-guide-for-ai-runtime/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
