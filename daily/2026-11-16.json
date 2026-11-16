@@ -92,6 +92,27 @@
       "link": "https://www.unite.ai/sas-and-posit-integrate-tools-for-auditable-ai-in-clinical-research/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی نسخه جدید Handoff²؛ عامل کامپیوتری فوق‌سریع",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ثبت رکورد جدید در پردازش کوانتومی توسط شرکت Moth",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/moths-tessa-encodes-and-recovers-1-568-values-on-a-120-qubit-chip/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "ماهواره جدید آیسی با پردازشگر هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/iceye-introduces-gen5-radar-satellite-with-onboard-ai-processor/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
