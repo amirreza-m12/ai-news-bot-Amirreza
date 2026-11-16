@@ -260,6 +260,34 @@
       "link": "https://www.unite.ai/google-finds-attackers-using-fully-autonomous-exploit-pipelines/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "همکاری انویدیا، آی‌بی‌ام و فرمی‌لب در کامپیوتر کوانتومی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-ibm-and-fermilab-plan-modular-quantum-computing-platform/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "نظارت آپولو ریسرچ بر مدل‌های هوش مصنوعی OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apollo-research-to-embed-six-evaluators-in-openai-subversion-pilot/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ابزار هک آرتمیکس؛ نفوذ در کمتر از سه ساعت!",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "انویدیا «نِموترون» را برای پژوهش‌های علمی عرضه کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-launches-nemotron-for-science-and-open-chemistry-dataset/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
