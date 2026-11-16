@@ -43,6 +43,27 @@
       "link": "https://www.unite.ai/ai-guided-echocardiography-shows-high-yield-in-controlled-studies/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "چالش‌های عرضه اولیه سهام آنتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/experts-question-anthropics-ipo-safeguards-for-public-benefit/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "همکاری سامبانووا و اینتل در پردازش هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sambanova-pairs-intel-gpus-with-sn50-for-air-cooled-ai-inference/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "جذب ۶ میلیون یورو سرمایه توسط دیسی‌تونر",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/daisytuner-raises-6m-seed-to-expand-daisyflow-and-compiler-technology/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
