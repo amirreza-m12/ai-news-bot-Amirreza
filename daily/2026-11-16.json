@@ -134,6 +134,27 @@
       "link": "https://openai.com/index/lvmh-media-division-partnership",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "جهش ۹۴ درصدی درآمد کلاد بایو، با وجود افت کلی فروش",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/baidus-ai-cloud-infra-revenue-jumps-94-as-total-sales-slip-1/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "امنیت زنجیره تأمین نرم‌افزار و حاکمیت دیجیتال",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/podcasts/company-closer-digital-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "هوش مصنوعی خودمختار در سیستم‌های حیاتی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/utility-governed-autonomous-intelligence-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
