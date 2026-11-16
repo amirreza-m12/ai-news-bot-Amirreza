@@ -176,6 +176,27 @@
       "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "قرارداد ۱۰۳ میلیون دلاری کوروکس با تراشه‌های بلک‌ول انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/corvex-signs-three-year-blackwell-deal-for-ai-inference-platform/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "یافتن باگ‌های خطرناک با هوش مصنوعی فقط با ۴ دلار!",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ادغام پرونده‌های پزشکی با هوش مصنوعی ClinicalKey",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/elsevier-brings-patient-record-context-into-clinicalkey-ai/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
