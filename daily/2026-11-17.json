@@ -365,6 +365,34 @@
       "link": "https://www.unite.ai/meta-launches-muse-ai-agent-in-australia-with-local-connectors/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل‌های جدید و پیشرفته GPT-6.2 آسترا و سول",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "مایکروسافت از مدل‌های برنامه‌نویسی جدید رونمایی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-ai-releases-mai-code-2-and-mai-code-2-flash-for-enterprises/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "تبدیل هوش مصنوعی Spark گوگل به ابزار رایگان Tasks",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "درخشش هوش مصنوعی Astra در حوزه حقوقی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
     }
   ]
 }
