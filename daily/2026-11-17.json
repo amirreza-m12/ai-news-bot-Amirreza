@@ -260,6 +260,27 @@
       "link": "https://www.unite.ai/genesis-ai-raises-500m-series-a-to-accelerate-robot-deployment/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "معرفی مدل قدرتمند Qwen4-Max توسط علی‌بابا",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "جذب سرمایه ۴۰۰ میلیون دلاری ساینس کورپوریشن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/science-corporation-raises-400m-series-d-to-expand-prima-access/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری هاگ‌فیس و اوپن‌روتر برای اجرای آسان مدل‌ها",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/openrouter",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
