@@ -295,6 +295,27 @@
       "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "همکاری المنتل پاور و گوگل برای ساخت ابزار اتمی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/elementl-power-builds-gemini-based-tools-for-nuclear-project-planning/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تحقیق وزارت دادگستری آمریکا درباره شرکت مگاسپید",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری ۱.۱ میلیارد یوانی بویان برای هوش مصنوعی صنعتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/boyuan-capital-closes-rmb-1-1b-fund-ii-to-back-industrial-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
