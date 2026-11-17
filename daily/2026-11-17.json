@@ -337,6 +337,34 @@
       "link": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
       "category": "محصولات و شرکت‌ها",
       "importance": 7
+    },
+    {
+      "title": "عرضه مدل هوش مصنوعی GPT-6.2 Astra توسط OpenAI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/",
+      "category": "مدل‌های جدید",
+      "importance": 10
+    },
+    {
+      "title": "مایکروسافت ابتکار شفافیت هوش مصنوعی را کلید زد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-launches-ai-transparency-initiative-for-enterprise-agents/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "مایکروسافت و سیلزفورس «کوپایلوت‌فورس» را معرفی کردند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/microsoft-and-salesforce-introduce-copilotforce-for-ai-sales-workflows/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "متا ایجنت هوش مصنوعی Muse را در استرالیا راه‌اندازی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-launches-muse-ai-agent-in-australia-with-local-connectors/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
