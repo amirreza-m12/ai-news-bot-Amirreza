@@ -134,6 +134,27 @@
       "link": "https://www.infoq.com/news/2026/11/google-sre-book-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "راه‌اندازی توکن فکتوری سروام در هند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sarvam-opens-india-hosted-token-factory-for-open-weight-models/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "استارتاپ امنیت سایبری کورما تک‌شرحه‌ای شد",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "انویدیا ابزارهای مدیریت کوبرنتیز را متن‌باز کرد",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
