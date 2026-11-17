@@ -29,6 +29,27 @@
       "link": "https://www.unite.ai/cerebras-releases-tungsten-for-high-level-wafer-scale-programming/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "چرا یادگیری ریاضی در عصر هوش مصنوعی مهم است؟",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "معرفی معماری جدید هوش مصنوعی توسط MiTAC در SC26",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mitac-proposes-two-server-ai-inference-architecture-at-sc26/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "رونمایی شرکت سیبر از دستیار مسافرتی هوشمند گروک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sabre-announces-grok-bot-travel-connector-and-proactive-agentic-apis/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
