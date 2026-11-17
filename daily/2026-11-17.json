@@ -50,6 +50,27 @@
       "link": "https://www.unite.ai/sabre-announces-grok-bot-travel-connector-and-proactive-agentic-apis/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "محدودیت جدید آمریکا بر دسترسی چین به تراشه‌های هوش مصنوعی",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "نظارت بر رفتارهای پنهانکارانه مدل‌های هوش مصنوعی",
+      "source": "techcrunch.com",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "افزایش تولید سرورهای هوش مصنوعی ایسوس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/asus-increases-vera-rubin-nvl72-output-for-rack-scale-ai-deployments/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
