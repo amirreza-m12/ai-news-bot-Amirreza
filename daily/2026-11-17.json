@@ -316,6 +316,27 @@
       "link": "https://www.unite.ai/boyuan-capital-closes-rmb-1-1b-fund-ii-to-back-industrial-ai/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "آمادگی جنسن هوانگ برای بازگشت به مدیرعاملی انویدیا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "پرپلکسیتی قابلیت Multiagent را معرفی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/perplexity-launches-multiagent-to-coordinate-frontier-ai-models/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تعیین محدودیت روزانه و هزینه برای استفاده از سیری",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
