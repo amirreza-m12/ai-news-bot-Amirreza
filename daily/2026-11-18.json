@@ -309,6 +309,34 @@
       "link": "https://openai.com/index/the-silent-consensus",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "نسخه جدید مدل هوش مصنوعی جینی ۴ منتشر شد",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "میکروبات پرنده‌ی MIT بدون نیاز به سیستم خارجی پرواز کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/mit-microrobot-flies-without-motion-capture-using-onboard-sensors/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "سیستم Brain در پرپلكسیتی مهارت‌های هوش مصنوعی می‌سازد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/perplexity-brain-creates-and-updates-agent-skills-from-experience/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "سال ۲۰۲۶؛ اوج دعواهای حقوقی دنیای فناوری",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
