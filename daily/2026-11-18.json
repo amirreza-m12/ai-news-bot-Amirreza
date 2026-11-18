@@ -267,6 +267,27 @@
       "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "پیشرفت چشمگیر در طراحی تراشه با هوش مصنوعی OpenAI",
+      "source": "openai.com",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "اجرای مدل غول‌پیکر ۱۸۰ میلیارد پارامتری روی رم ۳۲ گیگابایتی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "اولین نشست انویدیا بدون جنسن هوانگ",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
