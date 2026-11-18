@@ -211,6 +211,13 @@
       "link": "https://www.unite.ai/vero-security-raises-11m-seed-to-expand-ai-security-platform/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "مدل صوتی جدید و متن‌باز Rumble-2-Flash",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
