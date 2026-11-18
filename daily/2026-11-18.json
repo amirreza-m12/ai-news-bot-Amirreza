@@ -71,6 +71,27 @@
       "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "معرفی مدل جستجوی هوشمند SID-2 با حالت گروهی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "اضافه شدن حالت کدنویسی به کلود کد آنتروپیک",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "انتقادهای تند به اظهارات سیاسی مدیرعامل انویدیا",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 5
     }
   ]
 }
