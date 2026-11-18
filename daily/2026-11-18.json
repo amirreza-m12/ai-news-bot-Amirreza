@@ -92,6 +92,27 @@
       "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 5
+    },
+    {
+      "title": "اتاق جنگ برای بازگشت جنسن هوانگ به انویدیا",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری اوپن‌آی‌اس با روزنامه فرانسوی فیگارو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-to-surface-le-figaro-reporting-in-chatgpt-partnership/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "قابلیت جدید آمازون برای اتصال امن شبکه‌های ابری",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-privatelink-tunnel-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
