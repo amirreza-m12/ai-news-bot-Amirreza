@@ -50,6 +50,27 @@
       "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "موضع قاطع هیئت‌مدیره انویدیا درباره جنسن هوانگ",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "خداحافظی با جمینای جِمز و سلام به قابلیت‌های جدید گوگل",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "بررسی و رفع ابهام از نگهداری داده در هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
