@@ -134,6 +134,27 @@
       "link": "https://www.unite.ai/synthesia-adds-ai-video-creation-and-editing-to-claude-chats/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "انقلاب اپلیکیشن‌ها؛ ساخت نرم‌افزار با زبان ساده",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/vibe-coded-personal-apps-vs-production-software/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "سونو امکان ساخت ویدیو برای آهنگ‌های هوش مصنوعی را فراهم کرد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تاییدیه ژاپن برای نرم‌افزار هوش مصنوعی SubtleHD",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/subtle-medical-secures-japan-clearance-for-subtlehd-ai-software/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
