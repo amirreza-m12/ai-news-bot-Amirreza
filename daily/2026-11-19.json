@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-19",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل جمنای ۴ نئون توسط گوگل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-launches-gemini-4-neon-for-coding-knowledge-work-and-science/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "معرفی جمنای ۴ نئون توسط گوگل",
+      "source": "deepmind.google",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "خرید ۴.۵ میلیارد دلاری شرکت Applied Compute توسط پال آلتو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/palo-alto-networks-reaches-4-5b-agreement-for-applied-compute/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    }
+  ]
+}
