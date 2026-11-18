@@ -169,6 +169,27 @@
       "link": "https://www.unite.ai/humyn-labs-secures-47m-series-a-for-real-world-robotics-data/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "مایکروسافت قابلیت شخصی‌سازی هوش مصنوعی را عرضه کرد",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "معرفی لایه متنی استاربرست برای هوش مصنوعی سازمانی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/starburst-introduces-enterprise-context-layer-for-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "رونمایی اوراکل از ایجنت‌های هوش مصنوعی برای آزمایش‌های بالینی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/oracle-introduces-ai-agents-to-coordinate-clinical-trial-operations/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
