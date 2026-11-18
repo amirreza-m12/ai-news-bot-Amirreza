@@ -190,6 +190,27 @@
       "link": "https://www.unite.ai/oracle-introduces-ai-agents-to-coordinate-clinical-trial-operations/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "بازی جدید خالق سیمز با هوش مصنوعی خاطرات شما را می‌سازد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "گسترش هوش مصنوعی محلی با کامپیوترهای جمع‌وجور انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-expands-rtx-spark-to-compact-desktops-for-always-on-local-ai/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۱۱ میلیون دلاری ورو سکوریتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/vero-security-raises-11m-seed-to-expand-ai-security-platform/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
