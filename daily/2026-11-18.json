@@ -218,6 +218,27 @@
       "link": "https://huggingface.co/blog/rumble-2-flash",
       "category": "مدل‌های جدید",
       "importance": 7
+    },
+    {
+      "title": "فراموشی توقف توسعه هوش مصنوعی توسط شرکت‌های تراشه‌سازی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "راکول اتومیشن شرکت AGILOX را خرید",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/rockwell-automation-agrees-to-buy-agilox-for-ai-driven-logistics/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "ربات‌های پیشرفته جنگ ستارگان با همکاری دیزنی و AWS",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/disney-introduces-autonomous-star-wars-audio-animatronics-with-aws/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
