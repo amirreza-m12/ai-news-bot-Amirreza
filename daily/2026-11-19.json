@@ -50,6 +50,34 @@
       "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "شتاب در تحقیق با هوش مصنوعی: مرزهای ناهموار",
+      "source": "openai.com",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "پژوهش و تحقیقات",
+      "importance": 9
+    },
+    {
+      "title": "بزرگترین مدارس آمریکا به دنبال جایگزین گوگل",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ربات‌های جدید جنگ ستارگان دیزنی با هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "مدیریت ریسک‌های هوش مصنوعی پیشرفته در اوپن‌آی",
+      "source": "openai.com",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
