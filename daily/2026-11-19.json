@@ -92,6 +92,27 @@
       "link": "https://www.infoq.com/news/2026/11/NetWasm-0-10-Faster/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "جذب بیش از ۱۰۰ میلیون دلار سرمایه برای ایمیژن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/imagen-raises-over-100m-in-growth-capital-for-radiologists-and-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "مقابله با حملات سایبری در عصر هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "استفاده از هوش مصنوعی از خاطرات شما در بازی جدید",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
     }
   ]
 }
