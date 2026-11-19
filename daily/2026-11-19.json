@@ -288,6 +288,34 @@
       "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "نسخه ۹.۲ والکی با کش توزیع‌شده برای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/valkey-9-2-launches-with-distributed-kv-caching-for-ai-inference/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "مداخله خطرناک هوش مصنوعی متا در حریم خصوصی",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "پروژه غول‌پیکر دیتاسنتر ۴۴۴ مگاواتی استاکلند در سیدنی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/stocklands-444-mw-sydney-data-center-plan-enters-public-review/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی پرپلکسیتی از API جدید برای مدیریت هوش مصنوعی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
