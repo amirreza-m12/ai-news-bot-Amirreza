@@ -239,6 +239,27 @@
       "link": "https://www.unite.ai/oliver-wyman-to-acquire-synpulse-for-ai-and-technology-consulting/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "هوش مصنوعی باگ‌ها را سریع‌تر پیدا می‌کند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-is-finding-vulnerabilities-at-warp-speed-fixing-them-is-a-whole-other-story/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "قانون هوش مصنوعی اتحادیه اروپا شامل ایجنت‌ها می‌شود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/how-the-eu-ai-act-regulates-agentic-ai/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "استفاده شرکت کوچ از ایجنت‌های هوش مصنوعی HappyRobot",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/koch-tests-happyrobot-ai-agents-for-recruiting-and-hr-support/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
