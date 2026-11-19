@@ -260,6 +260,34 @@
       "link": "https://www.unite.ai/koch-tests-happyrobot-ai-agents-for-recruiting-and-hr-support/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ورود آنتروپیک به بورس وال‌استریت",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 10
+    },
+    {
+      "title": "دسترسی توسعه‌دهندگان به نسل جدید هوش مصنوعی جنی ۴ گوگل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-opens-genie-4-world-generation-to-gemini-api-developers/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "قابلیت جذاب کنترل رایانه به جمنای در مک اضافه شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-adds-computer-use-to-gemini-on-mac-for-multi-step-tasks/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "اینترنت موازی گوگل برای آموزش ایمن هوش مصنوعی کروم",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
