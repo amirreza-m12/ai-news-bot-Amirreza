@@ -22,6 +22,34 @@
       "link": "https://www.unite.ai/palo-alto-networks-reaches-4-5b-agreement-for-applied-compute/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 8
+    },
+    {
+      "title": "پشتیبانی از آموزش کامل مدل‌ها در سیج‌میکر آمازون",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/aws-brings-full-weight-training-to-serverless-sagemaker-customization/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پرپلکسیستی؛ دستیارهای صوتی هوش مصنوعی روی موبایل",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/perplexity-brings-voice-controlled-ai-teammates-to-mobile/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "حمایت مدیرعامل مایکروسافت از تیم انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nadella-backs-nvidia-team-led-by-interim-ceo-colette-kress/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "تشدید جنگ تراشه‌های هوش مصنوعی آمریکا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
