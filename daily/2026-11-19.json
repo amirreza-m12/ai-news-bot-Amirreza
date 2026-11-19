@@ -218,6 +218,27 @@
       "link": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "قابلیت دیکته زنده برای چت‌جی‌پی‌تی عرضه شد",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "لنگ‌چین از ابزار LangSmith برای مدیریت ایجنت‌ها رونمایی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/langchain-launches-langsmith-tool-gateway-to-govern-agent-tool-calls/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "خرید شرکت سین‌پالس توسط اولیور وایمن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/oliver-wyman-to-acquire-synpulse-for-ai-and-technology-consulting/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
