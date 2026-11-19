@@ -155,6 +155,27 @@
       "link": "https://www.unite.ai/isomorphic-labs-and-msd-partner-on-ai-oncology-drug-discovery/",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "جزئیات بسته هوش مصنوعی سیلزفورس برای صادرات آمریکا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/salesforce-details-sovereign-si-package-for-u-s-export-program/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "پرتاب ماهواره‌های هوش مصنوعی گوگل با بلورجین",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-plans-orbital-ai-satellite-launch-on-blue-origins-new-glenn/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "نقش مهندسین ارشد در عصر هوش مصنوعی در کنفرانس QCon",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
