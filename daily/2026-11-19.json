@@ -197,6 +197,27 @@
       "link": "https://www.unite.ai/ai-marketing-in-2027-brands-will-compete-to-be-chosen-by-ai-assistants/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "عرضه اولیه تاریخی آنتروپیک در بورس",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 9
+    },
+    {
+      "title": "همکاری اوپن‌آی‌ال با روزنامه فرانسوی ل فیگارو",
+      "source": "openai.com",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "نقش هوش مصنوعی در تحویل نرم‌افزار",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/ai-assisted-software-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
