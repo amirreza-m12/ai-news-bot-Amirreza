@@ -113,6 +113,27 @@
       "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "رشد هوش مصنوعی و دوبرابر شدن مصرف برق دیتاسنترها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/iea-scenario-links-ai-growth-to-doubling-of-data-center-power-use/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "انتشار دات‌نت ۱۱ با قابلیت‌های هوش مصنوعی برای بلیزور",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/asp-net-11-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ساخت مرکز داده ۳۵۰ مگاواتی هوش مصنوعی در تگزاس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/chronoscale-plans-350-mw-ai-data-center-campus-with-stn-in-odessa/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
