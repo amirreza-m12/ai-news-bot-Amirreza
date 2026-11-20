@@ -190,6 +190,27 @@
       "link": "https://www.unite.ai/alphabet-raises-c-6b-across-four-fixed-rate-canadian-note-series/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "پیشنهاد لاگارد برای جذب سرمایه هوش مصنوعی در اروپا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/lagarde-urges-eu-funds-to-take-first-losses-on-ai-infrastructure/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "چالش حافظه در هوش مصنوعی؛ عبور از حجم به سوی درک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-in-2027-memory-will-become-the-next-test-of-machine-intelligence/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
+    },
+    {
+      "title": "هفته‌ای که دنیای فناوری از هم پاشید",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
