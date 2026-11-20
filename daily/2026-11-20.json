@@ -169,6 +169,27 @@
       "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "همکاری داناهر و مایکروسافت برای آزمایشگاه‌های هوشمند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/danaher-partners-with-microsoft-on-agentic-lab-instrument-platform/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
+    },
+    {
+      "title": "معرفی آداپتورهای هارنس برای بهینه‌سازی مدل‌های هوش مصنوعی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "آلفابت ۶ میلیارد دلار اوراق قرضه منتشر کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/alphabet-raises-c-6b-across-four-fixed-rate-canadian-note-series/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
