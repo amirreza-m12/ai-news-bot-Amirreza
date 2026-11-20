@@ -302,6 +302,27 @@
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "معرفی MedChemBench توسط OpenAI برای شیمی دارویی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-introduces-medchembench-for-medicinal-chemistry-reasoning/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "تهدید ترامپ به مالیات سنگین برای دیتاسنترهای خارج از آمریکا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "مقابله هوشمند اوپن‌ای‌آی با تقلب مدل‌ها",
+      "source": "openai.com",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
     }
   ]
 }
