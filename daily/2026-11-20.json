@@ -92,6 +92,27 @@
       "link": "https://www.unite.ai/asian-markets-slide-as-anthropics-debut-fails-to-lift-ai-stocks/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 7
+    },
+    {
+      "title": "قیمت ۳۰۰ دلاری گجت جدید هوش مصنوعی متا",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 8
+    },
+    {
+      "title": "نسخه ۴ آپاچی آیس‌برگ و آینده مدیریت داده",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "افزایش پایداری ابری با قابلیت مشاهده‌پذیری",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
