@@ -71,6 +71,20 @@
       "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "عرضه شبیه‌ساز محلی آمازون که کاملاً با هوش مصنوعی ساخته شد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "نوجوان ۱۶ ساله استارتاپ موشک هوش مصنوعی تاسیس کرد",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
