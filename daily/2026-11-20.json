@@ -50,6 +50,27 @@
       "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "اپل به دنبال ساخت ایجنت هوش مصنوعی برای مک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/apple-job-listing-points-to-early-development-of-a-mac-ai-agent/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "معرفی پلاگین امنیتی کدکس",
+      "source": "openai.com",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "آشنایی با پلتفرم Daybreak Blue",
+      "source": "openai.com",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
