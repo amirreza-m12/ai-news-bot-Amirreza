@@ -113,6 +113,27 @@
       "link": "https://www.infoq.com/articles/observability-control-plane-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "مخالفت مردمی با ساخت پردیس هوش مصنوعی آنتروپیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-anchored-ai-campus-draws-595-objections-or-delay-requests/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "اولین راهنمای جامع هوش مصنوعی برای بخش خدمات اجتماعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/uk-departments-issue-first-cross-sector-ai-guidance-for-social-care/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "جذب سرمایه ۱۰ میلیون دلاری آرچر برای هوش مصنوعی استخدام",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/archer-raises-10m-to-expand-ai-tools-for-candidates-and-recruiters/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
