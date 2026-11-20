@@ -239,6 +239,27 @@
       "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "ادعای حل فرضیه ریمان با کمک هوش مصنوعی کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/levent-alpoges-unverified-riemann-claim-puts-claudes-lean-code-in-focus/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "مقیاس‌پذیری امنیت با هوش مصنوعی؛ چه چیزی بزرگ می‌شود؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-agents-enterprise-security-investigations/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "گفت‌وگو با برد واردل، مدیرعامل کلرواینس هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/brad-wardell-founder-and-ceo-of-clairvoyance-ai-interview-series/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
