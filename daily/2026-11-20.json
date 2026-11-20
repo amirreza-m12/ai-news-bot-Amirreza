@@ -155,6 +155,20 @@
       "link": "https://www.unite.ai/mas-sets-out-know-your-agent-protocol-and-sg-digital-ledger-plans/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "هدیه بزرگ گوگل به بنیاد CNCF برای امنیت ایجنت‌ها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "انتقام در اینستاگرام با هوش مصنوعی متا!",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
