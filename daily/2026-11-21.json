@@ -85,6 +85,13 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "ریشه‌یابی قطعی API کوبرنتیز گوگل توسط باگ لینوکس",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
