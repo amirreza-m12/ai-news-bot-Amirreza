@@ -120,6 +120,27 @@
       "link": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "حکمرانی هوش مصنوعی در ۲۰۲۷: مسئولیت‌پذیری در جریان کار",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-governance-in-2027-accountability-moves-into-the-workflow/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "انتشار گرافانا ۱۳.۳ با قابلیت‌های جدید",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
+    },
+    {
+      "title": "گسترش قلمرو Chess.com با بازی‌های کلاسیک",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 3
     }
   ]
 }
