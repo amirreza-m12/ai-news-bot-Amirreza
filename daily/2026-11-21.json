@@ -57,6 +57,27 @@
       "link": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
       "category": "مدل‌های جدید",
       "importance": 8
+    },
+    {
+      "title": "حل یکی از سخت‌ترین مسائل ریاضی با کمک هوش مصنوعی کلود",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "category": "پژوهش و تحقیقات",
+      "importance": 10
+    },
+    {
+      "title": "نقش هوش مصنوعی در کشف داروهای جدید",
+      "source": "openai.com",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل اینکلینگ ۲ مینی برای پردازندگان محلی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/inkling2mini",
+      "category": "مدل‌های جدید",
+      "importance": 7
     }
   ]
 }
