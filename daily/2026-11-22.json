@@ -127,6 +127,27 @@
       "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "معرفی مدل جدید انویدیا برای خودروهای خودران",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "عرضه مدل هوش مصنوعی Sarvam-105B برای شرکت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/sarvam-ai-releases-open-weight-105b-checkpoint-for-enterprise-agents/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "تراشه AI5 تسلا انحصاراً برای ربات اپتیموس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/musk-allocates-ai5-to-optimus-leaving-tesla-cars-on-ai4/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
