@@ -57,6 +57,27 @@
       "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "محدودیت‌های سخت‌گیرانه آنتروپیک برای عرضه اولیه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-sought-limits-on-ipo-deal-teams-and-work-with-rivals/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "درز اطلاعات محرمانه در ابزار کلود کد",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "ممنوعیت ربات‌های هوش مصنوعی در بانک‌های آمریکایی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
     }
   ]
 }
