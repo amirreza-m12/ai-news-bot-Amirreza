@@ -15,6 +15,20 @@
       "link": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "معرفی موتور پردازش ایجنت گوگل برای امنیت هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پشتیبانی آمازون لامبدا از استنتاج پردازنده گرافیکی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
