@@ -78,6 +78,20 @@
       "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
       "category": "قوانین و اخلاق",
       "importance": 7
+    },
+    {
+      "title": "اثبات فرضیه ریمان با کمک هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 10
+    },
+    {
+      "title": "چالش‌های آنتروپیک در اولویت‌بندی ایمنی هوش مصنوعی",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
