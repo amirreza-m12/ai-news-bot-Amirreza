@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-22",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی تنسورلین برای بررسی صحت کدهای پردازنده‌های گرافیکی",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "حذف سه ارائه‌دهنده توسط اوپن‌روتر پس از افشای پرامپت‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    }
+  ]
+}
