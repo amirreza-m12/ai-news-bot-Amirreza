@@ -253,6 +253,27 @@
       "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
       "category": "محصولات و شرکت‌ها",
       "importance": 8
+    },
+    {
+      "title": "آمازون از مدل‌های جدید هوش مصنوعی برای برنامه‌نویسی رونمایی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/aws-releases-strands-decider-v2-and-sandboxes-more-coding-agents/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "قابلیت جدید گوگل برای بهینه‌سازی فایل‌ها در جمنای",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-adds-file-slicing-and-native-office-support-to-gemini-api/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "شکایت اورگان و ویرجینیا از اسپیس‌ایکس به خاطر دیپ‌فیک‌های گروک",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
