@@ -141,6 +141,27 @@
       "link": "https://www.infoq.com/news/2026/11/claude-code-mode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 8
+    },
+    {
+      "title": "آیا هوش مصنوعی می‌تواند حمله تروریستی طراحی کند؟",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "جذب سرمایه ۲۷۷ میلیون دلاری مارلو برای ساخت کارخانه‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/marlowe-raises-277m-seed-to-build-multi-silicon-ai-factories/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "همکاری انویدیا با شرکت رابط مغز و رایانه",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 7
     }
   ]
 }
