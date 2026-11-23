@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-23",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "معرفی مدل اینکلینگ ۲ مینی؛ هوش مصنوعی قدرتمند روی مک",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "category": "مدل‌های جدید",
+      "importance": 9
+    },
+    {
+      "title": "هارنس هوش مصنوعی؛ سیستم‌عامل جدید دنیای فناوری",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "روش جدید برای پیش‌بینی دقیق‌تر سیستم‌های آشوبناک با هوش مصنوعی",
+      "source": "news.mit.edu",
+      "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    }
+  ]
+}
