@@ -50,6 +50,27 @@
       "link": "https://www.unite.ai/aws-makes-bedrock-trusted-access-program-api-generally-available/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "ساخت محصول ۱۰۰ میلیون دلاری OpenAI در ۶ هفته با عوامل هوش مصنوعی",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "متا دستیار هوش مصنوعی Muse را در بریتانیا عرضه کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/meta-brings-muse-personal-ai-agent-to-uk-with-purchase-controls/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 7
+    },
+    {
+      "title": "کلود کدهای شما را خودش می‌نویسد و ارسال می‌کند!",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
