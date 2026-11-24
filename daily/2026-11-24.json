@@ -253,6 +253,27 @@
       "link": "https://www.unite.ai/tidal-to-remove-29-million-wholly-ai-generated-songs-from-catalog/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "قابلیت‌های جدید به کلود اضافه شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-brings-server-supplied-skills-and-background-tasks-to-claude/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "رونمایی Epochal از «تایم پورتال» برای تست پیش‌بینی هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/epochal-launches-time-portal-to-test-forecasting-ai-on-web-history/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "مقیاس‌گذاری ایجنت‌های کدنویسی در آی‌فود",
+      "source": "openai.com",
+      "link": "https://openai.com/index/ifood",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
