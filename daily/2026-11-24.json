@@ -29,6 +29,27 @@
       "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
       "category": "پژوهش و تحقیقات",
       "importance": 8
+    },
+    {
+      "title": "راه‌اندازی سیستم امنیت کد DXC با کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/dxc-launches-frontier-code-assurance-with-claude-mythos/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "انتقاد نمایندگان آمریکا از بازگشت مدیرعامل انویدیا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/lawmakers-demand-oversight-after-nvidia-reinstates-jensen-huang/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "عرضه عمومی API دسترسی مطمئن آمازون بیدرک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/aws-makes-bedrock-trusted-access-program-api-generally-available/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
