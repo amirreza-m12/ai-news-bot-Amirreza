@@ -197,6 +197,27 @@
       "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 5
+    },
+    {
+      "title": "تله آنتروپیک برای مهار خطای ایجنت‌های هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "هشدار نیویورک تایمز به عکاسان درباره فتوشاپ جدید",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "چرا هزینه‌های میلیونی هوش مصنوعی نتیجه نمی‌دهد؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/enterprise-ai-roi-operational-expertise/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
     }
   ]
 }
