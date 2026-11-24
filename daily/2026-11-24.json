@@ -148,6 +148,27 @@
       "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
       "category": "اخبار هوش مصنوعی",
       "importance": 5
+    },
+    {
+      "title": "خرید بوست.ای توسط اتومیشن ان‌وریر برای خدمات مشتریان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/automation-anywhere-closes-boost-ai-deal-to-automate-customer-service/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "آغاز تست تاکسی‌های خودران نورو در خلیج سان فرانسیسکو",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nuro-begins-driverless-lucid-gravity-robotaxi-tests-in-bay-area/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 8
+    },
+    {
+      "title": "همکاری آمبارلا و سیگما برای تجاری‌سازی هوش مصنوعی لبه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ambarella-teams-with-sigma-connectivity-to-industrialize-edge-ai/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
