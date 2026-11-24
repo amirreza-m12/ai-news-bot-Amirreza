@@ -176,6 +176,27 @@
       "link": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
       "category": "اخبار هوش مصنوعی",
       "importance": 5
+    },
+    {
+      "title": "بزرگترین ریسک هوش مصنوعی عامله چیست؟",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/enterprise-ai-agent-governance-process-context/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "راه‌اندازی کانال مشاوره‌ای گری وی با آواتار هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/gary-vaynerchuk-launches-daily-ai-avatar-advice-channel-with-heygen/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
+    },
+    {
+      "title": "فشار هوش مصنوعی عامل بر روی شبکه‌های سازمانی",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 5
     }
   ]
 }
