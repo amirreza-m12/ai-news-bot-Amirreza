@@ -127,6 +127,27 @@
       "link": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 6
+    },
+    {
+      "title": "ورود شرکت FrenchFry به بورس ناسداک با قرارداد SPAC",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/frenchfry-targets-nasdaq-listing-through-tavia-spac-deal/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "جذب سرمایه ۱۲ میلیون دلاری استارتاپ Matters.AI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/matters-ai-raises-12m-pre-series-a-led-by-tanglin-venture-partners/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
+    },
+    {
+      "title": "استفاده هکرها از هوش مصنوعی برای کشف آسیب‌پذیری",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "category": "اخبار هوش مصنوعی",
+      "importance": 5
     }
   ]
 }
