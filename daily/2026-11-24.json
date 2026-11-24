@@ -225,6 +225,34 @@
       "link": "https://www.unite.ai/evaluating-agentic-ai-supply-chain-planning/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "پاکسازی تایدل از آثار هوش مصنوعی با حذف ۲۷ میلیون آهنگ",
+      "source": "arstechnica.com",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "قوانین جدید گوگل برای دستیارهای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/google-requires-workspace-ai-agents-to-use-managed-interfaces/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "پیشرفت چشمگیر داروی ضدسرطان پروستات ساخته شده با هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/peptone-advances-ai-developed-prostate-cancer-candidate-and-names-cso/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "پاکسازی تایدال از موسیقی‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/tidal-to-remove-29-million-wholly-ai-generated-songs-from-catalog/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
     }
   ]
 }
