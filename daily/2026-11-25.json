@@ -71,6 +71,27 @@
       "link": "https://www.unite.ai/certis-partners-with-sutd-to-test-physical-ai-in-live-operations/",
       "category": "پژوهش و تحقیقات",
       "importance": 6
+    },
+    {
+      "title": "ترامپ: مالکیت سهام انویدیا توسط دولت آمریکا بررسی شد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/trump-says-he-considered-u-s-government-stake-in-nvidia/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "ممنوعیت موسیقی‌های هوش مصنوعی در تایدال",
+      "source": "theverge.com",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "افزایش زمان اجرای AWS لامبدا به ۳۰ دقیقه",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
