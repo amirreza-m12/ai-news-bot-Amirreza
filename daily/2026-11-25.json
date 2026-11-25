@@ -295,6 +295,27 @@
       "link": "https://www.unite.ai/fcc-space-bureau-authorizes-spacexs-starmind-with-conditions/",
       "category": "قوانین و اخلاق",
       "importance": 8
+    },
+    {
+      "title": "آغاز تست قابلیت استنتاج خصوصی اوپن‌آی‌سی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/openai-begins-limited-customer-trials-of-alpha-private-inference/",
+      "category": "محصولات و شرکت‌ها",
+      "importance": 9
+    },
+    {
+      "title": "پرپلکسیتی قابلیت ماشین زمان را معرفی کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/perplexity-launches-time-machine-for-point-in-time-web-retrieval/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "تبدیل آرتیفکت‌های کلود به اپلیکیشن دسکتاپ",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
     }
   ]
 }
