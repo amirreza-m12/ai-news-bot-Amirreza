@@ -120,6 +120,27 @@
       "link": "https://www.unite.ai/siemens-expands-industrial-ai-across-planning-and-robot-unpacking/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "معرفی مدل WorldGPT توسط اکسپنگ",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/xpeng-worldgpt-uses-shared-learning-across-cars-robots-and-drones/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "معرفی دستیار صوتی زبان‌های هند با CUGA",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "فشار هوش مصنوعی بر سیستم‌های ثبت اسناد آمریکا",
+      "source": "technologyreview.com",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "category": "قوانین و اخلاق",
+      "importance": 6
     }
   ]
 }
