@@ -183,6 +183,27 @@
       "link": "https://www.unite.ai/warehouse-robotics-sim-to-real-gap/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "راه‌اندازی جستجوی خودکار وب برای ایجنت‌های هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/cloudflare-launches-automatic-website-search-for-ai-agents/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "راه‌اندازی بورد آزمایشگاهی Vercel برای مدیریت ایجنت‌ها",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "جهش ۱۰ برابری سرعت سیستم ارسال سفارشات دورداش",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
