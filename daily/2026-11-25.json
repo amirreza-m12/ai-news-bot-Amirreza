@@ -204,6 +204,27 @@
       "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "رونمایی از مدل‌های هوش مصنوعی بومی چاریوت در هند",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/chariot-launches-sovereign-foundation-models-under-indiaai-mission/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "نقش هوش مصنوعی در تسریع افشای آسیب‌پذیری‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-assisted-security-disclosure-shared-components-patch-delays/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "مهاجرت گیت‌هاب از CSS-in-JS به CSS Modules",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
