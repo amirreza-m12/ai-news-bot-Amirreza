@@ -190,6 +190,27 @@
       "link": "https://www.unite.ai/improving-human-impersonation-as-the-web-closes-up-against-ai/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "ممنوعیت فروش پردازنده‌های انویدیا به اجاره‌دهندگان چینی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/nvidia-gpu-sellers-reject-any-chinese-rental-capacity-cnbc-reports/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "استفاده مانشات AI از مدل‌های گوگل و متا",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/moonshot-ai-begins-distilling-from-google-and-meta-models-amid-delays/",
+      "category": "مدل‌های جدید",
+      "importance": 8
+    },
+    {
+      "title": "ویرایش زنده ویدیوها با هوش مصنوعی در راه است",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-could-soon-edit-live-videos-in-real-time/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
