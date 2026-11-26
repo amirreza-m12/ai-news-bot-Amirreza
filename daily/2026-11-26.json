@@ -162,6 +162,13 @@
       "link": "https://www.unite.ai/robotera-deploys-45-humanoid-robots-at-china-posts-hangzhou-hub/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "راهنمای ساخت و ارزیابی سیستم‌های چندعاملی",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
     }
   ]
 }
