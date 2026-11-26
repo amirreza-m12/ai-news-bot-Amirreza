@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-26",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "هشدار اس‌اندپی به انویدیا درباره چالش‌های مدیریتی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/s-and-p-global-ratings-puts-nvidias-aa-ratings-on-creditwatch/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 8
+    },
+    {
+      "title": "آموزش هوش مصنوعی در فضا توسط آدااسپیس",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/adaspace-completes-45-minute-full-parameter-ai-training-in-orbit/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "اضافه شدن مدل Hy4 Flash تنسنت به فایروورکس AI",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/fireworks-ai-adds-tencents-hy4-flash-to-its-serverless-api/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    }
+  ]
+}
