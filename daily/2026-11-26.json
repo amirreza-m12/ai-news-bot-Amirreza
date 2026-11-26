@@ -127,6 +127,27 @@
       "link": "https://www.unite.ai/watersense-raises-5-75m-in-pre-seed-and-grants-for-ai-water-monitoring/",
       "category": "کسب‌وکار و سرمایه‌گذاری",
       "importance": 6
+    },
+    {
+      "title": "مخالفت متا با آزمایش هوش مصنوعی در بریتانیا",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "category": "قوانین و اخلاق",
+      "importance": 8
+    },
+    {
+      "title": "معرفی داشبورد بنچمارک llama.cpp برای رایزن و رادئون",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "بهبود جستجوی سازمانی با فاین‌تیون مدل‌های امبدینگ",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "پژوهش و تحقیقات",
+      "importance": 7
     }
   ]
 }
