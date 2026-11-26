@@ -169,6 +169,27 @@
       "link": "https://huggingface.co/blog/training-swarms",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "قوانین هوش مصنوعی در ۲۰۲۷؛ یک محصول و چند چالش قانونی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-regulation-in-2027-one-global-product-will-need-multiple-compliance-playbooks/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "سیم‌تک ۳۰۰ میلیارد وون برای توسعه زیرساخت هوش مصنوعی سرمایه‌گذاری کرد",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/simmtech-approves-two-krw-150b-perpetual-bonds-for-ai-substrate-expansion/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "مقابله وب با هوش مصنوعی و چالش شبیه‌سازی انسان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/improving-human-impersonation-as-the-web-closes-up-against-ai/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
