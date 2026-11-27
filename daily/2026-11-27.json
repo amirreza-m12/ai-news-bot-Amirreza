@@ -64,6 +64,27 @@
       "link": "https://www.infoq.com/presentations/sub-100ms-latency-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 5
+    },
+    {
+      "title": "تولید ویدیو با مدل LTX-2.5 روی تراشه Trainium3",
+      "source": "huggingface.co",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "توقف ساخت دیتاسنتر گوگل در بلژیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/greenpeace-reports-construction-halt-at-googles-belgian-data-center/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 6
+    },
+    {
+      "title": "پارادوکس پروتوتایپ در ابزارهای هوش مصنوعی",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/shadow-ai-governance-supply-chain/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
