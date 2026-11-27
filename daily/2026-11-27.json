@@ -92,6 +92,27 @@
       "link": "https://www.unite.ai/truelayer-tests-ai-agent-payments-at-papa-johns-in-the-uk/",
       "category": "کاربرد و زندگی روزمره",
       "importance": 7
+    },
+    {
+      "title": "تایید خودکار کدهای پایتورچ با هوش مصنوعی متا",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 7
+    },
+    {
+      "title": "هوش مصنوعی لبه تا ۲۰۲۷: مزیت اجرای آفلاین مدل‌ها",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/edge-ai-in-2027-running-models-offline-becomes-a-competitive-advantage/",
+      "category": "مدل‌های جدید",
+      "importance": 7
+    },
+    {
+      "title": "ابزار جدید نتفلیکس برای بررسی تغییرات API",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/netflix-quasar-api-impact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 6
     }
   ]
 }
