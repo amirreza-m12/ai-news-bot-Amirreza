@@ -29,6 +29,27 @@
       "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "تراشه نوری جدید برای کاهش مصرف انرژی هوش مصنوعی",
+      "source": "wired.com",
+      "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "category": "پژوهش و تحقیقات",
+      "importance": 8
+    },
+    {
+      "title": "همکاری موزیلا و میسترال برای هوش مصنوعی فایرفاکس",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "سرمایه‌گذاری میلیونی نورا رباتیکز در آراگون",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/neura-robotics-plans-aragon-physical-ai-gym-and-model-zone/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
     }
   ]
 }
