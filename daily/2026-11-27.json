@@ -127,6 +127,27 @@
       "link": "https://www.unite.ai/a-world-model-to-predict-what-youll-look-at-next/",
       "category": "پژوهش و تحقیقات",
       "importance": 7
+    },
+    {
+      "title": "سواد هوش مصنوعی؛ حلقه گمشده مقابله با دیپ‌فیک",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-literacy-deepfake-scam-prevention/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "چالش‌های جدید هوش مصنوعی در صنعت بیمه درمان",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/ai-coworkers-healthcare-payer-operations/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 6
+    },
+    {
+      "title": "گفتگو با مدیر ارشد ویو میکر درباره توسعه اپلیکیشن",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/vikram-srivats-cco-head-of-product-experience-at-wavemaker-interview-series/",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 5
     }
   ]
 }
