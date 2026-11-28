@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-28",
+  "summary_sent": false,
+  "items": [
+    {
+      "title": "واکنش آنتروپیک به شایعات درباره هوش مصنوعی کلود",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-denies-training-claude-to-sabotage-users-work/",
+      "category": "قوانین و اخلاق",
+      "importance": 7
+    },
+    {
+      "title": "جهش سهام آنتروپیک بالاتر از قیمت عرضه اولیه",
+      "source": "unite.ai",
+      "link": "https://www.unite.ai/anthropic-shares-close-above-ipo-price-after-two-sessions-below-it/",
+      "category": "کسب‌وکار و سرمایه‌گذاری",
+      "importance": 7
+    },
+    {
+      "title": "تخفیف ۲۸ درصدی دسته پلی‌استیشن ۵",
+      "source": "zdnet.com",
+      "link": "https://www.zdnet.com/home-and-office/playstation-5-dualsense-controller-black-friday-deal/",
+      "category": "کاربرد و زندگی روزمره",
+      "importance": 1
+    }
+  ]
+}
