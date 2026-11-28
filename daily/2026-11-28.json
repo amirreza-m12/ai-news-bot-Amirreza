@@ -36,6 +36,20 @@
       "link": "https://www.infoq.com/news/2026/11/aws-centralized-workforce-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
       "category": "ابزارها و توسعه‌دهندگان",
       "importance": 7
+    },
+    {
+      "title": "معرفی ابزار کلود شیپ برای بررسی خودکار کدهای گیت‌هاب",
+      "source": "feed.infoq.com",
+      "link": "https://www.infoq.com/news/2026/11/anthropic-claude-ship/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "category": "ابزارها و توسعه‌دهندگان",
+      "importance": 8
+    },
+    {
+      "title": "معرفی مدل پزشکی قدرتمند LingSante-3.1-flash",
+      "source": "marktechpost.com",
+      "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "category": "مدل‌های جدید",
+      "importance": 8
     }
   ]
 }
